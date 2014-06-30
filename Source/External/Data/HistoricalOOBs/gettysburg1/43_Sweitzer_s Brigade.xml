@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Sweitzer's Brigade,5,1</do>
+   <c>
+    <dc>5,Jacob,B,Sweitzer,0,2,4,4,4,4,4,(5-3)</dc>
+   </c>
+   <u>
+    <du>452,0,6.4116,9th Massachusetts,,0,0,1.0215,0.7076,1.1425,1.3646,1.0421,1.4999,31,6,0,20202,143,118</du>
+    <c>
+     <dc>6,William,A,Beck,0,4.8076,2.4975,5.1591,5.1106,5.6118,2.5087,</dc>
+    </c>
+   </u>
+   <u>
+    <du>273,0,2.1327,32nd Massachusetts,,0,0,1.0131,1.1362,1.0345,1.1399,1.2861,1.4212,5,9,0,20203,143,118</du>
+    <c>
+     <dc>8,George,K,Diedrick,0,4.1255,5.9583,5.3147,4.3206,3.8161,4.2622,</dc>
+    </c>
+   </u>
+   <u>
+    <du>378,0,6.0393,4th Michigan,,0,0,1.2809,1.1781,1.1327,1.2074,0.7758,1.43,45,12,0,20204,143,124</du>
+    <c>
+     <dc>7,John,L,Stiles,0,5.0789,4.9369,5.8617,3.1427,3.197,5.5506,</dc>
+    </c>
+   </u>
+   <u>
+    <du>467,0,6.4956,62nd Pennsylvania,,0,0,0.786,1.1424,0.7279,1.0979,0.5777,1.1181,45,13,0,20205,143,132</du>
+    <c>
+     <dc>6,Lloyd,,Wolf,0,3.2099,3.1156,5.9049,4.0838,2.7709,4.1349,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

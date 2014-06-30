@@ -1,0 +1,3 @@
+~options
+id,name,tooltip
+opt_reset_mod,Always Enable GCM Mod,If checked the GCM mod will be enabled in SOW each time you start the Launcher.

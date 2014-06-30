@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Griffin's Maryland Battery,5,2</do>
+   <c>
+    <dc>8,William,H,Griffin,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.5123,10lb Parrott,,0,1,4.2034,3.683,4.1065,4.2024,3.7039,4.4495,70,78,0,21080,4,0</du>
+    <c>
+     <dc>10,Bill,C,Johnston,0,4.1555,3.0455,3.2422,2.8069,5.8632,2.3103,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.2712,10lb Parrott,,0,1,4.4308,4.2872,4.101,4.2395,3.7865,4.4045,70,76,0,21081,4,0</du>
+    <c>
+     <dc>15,Jasper,R,McDonald,0,3.039,5.0237,4.2789,5.2604,3.617,2.9871,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5651,10lb Parrott,,0,1,4.1704,3.8685,3.9624,3.908,3.7917,4.264,70,77,0,21082,4,0</du>
+    <c>
+     <dc>10,Jacob,F,Murphy,0,3.7828,3.0819,4.1694,5.58,3.6911,5.2685,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5676,10lb Parrott,,0,1,4.0429,4.4477,4.2854,3.6689,4.3492,3.8958,70,76,0,21083,4,0</du>
+    <c>
+     <dc>15,Stephen,,Page,0,5.6287,3.4133,2.742,2.993,3.2976,2.588,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

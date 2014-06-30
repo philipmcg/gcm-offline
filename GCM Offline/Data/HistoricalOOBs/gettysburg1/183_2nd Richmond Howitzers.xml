@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>2nd Richmond Howitzers,5,2</do>
+   <c>
+    <dc>8,David,,Watson,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.7874,10lb Parrott,,0,1,4.79,5.3159,5.1776,5.267,5.0323,4.5328,70,76,0,20875,4,0</du>
+    <c>
+     <dc>10,Ambrose,W,Robertson,0,2.4745,3.8785,5.1047,5.2764,2.8486,5.7823,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8014,10lb Parrott,,0,1,4.8358,5.1682,4.5948,4.9035,4.5095,4.5357,70,76,0,20876,4,0</du>
+    <c>
+     <dc>16,Calvin,R,Webster,0,4.5985,2.4383,3.0059,5.986,2.409,3.2196,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7161,10lb Parrott,,0,1,5.0457,5.1992,4.8849,4.8141,4.7576,4.7816,70,78,0,20877,4,0</du>
+    <c>
+     <dc>10,Norman,,Lee,0,5.7153,5.8422,2.1974,4.7412,4.0075,5.5827,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1294,10lb Parrott,,0,1,5.3588,5.4745,4.6018,5.4088,5.1769,4.6733,70,76,0,20878,4,0</du>
+    <c>
+     <dc>16,John,H,Swan,0,2.6996,2.6816,3.4084,4.5568,3.8746,5.6374,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

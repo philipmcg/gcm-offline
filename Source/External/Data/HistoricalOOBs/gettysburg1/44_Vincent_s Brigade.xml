@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Vincent's Brigade,5,1</do>
+   <c>
+    <dc>5,Strong,,Vincent,0,1,6,4,5,5,6,(6-3)</dc>
+   </c>
+   <u>
+    <du>329,0,5.1559,83rd Pennsylvania,,0,0,0.8095,0.8882,0.9892,0.6458,0.7735,1.1462,45,13,0,20206,143,132</du>
+    <c>
+     <dc>7,James,C,McClellan,0,5.4633,5.6261,2.2186,2.0715,4.7116,5.7811,</dc>
+    </c>
+   </u>
+   <u>
+    <du>295,0,5.4859,16th Michigan,,0,0,0.713,0.6132,1.4737,1.4041,0.5215,0.7762,28,9,0,20207,143,124</du>
+    <c>
+     <dc>7,James,,Foucht,0,3.2265,2.1749,2.9045,2.5083,2.5843,5.0957,</dc>
+    </c>
+   </u>
+   <u>
+    <du>425,0,2.1849,20th Maine,,0,0,1.2413,1.2121,0.8709,1.0511,1.4382,0.7371,28,6,0,20208,143,122</du>
+    <c>
+     <dc>6,Stephen,,Robbins,0,4.1553,3.3586,2.982,5.45,3.6461,5.5165,</dc>
+    </c>
+   </u>
+   <u>
+    <du>430,0,5.0195,44th New York,,0,0,0.8519,1.0643,0.5994,0.577,1.157,1.0185,45,12,0,20209,143,130</du>
+    <c>
+     <dc>6,Isaac,R,Wiggins,0,4.4367,2.6801,5.9682,2.8022,4.6853,2.7059,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,14 @@
+$Intro 
+
+<FONT=DefaultMedium,L,255,255,100>Garnier's Campaign Mod
+<FONT=DefaultMedium,L,100,100,255>www.sowmp.com
+ 
+<FONT=DefaultMedium,L,100,255,100>GCM Toolbar Mod
+
+<FONT=DefaultMedium,L,255,255,255>
+
+
+This mod is OPTIONAL, you may choose whether or not to use it.
+
+ 
+<FONT=DefaultMedium,L,255,255,255>Based on RebBugler's toolbar, with changes for GCM.

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>4th Battery - New York Artillery,5,1</do>
+   <c>
+    <dc>8,James,E,Smith,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.8882,10lb Parrott,,0,1,4.4516,4.0884,3.7088,4.4236,3.7452,4.3218,71,39,0,20180,144,0</du>
+    <c>
+     <dc>15,Daniel,L,Hensley,0,2.1706,5.1265,5.117,2.3069,3.4178,3.1863,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.018,10lb Parrott,,0,1,4.0835,3.8843,4.1698,3.7284,4.3467,4.2347,71,37,0,20181,144,0</du>
+    <c>
+     <dc>15,George,D,Lowry,0,3.7801,5.1326,5.3449,4.5895,3.1037,3.9754,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6516,10lb Parrott,,0,1,4.4978,4.2816,4.4271,4.1091,3.8552,3.8955,71,37,0,20182,144,0</du>
+    <c>
+     <dc>10,Gerhard,B,Buckwalter,0,5.5058,4.9646,3.0786,3.1869,3.8412,2.3197,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4232,10lb Parrott,,0,1,4.3259,3.51,4.3879,3.8375,3.7098,3.6124,71,38,0,20183,144,0</du>
+    <c>
+     <dc>16,John,C,Anderson,0,5.0487,5.3176,5.1064,2.2512,2.2855,2.3502,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.3823,10lb Parrott,,0,1,3.6658,4.2426,3.8942,4.2527,3.5359,3.7095,71,39,0,20184,144,0</du>
+    <c>
+     <dc>10,William,W,Suter,0,3.2311,5.5966,4.8018,2.116,3.2301,3.079,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.817,10lb Parrott,,0,1,3.6467,3.819,3.5342,3.7839,3.6373,4.08,71,38,0,20185,144,0</du>
+    <c>
+     <dc>15,Alexander,P,Hepler,0,4.1447,5.2761,3.1899,5.2804,5.5311,2.9413,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

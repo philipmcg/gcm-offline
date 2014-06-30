@@ -1,0 +1,5 @@
+~supply_options
+id	name
+normal	Supply by Army
+by_division	Supply by Division
+no_wagons	No Supply Wagons

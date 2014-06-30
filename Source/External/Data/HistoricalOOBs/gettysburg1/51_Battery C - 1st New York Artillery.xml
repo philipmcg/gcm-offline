@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery C - 1st New York Artillery,5,1</do>
+   <c>
+    <dc>8,Almont,,Barnes,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.425,3in Ordnance,,0,1,4.2248,3.8944,4.0025,3.7581,4.0913,4.0907,88,38,0,20239,144,0</du>
+    <c>
+     <dc>10,Frederick,C,Reidenaur,0,3.7712,4.9463,3.7166,3.7874,3.1599,3.7169,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5175,3in Ordnance,,0,1,3.994,4.0595,4.2966,3.8723,4.1268,4.3261,88,37,0,20240,144,0</du>
+    <c>
+     <dc>16,Peter,H,Fischer,0,3.1489,5.2422,4.2645,3.4508,2.9244,5.3417,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2287,3in Ordnance,,0,1,4.4698,3.7645,4.2535,4.3745,4.3338,3.608,88,39,0,20241,144,0</du>
+    <c>
+     <dc>10,James,S,Newton,0,5.0928,5.7187,4.6027,2.4368,5.512,4.1504,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4032,3in Ordnance,,0,1,3.526,3.7882,3.633,3.7811,3.5532,4.0163,88,39,0,20242,144,0</du>
+    <c>
+     <dc>16,Joseph,F,Wilson,0,5.5369,5.0207,2.2155,3.9032,5.1471,3.9754,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,7 @@
+$Intro 
+
+<FONT=DefaultMedium,L,100,255,100>GCM Menu Screens
+
+<FONT=DefaultMedium,L,255,255,255>
+
+Adds helpful text to the menu screens. 

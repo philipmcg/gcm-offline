@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Company A - Sumter GA Artillery,5,2</do>
+   <c>
+    <dc>8,Hugh,M,Ross,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.8902,10lb Parrott,,0,1,3.4074,2.9794,2.6711,2.8879,2.9808,2.8529,70,77,0,20927,4,0</du>
+    <c>
+     <dc>10,John,,Benbow,0,2.0893,2.1636,4.2293,3.6062,2.2139,3.5443,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1246,10lb Parrott,,0,1,3.209,3.1388,3.2894,3.3978,2.7081,3.0946,70,77,0,20928,4,0</du>
+    <c>
+     <dc>16,James,H,Salmon,0,3.5864,3.3552,4.2287,2.7433,5.3683,3.716,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9889,12lb Napoleon,,0,1,2.8324,3.0093,2.5615,3.3896,2.6265,3.2452,78,75,0,20929,4,0</du>
+    <c>
+     <dc>10,Marion,C,Townsend,0,5.8207,2.0756,4.5017,5.0898,5.5384,4.0625,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.257,10lb Parrott,,0,1,3.4174,2.9148,2.9005,3.1239,2.8236,2.7281,70,78,0,20930,4,0</du>
+    <c>
+     <dc>16,John,L,Robertson,0,4.5559,5.8635,5.2229,4.5898,2.6039,4.4078,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8268,12lb Howitzer,,0,1,3.1225,2.8295,2.9029,3.2492,2.7265,2.6815,75,75,0,20931,4,0</du>
+    <c>
+     <dc>15,Daniel,R,Tomme,0,2.7982,2.2518,2.9494,5.7573,4.777,3.759,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.3136,10lb Parrott,,0,1,2.5665,3.1898,2.7636,3.147,3.4445,3.0397,70,78,0,20932,4,0</du>
+    <c>
+     <dc>15,Joseph,,Rayfield,0,3.7287,4.3922,5.4112,5.0421,2.3593,4.6449,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Staunton Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,Asher,W,Garber,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.0856,12lb Napoleon,,0,1,5.1229,4.5245,4.7856,4.8127,4.6595,4.5107,78,75,0,20795,4,0</du>
+    <c>
+     <dc>15,Jacob,D,Bush,0,5.039,4.8678,2.849,5.5784,3.4004,3.6823,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8583,12lb Napoleon,,0,1,5.403,4.5899,5.3183,4.7988,5.3808,4.8237,78,74,0,20796,4,0</du>
+    <c>
+     <dc>15,Reuben,A,Pike,0,2.835,2.331,3.3048,4.7074,3.161,3.9268,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6641,12lb Napoleon,,0,1,5.2301,5.1578,5.1754,5.4638,5.0147,4.9495,78,73,0,20797,4,0</du>
+    <c>
+     <dc>10,Ephriam,,Henry,0,5.3852,5.8043,5.5542,4.5761,4.3653,2.8436,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8691,12lb Napoleon,,0,1,5.0583,5.1227,4.6949,5.0685,5.0654,4.7883,78,74,0,20798,4,0</du>
+    <c>
+     <dc>16,Ira,H,Jones,0,2.5628,3.4822,3.2819,2.7197,3.6302,4.1408,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

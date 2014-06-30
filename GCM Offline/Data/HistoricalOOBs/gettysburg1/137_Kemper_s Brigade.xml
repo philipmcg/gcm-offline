@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Kemper's Brigade,5,2</do>
+   <c>
+    <dc>4,James,,Kemper,0,4,3,3,3,3,3,(10-0)</dc>
+   </c>
+   <u>
+    <du>237,0,6.114,1st Virginia,,0,0,1.4808,1.2431,0.7639,1.1912,0.6633,0.8572,26,51,0,20672,2,0</du>
+    <c>
+     <dc>6,Asa,,Durrett,0,3.8682,5.1322,5.5145,2.8307,4.4992,3.3419,</dc>
+    </c>
+   </u>
+   <u>
+    <du>368,0,5.4502,3rd Virginia,,0,0,1.4659,1.2034,0.8256,1.0659,0.5947,0.6067,5,52,0,20673,2,0</du>
+    <c>
+     <dc>6,Reuben,H,Wise,0,4.397,5.9082,2.2147,3.831,5.1862,3.3387,</dc>
+    </c>
+   </u>
+   <u>
+    <du>371,0,6.1252,7th Virginia,,0,0,1.364,1.0792,0.547,1.1396,0.8198,1.2144,5,49,0,20674,2,0</du>
+    <c>
+     <dc>5,David,,Gresham,0,4.8474,4.9161,5.8041,2.0795,4.8771,5.7494,</dc>
+    </c>
+   </u>
+   <u>
+    <du>396,0,5.1961,11th Virginia,,0,0,0.8435,1.1277,0.8879,1.4558,0.6353,1.3751,41,47,0,20675,2,0</du>
+    <c>
+     <dc>6,William,J,Sorrell,0,5.0003,2.6553,2.6505,5.7516,5.9967,4.1474,</dc>
+    </c>
+   </u>
+   <u>
+    <du>434,0,5.4196,24th Virginia,,0,0,1.3454,0.7816,1.0039,1.1809,0.5094,0.9345,6,48,0,20676,2,0</du>
+    <c>
+     <dc>5,Francis,L,Davis,0,4.2484,3.2999,3.825,3.903,4.9118,4.6323,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

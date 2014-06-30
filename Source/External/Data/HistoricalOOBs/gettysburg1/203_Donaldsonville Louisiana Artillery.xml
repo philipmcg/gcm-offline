@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Donaldsonville Louisiana Artillery,5,2</do>
+   <c>
+    <dc>8,Victor,,Maurin,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.5268,3in Ordnance,,0,1,4.931,5.0134,4.8461,4.7398,4.8933,5.4443,87,76,0,20961,4,0</du>
+    <c>
+     <dc>15,James,L,Humphrey,0,5.7162,2.8482,5.2147,5.7834,3.1289,4.4471,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4525,10lb Parrott,,0,1,4.5049,4.9436,5.2738,4.7887,4.6137,5.2669,70,78,0,20962,4,0</du>
+    <c>
+     <dc>16,John,,Ellis,0,2.4402,2.9068,4.5059,2.8635,2.7935,5.1517,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.5506,3in Ordnance,,0,1,4.9446,5.0833,4.7319,5.0738,5.2101,4.6199,87,76,0,20963,4,0</du>
+    <c>
+     <dc>15,James,C,Sisson,0,5.5951,2.7719,3.5923,3.3112,2.2627,3.1369,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

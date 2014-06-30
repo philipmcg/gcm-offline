@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Kelly's Brigade,5,1</do>
+   <c>
+    <dc>5,Patrick,,Kelly,0,2,3,2,3,3,3,(6-1)</dc>
+   </c>
+   <u>
+    <du>253,0,4.0332,28th Massachusetts,,0,0,0.7372,0.5153,1.234,1.3786,1.0933,0.9448,28,13,0,20064,143,141</du>
+    <c>
+     <dc>7,Thomas,,Green,0,5.1711,5.5525,3.051,3.2897,3.2404,3.4536,</dc>
+    </c>
+   </u>
+   <u>
+    <du>92,0,3.3863,63rd New York,,0,0,0.8039,0.7702,1.4738,0.7718,0.751,0.9871,41,6,0,20065,143,141</du>
+    <c>
+     <dc>9,Benjamin,B,Sweeney,0,2.7857,3.6302,2.2832,5.1906,4.8246,2.7108,</dc>
+    </c>
+   </u>
+   <u>
+    <du>92,0,5.4788,69th New York,,0,0,1.1058,0.587,1.4129,1.0926,0.8273,0.8997,41,9,0,20066,143,141</du>
+    <c>
+     <dc>8,William,G,McMullen,0,3.7481,3.7041,3.0248,3.4902,3.35,3.2135,</dc>
+    </c>
+   </u>
+   <u>
+    <du>108,0,4.0437,88th New York,,0,0,0.5325,1.1686,0.9085,1.2015,0.8838,0.6106,41,12,0,20067,143,141</du>
+    <c>
+     <dc>7,Andrew,C,Ely,0,2.4803,5.4124,2.5615,5.6335,2.7428,3.3585,</dc>
+    </c>
+   </u>
+   <u>
+    <du>82,0,3.1445,116th Pennsylvania,,0,0,1.4126,0.5511,1.463,1.0758,1.1292,1.4029,41,13,0,20068,143,141</du>
+    <c>
+     <dc>9,Alvah,W,Slagle,0,4.6808,4.3699,3.0307,5.1632,4.5026,3.7821,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

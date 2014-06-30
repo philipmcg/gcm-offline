@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery B &amp; L - 2nd U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,Edward,,Heaton,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.1367,3in Ordnance,,0,1,5.7695,5.6477,5.5625,5.8272,5.6365,5.7052,88,39,0,20484,144,0</du>
+    <c>
+     <dc>15,James,F,Moor,0,3.5138,4.3108,5.2865,4.8025,5.0022,2.5138,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4934,3in Ordnance,,0,1,5.7801,5.7576,6.0219,5.8014,5.5375,5.5963,88,37,0,20485,144,0</du>
+    <c>
+     <dc>15,Milton,,Kightlinger,0,5.5185,2.1514,3.1666,3.8415,2.2571,2.352,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.81,3in Ordnance,,0,1,5.9287,5.8814,6.3587,5.796,6.3911,6.1602,88,37,0,20486,144,0</du>
+    <c>
+     <dc>10,Ira,G,McClelan,0,4.156,3.331,5.8609,3.8074,3.3659,5.4719,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0179,3in Ordnance,,0,1,5.5154,5.6902,5.8361,5.8499,5.6976,6.1322,88,39,0,20487,144,0</du>
+    <c>
+     <dc>16,William,B,Luper,0,2.7381,4.4311,4.1598,4.3993,3.3619,4.2548,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.932,3in Ordnance,,0,1,6.3512,6.4009,5.7722,6.1904,5.8932,5.9045,88,39,0,20488,144,0</du>
+    <c>
+     <dc>10,Horace,E,Swayne,0,4.8642,5.6869,2.2115,5.3792,4.2273,2.0935,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4875,3in Ordnance,,0,1,6.4836,6.0405,5.9636,6.4085,5.8608,6.0093,88,37,0,20489,144,0</du>
+    <c>
+     <dc>16,Patrick,W,Sheetz,0,4.5813,5.3054,5.1021,3.8836,3.8673,3.6635,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery F &amp; K - 3rd U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,John,C,Turnbull,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.9647,12lb Napoleon,,0,1,4.9652,5.2205,4.6494,5.4541,5.1758,4.6763,79,34,0,20524,144,0</du>
+    <c>
+     <dc>10,James,P,Stephens,0,4.7701,5.1288,4.2882,3.833,3.0201,2.0057,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1306,12lb Napoleon,,0,1,4.6581,5.1929,4.6065,5.1158,5.3239,5.0946,79,35,0,20525,144,0</du>
+    <c>
+     <dc>15,John,,McCart,0,4.6369,5.3471,4.8889,5.8813,4.0619,5.2879,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6201,12lb Napoleon,,0,1,5.3954,5.2839,4.8232,4.8106,4.75,5.0008,79,35,0,20526,144,0</du>
+    <c>
+     <dc>10,Frank,B,Sands,0,4.3697,3.442,5.4775,3.121,2.1728,2.2329,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2924,12lb Napoleon,,0,1,4.861,4.5852,5.4435,4.6509,4.5897,4.7275,79,36,0,20527,144,0</du>
+    <c>
+     <dc>16,Lewis,B,Young,0,4.5935,5.8857,3.6638,2.568,2.0053,2.2703,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7912,12lb Napoleon,,0,1,5.2981,4.9626,5.2954,4.695,5.0013,4.8864,79,36,0,20528,144,0</du>
+    <c>
+     <dc>10,John,,Pugh,0,5.9278,2.9138,5.5493,5.3,3.9475,4.5106,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1961,12lb Napoleon,,0,1,5.2286,4.7902,5.3324,4.897,5.3256,4.8126,79,35,0,20529,144,0</du>
+    <c>
+     <dc>15,William,J,Stout,0,3.7273,3.1707,3.3765,5.9349,3.6778,4.6101,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

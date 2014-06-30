@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Ramseur's Brigade,5,2</do>
+   <c>
+    <dc>4,Stephen,D,Ramseur,0,4,6,6,5,6,6,(9-2)</dc>
+   </c>
+   <u>
+    <du>274,0,4.3412,2nd North Carolina,,0,0,1.1614,1.0573,0.5728,1.299,1.0498,0.8309,5,52,0,20850,2,0</du>
+    <c>
+     <dc>8,Robert,,Clark,0,2.5337,4.1707,2.2393,4.4909,2.8039,3.4879,</dc>
+    </c>
+   </u>
+   <u>
+    <du>224,0,6.4742,4th North Carolina,,0,0,1.344,1.3415,0.5145,1.4447,1.0946,1.4422,31,48,0,20851,2,0</du>
+    <c>
+     <dc>8,Joe,M,Wemmer,0,5.2457,4.331,3.866,5.6524,4.231,5.091,</dc>
+    </c>
+   </u>
+   <u>
+    <du>343,0,4.1943,14th North Carolina,,0,0,1.098,1.3925,0.6529,1.1262,1.0525,1.1548,31,49,0,20852,2,0</du>
+    <c>
+     <dc>8,James,H,Stevens,0,2.7199,3.1755,3.33,3.4316,2.3724,3.7084,</dc>
+    </c>
+   </u>
+   <u>
+    <du>309,0,4.1437,30th North Carolina,,0,0,1.0174,1.1767,0.5801,0.8917,0.6866,0.665,5,47,0,20853,2,0</du>
+    <c>
+     <dc>5,Newton,C,Robinson,0,4.8385,4.5321,2.7927,4.1021,2.5789,5.3629,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Benning's Brigade,5,2</do>
+   <c>
+    <dc>4,Henry,L,Benning,0,3,4,4,5,4,3,(6-1)</dc>
+   </c>
+   <u>
+    <du>385,0,5.1177,2nd Georgia,,0,0,1.3555,1.4001,0.8006,0.6956,0.6273,0.9678,28,52,0,20709,2,0</du>
+    <c>
+     <dc>6,John,E,Whaley,0,5.6857,5.7355,3.7586,4.6672,4.8332,5.7257,</dc>
+    </c>
+   </u>
+   <u>
+    <du>406,0,5.2958,15th Georgia,,0,0,0.7516,1.2046,1.4983,1.1542,0.7368,1.3908,5,49,0,20710,2,0</du>
+    <c>
+     <dc>6,James,,Kidd,0,4.3588,3.969,5.1656,5.8637,5.4594,3.3266,</dc>
+    </c>
+   </u>
+   <u>
+    <du>387,0,5.2885,17th Georgia,,0,0,1.4316,1.2263,1.3432,0.9342,0.8362,0.6414,6,47,0,20711,2,0</du>
+    <c>
+     <dc>6,James,K,Cunningham,0,5.4893,5.2431,3.2723,2.3908,3.6298,4.9171,</dc>
+    </c>
+   </u>
+   <u>
+    <du>387,0,4.3746,20th Georgia,,0,0,0.813,0.5806,0.6477,0.8027,0.9621,0.8246,5,48,0,20712,2,0</du>
+    <c>
+     <dc>7,William,A,Boshell,0,3.1965,4.7122,4.3437,3.9566,5.0523,5.5601,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

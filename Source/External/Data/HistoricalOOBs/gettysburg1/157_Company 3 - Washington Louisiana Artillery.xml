@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Company 3 - Washington Louisiana Artillery,5,2</do>
+   <c>
+    <dc>8,Merritt,B,Miller,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.2976,12lb Napoleon,,0,1,7.0843,6.99,7.4495,7.4282,6.5416,6.5386,78,74,0,20760,4,0</du>
+    <c>
+     <dc>10,Milton,H,Finklea,0,3.2394,5.2751,2.1845,2.9937,3.9962,4.4311,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,5.4493,12lb Napoleon,,0,1,7.3944,6.8667,6.6422,7.0533,6.512,6.6801,78,74,0,20761,4,0</du>
+    <c>
+     <dc>15,John,H,Bishop,0,5.1883,2.3496,5.1465,3.0793,3.2842,3.4302,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,5.3714,12lb Napoleon,,0,1,7.2738,6.6111,7.0152,7.16,7.1991,7.1153,78,74,0,20762,4,0</du>
+    <c>
+     <dc>15,Samuel,W,Jernigan,0,4.2552,2.5113,3.1231,5.0294,2.3574,2.8415,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

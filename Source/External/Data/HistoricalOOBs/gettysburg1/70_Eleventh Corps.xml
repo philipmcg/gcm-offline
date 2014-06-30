@@ -1,0 +1,14 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Eleventh Corps,3,1</do>
+   <c>
+    <dc>3,Oliver,O,Howard,0,4,1,1,1,1,2,(10-0)</dc>
+   </c>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+ </head>
+</xml>

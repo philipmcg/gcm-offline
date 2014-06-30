@@ -1,0 +1,14 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Fifth Corps,3,1</do>
+   <c>
+    <dc>3,George,,Sykes,0,6,4,3,4,3,1,(8-0)</dc>
+   </c>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+ </head>
+</xml>

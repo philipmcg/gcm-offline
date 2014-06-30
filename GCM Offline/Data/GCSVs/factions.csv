@@ -1,0 +1,6 @@
+~factions
+id,idstring,pfx,prefix,name,abbr,adjective
+0,ne,ne_,ne_,Neutral,NE,Neutral
+1,us,u_,us_,United States,US,Federal
+2,cs,c_,cs_,Confederate States,CS,Confederate
+3,br,br_,br_,Great Britain,BR,British

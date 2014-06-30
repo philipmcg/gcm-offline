@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Brewster's Brigade,5,1</do>
+   <c>
+    <dc>5,William,R,Brewster,0,0,3,4,3,3,2,(2-3)</dc>
+   </c>
+   <u>
+    <du>321,0,7.361,70th New York,,0,0,1.3357,1.2822,0.7424,0.583,1.4462,1.4336,45,6,0,20156,143,130</du>
+    <c>
+     <dc>5,John,G,Laudenslager,0,3.9863,3.1308,5.9937,3.3652,2.1285,5.4742,</dc>
+    </c>
+   </u>
+   <u>
+    <du>274,0,5.3192,71st New York,,0,0,0.5208,1.4062,1.41,0.8136,0.7609,0.8316,45,9,0,20157,143,130</du>
+    <c>
+     <dc>7,Peter,J,Hamersly,0,3.3724,4.2026,2.164,3.1675,2.6973,5.0286,</dc>
+    </c>
+   </u>
+   <u>
+    <du>339,0,6.301,72nd New York,,0,0,1.2571,1.0523,1.3797,0.8819,1.2278,1.014,45,12,0,20158,143,130</du>
+    <c>
+     <dc>6,Edwin,,Penny,0,2.4681,2.026,3.2673,3.7519,5.2961,4.4613,</dc>
+    </c>
+   </u>
+   <u>
+    <du>386,0,6.4087,73rd New York,,0,0,1.2155,1.3484,1.1667,0.6546,1.421,1.3642,45,7,0,20159,143,130</du>
+    <c>
+     <dc>6,Charles,R,Smedley,0,2.1976,5.8327,2.6864,5.2922,3.5545,3.8635,</dc>
+    </c>
+   </u>
+   <u>
+    <du>298,0,5.3249,74th New York,,0,0,1.4967,1.1333,1.3856,1.352,0.9484,1.2676,5,6,0,20160,143,130</du>
+    <c>
+     <dc>6,John,S,Bargoon,0,3.4156,5.9268,5.9189,3.4079,4.5673,2.4546,</dc>
+    </c>
+   </u>
+   <u>
+    <du>422,0,2.0482,120th New York,,0,0,1.0746,1.079,1.4294,0.7731,0.7904,1.0512,45,9,0,20161,143,130</du>
+    <c>
+     <dc>6,Cassius,P,Gizer,0,4.9558,3.5688,5.3925,2.4302,4.3248,2.6051,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

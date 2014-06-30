@@ -1,0 +1,9 @@
+~objective_templates
+name,id,priority,type,ai,locx,locz,radius,men,points,fatigue,morale,ammo,occmod,beg,end,interval,sprite,army1,army2,army3
+custom,custom,minor,hold,100,,,200,100,1000,0,0,0,2,t,t,t,GFX_Obj_Minor,GFX_Obj_UMinor,GFX_Obj_CMinor,
+custom_waypoint,custom_waypoint,minor,waypoint,100,,,200,100,1000,0,0,0,2,t,t,t,GFX_Obj_Minor,GFX_Obj_UMinor,GFX_Obj_CMinor,
+scenario_loc,scenario_loc,minor,waypoint,100,,,30,100,1000,0,0,0,1,t,t,t,GFX_Obj_Minor,GFX_Obj_UMinor,GFX_Obj_CMinor,
+scenario_obj,scenario_obj,minor,waypoint,100,,,30,100,1000,0,0,0,1,t,t,t,GFX_Obj_Major,GFX_Obj_UMajor,GFX_Obj_CMajor,
+random_loc,random_loc,minor,waypoint,100,,,100,100,1000,0,0,0,1,t,t,t,GFX_Obj_Minor,GFX_Obj_UMinor,GFX_Obj_CMinor,
+random_obj,random_obj,minor,waypoint,100,,,100,100,1000,0,0,0,1,t,t,t,GFX_Obj_Major,GFX_Obj_UMajor,GFX_Obj_CMajor,
+corner,corner,major,hold,0,,,0,10000,0,0,0,0,1,t,t,t,GFX_Obj_Major,GFX_Obj_UMajor,GFX_Obj_CMajor,

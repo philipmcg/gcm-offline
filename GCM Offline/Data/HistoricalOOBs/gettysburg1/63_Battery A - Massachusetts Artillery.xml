@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery A - Massachusetts Artillery,5,1</do>
+   <c>
+    <dc>8,William,H,McCartney,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.0507,12lb Napoleon,,0,1,4.4134,4.2435,3.7423,3.564,4.1641,4.2067,79,36,0,20295,144,0</du>
+    <c>
+     <dc>10,Nathan,,Mattoon,0,4.7827,2.7307,3.5473,3.8393,4.0507,2.0295,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4173,12lb Napoleon,,0,1,4.0784,4.4824,4.0901,4.3131,3.7553,3.6951,79,35,0,20296,144,0</du>
+    <c>
+     <dc>16,Henry,B,Mires,0,5.6146,3.7063,5.5147,4.1648,2.2677,2.5647,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.1957,12lb Napoleon,,0,1,4.4379,3.9477,4.2479,3.5737,4.0553,4.2812,79,36,0,20297,144,0</du>
+    <c>
+     <dc>15,Thomas,A,Murnbower,0,2.963,5.1997,2.1632,3.7872,4.3422,3.3323,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6233,12lb Napoleon,,0,1,4.177,3.7543,3.5971,4.2858,4.3127,4.1971,79,36,0,20298,144,0</du>
+    <c>
+     <dc>16,Andrew,,Whitenbarger,0,2.356,5.9565,5.2693,2.2427,5.5271,4.0238,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7114,12lb Napoleon,,0,1,4.3359,4.4788,3.8887,4.4711,4.4476,3.8285,79,34,0,20299,144,0</du>
+    <c>
+     <dc>10,Joseph,R,Otten,0,4.2918,2.1607,3.6388,3.9906,4.8496,2.1411,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4918,12lb Napoleon,,0,1,4.0282,4.3458,4.0448,3.6446,3.7649,4.0791,79,34,0,20300,144,0</du>
+    <c>
+     <dc>15,Alfred,R,Heckman,0,2.1056,2.4776,3.614,4.548,3.9101,4.2818,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Gamble's Brigade,5,1</do>
+   <c>
+    <dc>5,William,,Gamble,0,2,3,2,2,3,2,(2-6)</dc>
+   </c>
+   <u>
+    <du>513,0,5.468,8th Illinois Cavalry,,0,2,0.7887,1.3207,1.2748,0.5669,0.8586,1.182,44,17,0,20443,144,138</du>
+    <c>
+     <dc>5,John,,Stevenson,0,3.0006,3.0539,2.455,2.2058,3.3113,5.7687,</dc>
+    </c>
+   </u>
+   <u>
+    <du>263,0,3.4611,12th Illinois Cavalry,,0,2,1.0584,0.7041,0.7777,1.4049,0.7678,0.8714,10,19,0,20444,144,138</du>
+    <c>
+     <dc>6,Peter,S,McVeigh,0,4.1228,2.4138,3.3841,3.0623,4.3451,3.2044,</dc>
+    </c>
+   </u>
+   <u>
+    <du>348,0,5.1553,3rd Indiana Cavalry,,0,2,0.8731,1.0147,1.0194,1.4917,0.8951,0.8222,18,20,0,20445,144,115</du>
+    <c>
+     <dc>6,Orlando,C,McDowell,0,2.884,5.0148,2.5271,4.7666,5.7821,2.3239,</dc>
+    </c>
+   </u>
+   <u>
+    <du>628,0,3.0246,8th New York Cavalry,,0,2,1.3282,1.0952,0.82,1.3806,1.0354,1.3731,44,17,0,20446,144,129</du>
+    <c>
+     <dc>5,William,R,Fossleman,0,3.1435,2.0278,5.9945,3.3788,3.0268,3.8263,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Garnett's Brigade,5,2</do>
+   <c>
+    <dc>4,Richard,B,Garnett,0,4,4,4,5,4,4,(6-0)</dc>
+   </c>
+   <u>
+    <du>220,0,6.1357,8th Virginia,,0,0,0.9213,1.4968,0.9454,0.5471,1.0273,0.9936,5,47,0,20662,2,0</du>
+    <c>
+     <dc>8,James,P,Tidmore,0,2.5631,2.3545,4.4488,5.0168,3.1465,3.8043,</dc>
+    </c>
+   </u>
+   <u>
+    <du>347,0,6.0136,18th Virginia,,0,0,1.0256,0.6606,0.8102,0.6639,0.7888,1.2973,5,51,0,20663,2,0</du>
+    <c>
+     <dc>8,Joseph,,Bishop,0,5.272,2.9201,3.8373,4.6794,5.7518,5.1538,</dc>
+    </c>
+   </u>
+   <u>
+    <du>364,0,5.3481,19th Virginia,,0,0,1.4514,1.3362,1.1466,0.5268,1.2567,0.6972,31,52,0,20664,2,0</du>
+    <c>
+     <dc>8,John,H,Dudley,0,5.5512,5.134,3.976,4.3276,4.1573,4.2335,</dc>
+    </c>
+   </u>
+   <u>
+    <du>369,0,5.3,28th Virginia,,0,0,0.9491,1.3397,1.2172,1.3812,1.3568,1.0895,5,48,0,20665,2,0</du>
+    <c>
+     <dc>5,Joel,T,Simmons,0,4.3374,5.5117,3.5067,2.6489,5.0417,2.2741,</dc>
+    </c>
+   </u>
+   <u>
+    <du>323,0,4.3038,56th Virginia,,0,0,0.7027,0.9767,0.5271,0.7968,1.4306,0.5523,26,49,0,20666,2,0</du>
+    <c>
+     <dc>6,Morgan,,Watson,0,3.6482,5.3376,3.3753,3.9929,4.9203,2.2912,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Devin's Brigade,5,1</do>
+   <c>
+    <dc>5,Thomas,C,Devin,0,2,6,5,5,5,4,(3-6)</dc>
+   </c>
+   <u>
+    <du>247,0,4.2245,6th New York Cavalry,,0,2,1.2185,0.9454,1.2143,1.401,0.9284,0.5982,44,19,0,20447,144,129</du>
+    <c>
+     <dc>8,Thomas,H,Cochrane,0,4.171,4.7767,3.5784,4.1609,2.8805,5.7777,</dc>
+    </c>
+   </u>
+   <u>
+    <du>405,0,3.3874,9th New York Cavalry,,0,2,1.0955,1.4885,0.9786,0.6956,0.7608,1.045,44,20,0,20448,144,129</du>
+    <c>
+     <dc>6,Lewis,,Allison,0,3.8545,5.4772,5.7483,2.2994,5.5023,3.9591,</dc>
+    </c>
+   </u>
+   <u>
+    <du>507,0,3.2765,17th Pennsylvania Cavalry,,0,2,0.5731,1.1978,0.9023,0.6418,0.7134,1.1403,25,17,0,20449,144,131</du>
+    <c>
+     <dc>6,Robert,C,Tricket,0,4.4601,4.7997,5.7419,5.0862,4.3959,3.411,</dc>
+    </c>
+   </u>
+   <u>
+    <du>74,0,3.4523,3rd West Virginia Cavalry,,0,2,0.6914,0.5324,0.8502,1.1329,1.1634,0.9352,18,19,0,20450,144,138</du>
+    <c>
+     <dc>8,John,B,McCormick,0,3.5395,4.6515,3.4792,2.5815,5.7368,2.1076,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

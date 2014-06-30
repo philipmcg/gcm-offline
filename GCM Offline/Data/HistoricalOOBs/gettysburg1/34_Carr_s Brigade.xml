@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Carr's Brigade,5,1</do>
+   <c>
+    <dc>4,Joseph,B,Carr,0,3,4,4,4,3,4,(1-3)</dc>
+   </c>
+   <u>
+    <du>356,0,6.2986,1st Massachusetts,,0,0,0.6427,0.7227,1.3393,0.7867,1.4433,1.007,45,12,0,20150,143,118</du>
+    <c>
+     <dc>6,Charles,H,Becker,0,2.8421,4.3367,5.1368,2.6205,4.4259,5.2611,</dc>
+    </c>
+   </u>
+   <u>
+    <du>319,0,4.4997,11th Massachusetts,,0,0,0.8444,0.6642,1.4461,0.9375,1.3127,1.3627,41,13,0,20151,143,118</du>
+    <c>
+     <dc>7,William,W,Hockenberry,0,5.3914,4.1351,2.5128,3.3032,3.9223,4.617,</dc>
+    </c>
+   </u>
+   <u>
+    <du>276,0,5.3221,16th Massachusetts,,0,0,0.6182,1.0681,0.6745,0.9098,0.9074,1.1634,28,6,0,20152,143,118</du>
+    <c>
+     <dc>6,John,W,Snyder,0,3.0215,2.7953,3.978,5.883,2.1924,3.6983,</dc>
+    </c>
+   </u>
+   <u>
+    <du>253,0,5.0996,12th New Hampshire,,0,0,1.3258,1.4652,1.3991,0.9463,0.6751,0.5295,31,9,0,20153,143,126</du>
+    <c>
+     <dc>8,William,M,Mcintosh,0,4.6827,3.1953,3.8764,3.1921,4.644,5.9445,</dc>
+    </c>
+   </u>
+   <u>
+    <du>308,0,2.3169,11th New Jersey,,0,0,1.3649,0.5486,1.0347,1.3315,0.7673,0.7943,31,12,0,20154,143,128</du>
+    <c>
+     <dc>7,Jonas,H,Hawley,0,4.8136,2.7103,4.016,3.2058,4.3154,4.073,</dc>
+    </c>
+   </u>
+   <u>
+    <du>403,0,5.3676,26th Pennsylvania,,0,0,0.9182,0.866,1.2999,1.0686,0.5507,1.0722,6,13,0,20155,143,132</du>
+    <c>
+     <dc>5,Jacob,H,Berrel,0,5.0751,5.1097,3.462,4.1666,3.6428,3.2296,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

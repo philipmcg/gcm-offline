@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Doles's Brigade,5,2</do>
+   <c>
+    <dc>4,George,P,Doles,0,3,6,6,6,5,5,(6-2)</dc>
+   </c>
+   <u>
+    <du>377,0,5.4131,4th Georgia,,0,0,1.0215,0.82,0.6288,1.3023,0.8987,1.4355,5,49,0,20842,2,0</du>
+    <c>
+     <dc>8,Seth,W,Powell,0,3.56,3.7319,5.1632,5.4089,3.1478,4.8001,</dc>
+    </c>
+   </u>
+   <u>
+    <du>363,0,6.2414,12th Georgia,,0,0,0.9865,0.8705,0.815,0.736,1.3218,1.1117,31,51,0,20843,2,0</du>
+    <c>
+     <dc>7,Daniel,C,Clowers,0,5.229,3.2227,4.5711,4.796,4.5378,5.5968,</dc>
+    </c>
+   </u>
+   <u>
+    <du>320,0,6.1618,21st Georgia,,0,0,1.1837,1.1279,1.4753,0.6753,0.6093,0.9429,5,52,0,20844,2,0</du>
+    <c>
+     <dc>6,Thomas,L,Ervin,0,3.9126,3.2976,4.0995,4.1011,2.899,4.8674,</dc>
+    </c>
+   </u>
+   <u>
+    <du>402,0,5.0844,44th Georgia,,0,0,1.3428,1.35,0.7546,1.4587,1.2039,0.8561,5,48,0,20845,2,0</du>
+    <c>
+     <dc>6,Daniel,A,Faulkner,0,3.3872,5.3134,3.1055,4.5147,2.7967,2.1213,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

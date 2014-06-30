@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Candy's Brigade,5,1</do>
+   <c>
+    <dc>5,Charles,,Candy,0,3,2,3,3,3,3,(4-7)</dc>
+   </c>
+   <u>
+    <du>333,0,4.4504,5th Ohio,,0,0,1.0825,1.1916,0.8415,0.5842,1.4508,0.8847,45,9,0,20409,143,139</du>
+    <c>
+     <dc>7,Joseph,F,Clough,0,2.0838,3.7093,2.5537,5.5995,2.3099,4.0392,</dc>
+    </c>
+   </u>
+   <u>
+    <du>315,0,4.0969,7th Ohio,,0,0,1.1877,1.0702,0.5108,0.6059,1.4121,0.8146,45,12,0,20410,143,139</du>
+    <c>
+     <dc>7,Ulysses,,Sample,0,5.9766,4.56,3.6198,3.118,4.8163,4.7264,</dc>
+    </c>
+   </u>
+   <u>
+    <du>350,0,3.035,29th Ohio,,0,0,0.9524,0.5537,0.9782,1.3604,0.5508,0.9892,5,13,0,20411,143,139</du>
+    <c>
+     <dc>5,Alfred,P,Suckling,0,2.805,4.6893,3.6148,5.7571,3.98,3.9564,</dc>
+    </c>
+   </u>
+   <u>
+    <du>333,0,3.4127,66th Ohio,,0,0,1.0631,0.6818,0.6346,1.027,0.9669,0.6664,45,6,0,20412,143,139</du>
+    <c>
+     <dc>6,Silas,M,Mcgirt,0,4.7176,4.586,3.8464,3.033,5.3127,5.5088,</dc>
+    </c>
+   </u>
+   <u>
+    <du>337,0,5.1613,28th Pennsylvania,,0,0,1.1017,1.4944,0.5646,0.5434,0.5025,1.426,28,9,0,20413,143,132</du>
+    <c>
+     <dc>7,Russell,F,Wyrick,0,2.8752,5.7522,3.2229,3.7438,4.6829,2.6668,</dc>
+    </c>
+   </u>
+   <u>
+    <du>332,0,3.1202,147th Pennsylvania,,0,0,1.1464,0.9948,1.4483,1.1617,1.3841,1.1594,28,12,0,20414,143,132</du>
+    <c>
+     <dc>5,John,R,Waggoner,0,3.2097,2.4893,5.6892,5.6252,3.4654,5.0328,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

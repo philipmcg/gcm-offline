@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>King William Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,William,P,Carter,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.8565,12lb Napoleon,,0,1,4.1962,3.5615,3.9122,4.1454,4.4782,3.5617,78,74,0,20863,4,0</du>
+    <c>
+     <dc>15,Paul,H,Leeth,0,2.2154,3.0327,4.2251,2.7383,4.9999,3.2631,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.0239,10lb Parrott,,0,1,3.9403,4.0622,3.8458,3.6421,3.7546,3.829,70,76,0,20864,4,0</du>
+    <c>
+     <dc>15,George,,Rains,0,4.9109,2.9471,2.9973,2.7521,4.7084,5.2989,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0462,12lb Napoleon,,0,1,4.0157,4.269,4.2551,3.5019,3.5983,3.9281,78,75,0,20865,4,0</du>
+    <c>
+     <dc>10,John,C,Turnley,0,3.989,2.5802,2.1663,4.1608,3.3943,5.4769,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9674,10lb Parrott,,0,1,4.3705,3.9321,3.7554,4.0862,4.0047,4.2258,70,76,0,20866,4,0</du>
+    <c>
+     <dc>15,Absalom,C,Grayley,0,5.3712,3.3132,5.2537,2.6542,4.7995,3.7498,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>McCandless's Brigade,5,1</do>
+   <c>
+    <dc>5,William,,McCandless,0,1,4,3,4,4,3,(0-4)</dc>
+   </c>
+   <u>
+    <du>421,0,4.4988,1st Pennsylvania Reserves,,0,0,1.2572,1.2023,1.2525,1.0889,1.2608,0.8748,40,9,0,20224,143,132</du>
+    <c>
+     <dc>7,James,C,Donoghue,0,3.0982,5.3593,5.4149,5.4444,3.3856,3.3603,</dc>
+    </c>
+   </u>
+   <u>
+    <du>265,0,5.3631,2nd Pennsylvania Reserves,,0,0,1.4456,1.3288,0.867,0.538,1.3947,0.758,29,12,0,20225,143,132</du>
+    <c>
+     <dc>6,Samuel,,Arnhold,0,2.5008,4.7136,3.6184,5.3294,2.1906,3.8949,</dc>
+    </c>
+   </u>
+   <u>
+    <du>363,0,5.0584,6th Pennsylvania Reserves,,0,0,0.9213,1.2758,1.2492,1.2196,0.7637,1.321,45,13,0,20226,143,132</du>
+    <c>
+     <dc>6,William,S,Kenedy,0,5.742,2.2468,4.1191,4.253,3.9388,4.898,</dc>
+    </c>
+   </u>
+   <u>
+    <du>335,0,5.2184,13th Pennsylvania Reserves,,0,0,1.0974,1.0994,1.1771,1.1123,0.9833,1.0944,43,6,0,20227,143,132</du>
+    <c>
+     <dc>5,William,J,Reynouard,0,3.885,5.4571,4.7028,5.894,4.5346,5.3631,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

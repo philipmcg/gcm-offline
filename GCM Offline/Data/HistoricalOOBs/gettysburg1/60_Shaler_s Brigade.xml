@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Shaler's Brigade,5,1</do>
+   <c>
+    <dc>4,Alexander,,Shaler,0,2,3,3,3,3,3,(7-4)</dc>
+   </c>
+   <u>
+    <du>324,0,4.0968,65th New York,,0,0,1.4651,0.6805,0.8844,1.0912,0.7786,1.1251,45,13,0,20281,143,130</du>
+    <c>
+     <dc>6,Henry,W,Scheibel,0,4.106,2.5214,4.6792,4.3895,5.2308,2.995,</dc>
+    </c>
+   </u>
+   <u>
+    <du>386,0,4.0832,67th New York,,0,0,1.1637,1.0832,0.8005,1.316,1.4705,0.817,45,6,0,20282,143,130</du>
+    <c>
+     <dc>6,Adam,H,McClusky,0,2.1885,5.7206,4.599,2.6735,5.1593,2.1902,</dc>
+    </c>
+   </u>
+   <u>
+    <du>454,0,2.154,122nd New York,,0,0,1.3134,0.5341,0.6827,0.8755,0.8619,0.8923,28,9,0,20283,143,130</du>
+    <c>
+     <dc>7,William,M,Miner,0,4.871,2.5024,3.9279,3.1946,3.9067,3.5502,</dc>
+    </c>
+   </u>
+   <u>
+    <du>533,0,4.4623,23rd Pennsylvania,,0,0,1.4642,0.8135,0.621,1.2202,1.4599,0.6822,6,12,0,20284,143,132</du>
+    <c>
+     <dc>5,James,,Power,0,5.0631,2.0543,4.462,4.9019,5.1951,2.8811,</dc>
+    </c>
+   </u>
+   <u>
+    <du>325,0,5.105,82nd Pennsylvania,,0,0,0.9669,1.1763,1.3884,1.1527,1.2364,1.0571,5,13,0,20285,143,132</du>
+    <c>
+     <dc>5,John,,Arnintrout,0,3.4789,3.7168,5.9862,4.5587,2.6399,4.6894,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

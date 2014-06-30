@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Amherst Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,Thomas,J,Kirkpatrick,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.2406,12lb Napoleon,,0,1,3.7843,3.6963,3.8559,4.3946,3.8597,4.2673,78,74,0,20895,4,0</du>
+    <c>
+     <dc>15,Richard,H,Archer,0,5.0086,4.8679,5.588,4.6826,4.8126,4.6837,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4542,12lb Napoleon,,0,1,4.2706,3.5036,4.0554,4.4425,3.9319,4.1041,78,73,0,20896,4,0</du>
+    <c>
+     <dc>15,Jeff,T,Hayden,0,3.346,3.5406,5.5948,3.6969,3.1824,3.5113,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.2587,12lb Napoleon,,0,1,4.1451,4.2102,3.6123,4.0145,3.6431,3.8767,78,74,0,20897,4,0</du>
+    <c>
+     <dc>10,Wesley,R,Turner,0,4.1467,3.7199,3.7818,4.3502,3.2739,5.2277,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5333,3in Ordnance,,0,1,3.956,3.8469,4.3096,3.9096,4.2574,3.637,87,77,0,20898,4,0</du>
+    <c>
+     <dc>15,William,,Chamberlayne,0,5.0547,4.1439,5.5354,5.8207,4.2847,2.2523,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

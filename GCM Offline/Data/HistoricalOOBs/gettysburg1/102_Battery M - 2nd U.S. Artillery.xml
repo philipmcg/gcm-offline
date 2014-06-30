@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery M - 2nd U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,Alexander,,Jr,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.3632,3in Ordnance,,0,1,5.1945,5.2946,5.0621,4.9822,5.3308,4.5788,88,39,0,20490,144,0</du>
+    <c>
+     <dc>15,Hiram,W,Waklee,0,5.686,5.2408,2.2997,5.008,5.5793,3.8104,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8736,3in Ordnance,,0,1,5.3614,5.299,4.6049,4.838,4.8024,5.3714,88,38,0,20491,144,0</du>
+    <c>
+     <dc>15,Joseph,A,Griffith,0,3.7951,2.41,2.2278,2.0541,3.1522,3.6187,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1051,3in Ordnance,,0,1,5.2919,4.5463,4.8357,5.406,5.3298,5.221,88,39,0,20492,144,0</du>
+    <c>
+     <dc>15,Jacob,R,Williams,0,4.6283,4.5508,3.3665,4.5183,4.8203,5.8762,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.3458,3in Ordnance,,0,1,4.882,4.9083,5.3781,4.7986,4.9501,4.9461,88,37,0,20493,144,0</du>
+    <c>
+     <dc>15,Jacob,H,Crotty,0,4.8371,2.3246,2.5833,3.9307,5.6973,4.6679,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0188,3in Ordnance,,0,1,4.8437,4.6525,4.5685,5.4222,4.6024,5.3242,88,39,0,20494,144,0</du>
+    <c>
+     <dc>10,Joseph,C,Whirlow,0,4.5206,4.2281,5.0045,2.8448,4.8636,2.1892,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9568,3in Ordnance,,0,1,4.9491,5.3877,4.5964,4.7449,5.013,5.4131,88,38,0,20495,144,0</du>
+    <c>
+     <dc>16,John,,Coffin,0,5.2216,2.6208,5.7077,4.9522,5.3452,3.5945,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

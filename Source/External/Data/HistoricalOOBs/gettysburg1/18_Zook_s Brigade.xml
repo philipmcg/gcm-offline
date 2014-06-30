@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Zook's Brigade,5,1</do>
+   <c>
+    <dc>4,Samuel,K,Zook,0,3,4,4,4,4,5,(7-1)</dc>
+   </c>
+   <u>
+    <du>157,0,4.1038,52nd New York,,0,0,0.8036,1.4236,1.0583,0.5191,0.7316,0.7351,28,6,0,20069,143,130</du>
+    <c>
+     <dc>8,Charles,C,Evans,0,4.8761,4.2595,3.8979,3.2349,4.1449,5.7485,</dc>
+    </c>
+   </u>
+   <u>
+    <du>201,0,3.3338,57th New York,,0,0,1.1227,0.6548,0.9787,1.2179,1.2653,0.6248,28,9,0,20070,143,130</du>
+    <c>
+     <dc>5,Alexander,L,Fields,0,4.4703,4.4032,2.0151,5.7448,4.4235,3.1134,</dc>
+    </c>
+   </u>
+   <u>
+    <du>171,0,3.0551,66th New York,,0,0,1.3211,0.7793,1.4447,0.8479,1.0664,0.9534,5,12,0,20071,143,130</du>
+    <c>
+     <dc>9,Morris,F,Brink,0,4.3981,5.8374,2.0897,3.5375,4.4693,2.6024,</dc>
+    </c>
+   </u>
+   <u>
+    <du>560,0,2.3356,140th Pennsylvania,,0,0,0.6393,0.9384,0.5718,1.1179,1.4414,1.0108,45,13,0,20072,143,132</du>
+    <c>
+     <dc>7,David,M,Cameron,0,5.0202,4.9199,5.149,4.2489,4.862,2.74,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

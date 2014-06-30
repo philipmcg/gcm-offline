@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Archer's Brigade,5,2</do>
+   <c>
+    <dc>4,James,J,Archer,0,6,2,2,1,4,3,(10-3)</dc>
+   </c>
+   <u>
+    <du>158,0,6.3093,5th Alabama Battalion,,0,0,1.2729,0.9033,1.2273,0.566,0.7238,0.9621,40,49,0,20948,2,0</du>
+    <c>
+     <dc>9,John,T,Wren,0,2.2538,2.8544,3.4498,3.3601,5.9253,3.7161,</dc>
+    </c>
+   </u>
+   <u>
+    <du>343,0,4.4876,13th Alabama,,0,0,1.2926,1.4822,0.5851,1.2961,1.1599,0.982,31,49,0,20949,2,0</du>
+    <c>
+     <dc>6,Oscar,R,Bates,0,5.5857,2.8436,5.7571,3.9601,5.7668,4.0108,</dc>
+    </c>
+   </u>
+   <u>
+    <du>314,0,6.49,1st Tennessee,,0,0,1.3685,1.0726,0.535,0.6913,0.8726,1.3982,5,48,0,20950,2,0</du>
+    <c>
+     <dc>7,Joseph,P,Hyatt,0,2.7378,4.0141,4.1361,2.8421,5.8707,2.5397,</dc>
+    </c>
+   </u>
+   <u>
+    <du>280,0,6.2919,7th Tennessee,,0,0,1.4207,1.2724,0.5054,1.1963,1.1035,1.2813,31,48,0,20951,2,0</du>
+    <c>
+     <dc>8,Robert,S,Woosley,0,3.3999,4.713,3.0203,2.8191,4.2729,4.7903,</dc>
+    </c>
+   </u>
+   <u>
+    <du>249,0,5.0584,14th Tennessee,,0,0,0.5519,1.1532,0.9288,1.3921,0.6895,1.1342,26,48,0,20952,2,0</du>
+    <c>
+     <dc>8,George,S,Harter,0,3.118,4.0094,4.8427,4.3995,3.4494,2.9899,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

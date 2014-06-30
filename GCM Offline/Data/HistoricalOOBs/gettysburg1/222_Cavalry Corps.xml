@@ -1,0 +1,14 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Cavalry Corps,3,2</do>
+   <c>
+    <dc>3,N.O.,,Body,0,0,0,0,0,0,0,(9-7)</dc>
+   </c>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+ </head>
+</xml>

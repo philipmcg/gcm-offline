@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>O'Neal's Brigade,5,2</do>
+   <c>
+    <dc>5,Edward,A,O'Neal,0,1,1,1,1,1,5,(10-2)</dc>
+   </c>
+   <u>
+    <du>387,0,6.2448,3rd Alabama,,0,0,1.1982,1.0433,0.7467,1.4067,0.768,1.1508,5,48,0,20854,2,0</du>
+    <c>
+     <dc>8,Andrew,R,Ford,0,5.0841,4.8803,3.3888,2.4315,3.2005,5.5309,</dc>
+    </c>
+   </u>
+   <u>
+    <du>352,0,6.2571,5th Alabama,,0,0,1.3967,0.9945,1.3538,0.6043,0.7686,1.0714,5,52,0,20855,2,0</du>
+    <c>
+     <dc>5,William,,Gregg,0,3.5337,2.2026,4.9888,2.2668,4.9285,2.97,</dc>
+    </c>
+   </u>
+   <u>
+    <du>421,0,6.0396,6th Alabama,,0,0,1.1892,1.054,0.6741,0.8297,1.2019,0.6653,5,47,0,20856,2,0</du>
+    <c>
+     <dc>6,Charles,,Butler,0,4.5336,3.5953,3.8006,2.0976,5.832,4.3951,</dc>
+    </c>
+   </u>
+   <u>
+    <du>352,0,5.203,12th Alabama,,0,0,0.5645,0.8911,0.9584,1.4901,0.6888,0.7614,28,49,0,20857,2,0</du>
+    <c>
+     <dc>5,Benjamin,S,Good,0,5.8352,4.049,5.363,4.119,3.499,4.4509,</dc>
+    </c>
+   </u>
+   <u>
+    <du>354,0,5.4519,26th Alabama,,0,0,0.9517,0.737,0.8036,1.1346,1.1052,0.5176,5,51,0,20858,2,0</du>
+    <c>
+     <dc>7,William,G,Meegan,0,2.1692,5.1301,4.603,5.674,3.3651,2.6792,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

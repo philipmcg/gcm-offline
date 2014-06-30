@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery A - 2nd U.S. Artillery,5,1</do>
+   <c>
+    <dc>10,John,H,Calef,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.3452,3in Ordnance,,0,1,5.4742,4.8574,5.4086,5.4101,5.3854,5.4493,88,37,0,20510,144,0</du>
+    <c>
+     <dc>10,Henry,A,Tresige,0,2.1301,2.0642,2.6143,2.1265,2.6477,5.7474,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7004,3in Ordnance,,0,1,4.5072,5.0918,4.9162,5.1202,5.0708,5.3894,88,38,0,20511,144,0</du>
+    <c>
+     <dc>15,Hugh,S,Fleming,0,5.0091,4.2867,5.3075,3.2214,4.4146,3.792,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7273,3in Ordnance,,0,1,4.5719,4.7666,5.2184,5.269,5.1954,5.4922,88,37,0,20512,144,0</du>
+    <c>
+     <dc>10,John,,Sprague,0,5.7777,3.5748,5.3634,2.658,2.6503,4.3073,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4025,3in Ordnance,,0,1,5.217,5.0805,5.0155,4.7936,4.5061,4.8646,88,39,0,20513,144,0</du>
+    <c>
+     <dc>16,Joseph,,Minor,0,2.4798,5.5467,2.7073,2.2407,4.0767,2.653,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.2332,3in Ordnance,,0,1,4.7924,4.7487,5.0669,5.1475,4.7999,4.9516,88,39,0,20514,144,0</du>
+    <c>
+     <dc>10,Andrew,T,Berry,0,3.0951,2.7605,2.3769,3.3972,3.0645,4.7935,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6811,3in Ordnance,,0,1,5.4753,5.1417,5.2259,4.5285,5.2343,5.0579,88,37,0,20515,144,0</du>
+    <c>
+     <dc>16,George,,Meier,0,4.2216,5.2494,2.0898,4.5657,3.3872,3.2828,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

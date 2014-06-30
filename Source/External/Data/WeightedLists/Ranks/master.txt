@@ -1,0 +1,39 @@
+cs_army.csv
+Lt Gen,10
+Maj Gen,90
+cs_corps.csv
+Maj Gen,100
+cs_div.csv
+Maj Gen,20
+Brig Gen,80
+cs_brig.csv
+Brig Gen,70
+Col,25
+Lt Col,5
+cs_cavbrig.csv
+Col,80
+Lt Col,15
+Maj,5
+cs_art.csv
+Capt,80
+1st Lt,19
+2nd Lt,1
+
+us_army.csv
+Maj Gen,100
+us_corps.csv
+Maj Gen,100
+us_div.csv
+Brig Gen,100
+us_brig.csv
+Brig Gen,50
+Col,45
+Lt Col,5
+us_cavbrig.csv
+Col,80
+Lt Col,15
+Maj,5
+us_art.csv
+Capt,70
+1st Lt,28
+2nd Lt,2

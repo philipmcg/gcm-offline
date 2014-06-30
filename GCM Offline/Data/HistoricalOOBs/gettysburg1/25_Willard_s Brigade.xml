@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Willard's Brigade,5,1</do>
+   <c>
+    <dc>5,George,L,Willard,0,3,3,1,3,3,5,(5-2)</dc>
+   </c>
+   <u>
+    <du>301,0,5.1016,39th New York 'Garibaldi Guards',,0,0,1.2459,0.5603,0.7672,0.5541,1.4208,0.8827,5,12,0,20099,143,130</du>
+    <c>
+     <dc>5,John,,McHaffie,0,4.9047,5.0484,4.252,3.0493,3.7514,3.3368,</dc>
+    </c>
+   </u>
+   <u>
+    <du>429,0,2.4928,111th New York,,0,0,0.7696,0.5972,0.6434,1.1709,1.2975,0.8679,45,13,0,20100,143,130</du>
+    <c>
+     <dc>5,Thomas,J,Simpson,0,5.7168,3.7392,4.7803,2.1677,2.0793,5.0927,</dc>
+    </c>
+   </u>
+   <u>
+    <du>431,0,1.0074,125th New York,,0,0,1.2755,0.5618,0.5658,0.6337,1.3663,1.4342,45,6,0,20101,143,130</du>
+    <c>
+     <dc>6,John,,Hildebrand,0,4.9847,2.6829,4.2589,4.0738,4.8215,2.7664,</dc>
+    </c>
+   </u>
+   <u>
+    <du>497,0,2.2168,126th New York,,0,0,1.336,0.5897,1.1061,1.0582,0.7641,0.6487,45,9,0,20102,143,130</du>
+    <c>
+     <dc>6,Alonzo,H,Bigelow,0,2.8816,5.5647,3.5972,2.0708,2.4296,4.9255,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

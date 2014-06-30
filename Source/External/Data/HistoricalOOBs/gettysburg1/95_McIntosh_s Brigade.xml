@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>McIntosh's Brigade,5,1</do>
+   <c>
+    <dc>5,John,B,McIntosh,0,2,4,4,4,3,5,(5-6)</dc>
+   </c>
+   <u>
+    <du>318,0,5.2517,1st Maryland Cavalry,,0,2,0.6067,1.1229,1.4487,1.1726,0.6393,1.4682,10,17,0,20455,144,119</du>
+    <c>
+     <dc>7,Lewis,A,Rusick,0,4.2346,2.1249,2.0263,4.0114,2.3368,3.4053,</dc>
+    </c>
+   </u>
+   <u>
+    <du>82,0,1.0844,Purnell Legion Cavalry,,0,2,0.7301,1.1138,1.4431,0.7339,0.973,1.4633,10,19,0,20456,144,119</du>
+    <c>
+     <dc>9,Alvin,D,Hood,0,5.0043,5.1478,5.8494,5.6077,2.3103,5.6648,</dc>
+    </c>
+   </u>
+   <u>
+    <du>227,0,5.0024,1st New Jersey Cavalry,,0,2,0.6463,1.3242,1.194,0.8731,1.2283,1.0777,10,20,0,20457,144,127</du>
+    <c>
+     <dc>6,Urbin,,Bruch,0,5.0946,5.087,2.9486,2.0182,2.3355,2.8774,</dc>
+    </c>
+   </u>
+   <u>
+    <du>392,0,5.1927,1st Pennsylvania Cavalry,,0,2,0.5132,1.0221,1.1363,1.064,1.4378,1.2195,10,17,0,20458,144,131</du>
+    <c>
+     <dc>5,John,C,Ely,0,3.5963,2.6694,2.5027,3.5792,3.0701,4.2783,</dc>
+    </c>
+   </u>
+   <u>
+    <du>66,0,5.4291,3rd Pennsylvania Cavalry,,0,2,1.4874,1.2193,1.4696,0.7328,1.1009,1.1389,44,19,0,20459,144,131</du>
+    <c>
+     <dc>9,John,H,Heard,0,5.6259,2.3278,4.5643,2.6041,4.5422,3.6181,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

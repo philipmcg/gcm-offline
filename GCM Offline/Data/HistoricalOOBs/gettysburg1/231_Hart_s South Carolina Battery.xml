@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Hart's South Carolina Battery,5,2</do>
+   <c>
+    <dc>8,James,F,Hart,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.9413,12lb Blakely,,0,1,3.9544,3.8048,3.7835,4.3629,4.1589,4.3907,73,77,0,21084,4,0</du>
+    <c>
+     <dc>10,Dempsey,C,Stewart,0,4.75,4.2711,2.9206,3.1903,3.4272,2.1087,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.312,12lb Blakely,,0,1,4.3389,4.3116,4.3691,3.8211,3.5742,4.2972,73,76,0,21085,4,0</du>
+    <c>
+     <dc>16,John,D,Eubanks,0,4.4723,2.446,3.728,3.0658,3.3251,5.7685,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.1451,12lb Blakely,,0,1,3.5362,4.2214,4.1988,4.3748,4.0487,4.4826,73,77,0,21086,4,0</du>
+    <c>
+     <dc>10,George,R,Briley,0,3.1812,4.7349,5.8973,3.1392,4.3197,3.2566,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Semmes's Brigade,5,2</do>
+   <c>
+    <dc>4,Paul,J,Semmes,0,6,3,4,5,4,2,(1-0)</dc>
+   </c>
+   <u>
+    <du>337,0,5.4185,10th Georgia,,0,0,1.2423,0.8248,0.9201,0.6223,1.2034,0.5265,28,48,0,20632,2,0</du>
+    <c>
+     <dc>6,Bird,M,Adkisson,0,4.905,5.3945,5.2866,3.2017,3.2821,2.7136,</dc>
+    </c>
+   </u>
+   <u>
+    <du>337,0,3.1424,50th Georgia,,0,0,0.624,0.9712,0.504,0.8676,0.8561,1.3291,28,49,0,20633,2,0</du>
+    <c>
+     <dc>6,William,H,Davis,0,2.4073,4.6566,5.9315,4.5851,5.012,5.7537,</dc>
+    </c>
+   </u>
+   <u>
+    <du>337,0,3.0986,51st Georgia,,0,0,1.2072,1.0233,0.9705,1.39,0.8026,0.5389,31,51,0,20634,2,0</du>
+    <c>
+     <dc>6,Isham,H,Lindsey,0,4.7575,2.5645,4.4365,4.2926,2.0302,4.4905,</dc>
+    </c>
+   </u>
+   <u>
+    <du>463,0,3.395,53rd Georgia,,0,0,0.647,0.962,1.131,1.0566,0.8224,0.948,31,52,0,20635,2,0</du>
+    <c>
+     <dc>6,William,E,Gates,0,3.7869,4.8952,5.7963,4.1043,2.4673,5.0448,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

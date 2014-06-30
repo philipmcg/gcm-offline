@@ -1,0 +1,14 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Second Corps,3,2</do>
+   <c>
+    <dc>2,Richard,S,Ewell,0,7,3,4,5,4,3,(2-0)</dc>
+   </c>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+ </head>
+</xml>

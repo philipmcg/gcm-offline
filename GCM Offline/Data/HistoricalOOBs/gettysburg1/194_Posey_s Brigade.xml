@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Posey's Brigade,5,2</do>
+   <c>
+    <dc>4,Carnot,,Posey,0,3,2,3,3,3,0,(5-3)</dc>
+   </c>
+   <u>
+    <du>339,0,5.4324,12th Mississippi,,0,0,1.0178,0.6632,1.3824,1.1799,1.3149,1.0784,37,48,0,20920,2,0</du>
+    <c>
+     <dc>7,William,R,Sarver,0,2.365,4.1605,5.7171,2.0963,4.4222,4.5003,</dc>
+    </c>
+   </u>
+   <u>
+    <du>424,0,5.4349,16th Mississippi,,0,0,0.5138,1.471,1.4122,0.8222,0.8165,0.9593,41,48,0,20921,2,0</du>
+    <c>
+     <dc>5,Joseph,H,Burton,0,4.4128,4.3251,3.3465,4.8836,4.4259,2.4432,</dc>
+    </c>
+   </u>
+   <u>
+    <du>410,0,4.0595,19th Mississippi,,0,0,1.4023,0.7231,1.1179,1.4212,1.1815,1.4198,5,48,0,20922,2,0</du>
+    <c>
+     <dc>6,Luke,H,Davis,0,3.5513,3.4548,5.7269,2.3844,5.3344,5.2846,</dc>
+    </c>
+   </u>
+   <u>
+    <du>288,0,4.2697,48th Mississippi,,0,0,0.5018,0.6057,0.5822,0.6223,0.9681,0.7509,5,48,0,20923,2,0</du>
+    <c>
+     <dc>5,Thomas,,Fleming,0,2.98,3.9901,3.9797,3.4957,3.0564,2.8022,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Pettigrew's Brigade,5,2</do>
+   <c>
+    <dc>4,James,J,Pettigrew,0,3,4,4,4,5,5,(7-3)</dc>
+   </c>
+   <u>
+    <du>666,0,2.4614,11th North Carolina,,0,0,1.3538,0.8684,0.6347,1.3806,0.5227,1.2012,26,51,0,20944,2,0</du>
+    <c>
+     <dc>5,Frank,B,Mayfield,0,2.1016,4.2587,2.6386,4.4187,3.7178,3.9649,</dc>
+    </c>
+   </u>
+   <u>
+    <du>896,0,5.2303,26th North Carolina,,0,0,0.5775,0.6124,0.8485,1.3413,0.6503,1.1678,31,49,0,20945,2,0</du>
+    <c>
+     <dc>5,George,S,Pedigo,0,3.296,2.5493,4.0372,5.2339,5.0571,2.1531,</dc>
+    </c>
+   </u>
+   <u>
+    <du>614,0,2.0167,47th North Carolina,,0,0,1.2834,0.5634,1.0911,1.4186,0.9731,0.5561,28,48,0,20946,2,0</du>
+    <c>
+     <dc>5,Gus,E,Benton,0,5.2047,4.9052,3.515,2.5121,3.397,2.0784,</dc>
+    </c>
+   </u>
+   <u>
+    <du>600,0,1.3058,52nd North Carolina,,0,0,0.8874,0.8834,1.0959,0.5606,0.8379,0.9374,5,47,0,20947,2,0</du>
+    <c>
+     <dc>5,Samuel,D,Crews,0,2.8152,2.9245,5.8047,5.902,4.1882,4.1546,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

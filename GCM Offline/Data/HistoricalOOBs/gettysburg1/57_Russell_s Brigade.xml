@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Russell's Brigade,5,1</do>
+   <c>
+    <dc>4,David,A,Russell,0,5,5,4,4,4,5,(4-4)</dc>
+   </c>
+   <u>
+    <du>434,0,6.2403,6th Maine,,0,0,0.7677,0.9121,1.3917,0.7867,0.9214,1.4644,45,12,0,20267,143,122</du>
+    <c>
+     <dc>6,Edward,,Long,0,2.2457,2.0462,2.3715,5.1609,5.5106,4.5889,</dc>
+    </c>
+   </u>
+   <u>
+    <du>323,0,6.0016,49th Pennsylvania,,0,0,1.4164,1.0271,0.5679,0.6446,0.5391,1.3782,6,13,0,20268,143,132</du>
+    <c>
+     <dc>7,Charles,,Quinn,0,2.6557,5.3286,3.4402,2.8095,2.506,3.5212,</dc>
+    </c>
+   </u>
+   <u>
+    <du>464,0,3.0431,119th Pennsylvania,,0,0,1.2821,1.1815,0.7776,1.3777,0.9524,1.4446,45,6,0,20269,143,132</du>
+    <c>
+     <dc>7,Samuel,T,Hackenburg,0,2.0604,5.1961,5.583,3.77,4.2608,5.7157,</dc>
+    </c>
+   </u>
+   <u>
+    <du>480,0,5.4668,5th Wisconsin,,0,0,1.4916,1.2751,1.1874,1.3953,0.9656,0.5434,6,9,0,20270,143,139</du>
+    <c>
+     <dc>6,Christian,W,Bumbarger,0,2.0294,2.9548,4.4517,4.3089,3.8897,2.5338,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,40 @@
+Name,ID,Font,Scale,
+,idstring,string,[.1-100],
+
+,Name,"User defined name, not used by the program, cannot be blank",,
+,ID,"id of this font, used in screens for different types of text",,
+,Font,the name of the pft file in the graphics/fonts folder that this font refers to,,
+,Scale,"the scale of the font, use 1 for default scale",,
+
+,DefaultSmall,DefaultSmall,Verdana15.pft,1
+,DefaultMedium,DefaultMedium,Verdana15.pft,1.3
+,DefaultLarge,DefaultLarge,Verdana20.pft,1
+
+,BattleDate,BattleDate,FGDemi20.pft,1
+,CategoryText,CategoryText,Rosewood20.pft,1
+,EndFont,EndFont,Goudy20.pft,1
+,EndHeader,EndHeader,Goudy20.pft,1.25
+,HelpHeader,HelpHeader,Georgia20.pft,1.25
+,HelpText,HelpText,Georgia20.pft,1
+,HighScore,HighScore,FGDemi21.pft,1
+,LegendText,LegendText,Rosewood14.pft,1
+,MainScreen_Title,MainScreen_Title,EngraversMT72.pft,1
+,MainScreen_Title2,MainScreen_Title2,EngraversMT54.pft,1
+,MainScreen_Title3,MainScreen_Title3,EngraversMT36.pft,1
+,MenuText,MenuText,Rosewood30.pft,1
+,MsgFont,MsgFont,VinerHand32.pft,1
+,OptionText,OptionText,BodoniMT20.pft,1
+,PopUp_Title,PopUp_Title,EngraversMT32.pft,1
+,StatusFont,StatusFont,ArialMT20.pft,1
+
+,Georgia14,Georgia14,Verdana15.pft,1
+,Georgia16,Georgia16,Verdana15.pft,1
+,Georgia19,Georgia19,Verdana15.pft,1.5
+,ArielNarrow16,ArielNarrow16,Verdana15.pft,1
+,ArielNarrow18,ArielNarrow18,Verdana15.pft,1.25
+
+MsgFont2x,MsgFont2x,VinerHand32.pft,1.5,
+DefaultSmall2,DefaultSmall2,Verdana15.pft,0.9,
+DefaultMedium2,DefaultMedium2,Verdana15.pft,1.2,
+DefaultMedium3,DefaultMedium3,Verdana15.pft,1.1,
+DefaultLarge2,DefaultLarge2,Verdana20.pft,2.2,

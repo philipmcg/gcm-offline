@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Ames's Brigade,5,1</do>
+   <c>
+    <dc>4,Adelbert,,Ames,0,4,4,1,2,3,3,(0-5)</dc>
+   </c>
+   <u>
+    <du>425,0,2.2806,17th Connecticut,,0,0,0.9281,0.9407,1.1784,1.1103,1.1146,1.352,5,9,0,20347,143,110</du>
+    <c>
+     <dc>5,George,,Moor,0,4.3478,5.1852,3.4761,2.8744,3.0943,4.4905,</dc>
+    </c>
+   </u>
+   <u>
+    <du>249,0,4.1668,25th Ohio,,0,0,1.1317,1.3212,1.2677,0.9336,0.7949,0.5016,5,12,0,20348,143,139</du>
+    <c>
+     <dc>6,Franklin,T,Corey,0,5.5559,5.0449,2.9167,3.365,5.5643,3.4448,</dc>
+    </c>
+   </u>
+   <u>
+    <du>301,0,4.4252,75th Ohio,,0,0,1.0469,1.1563,1.2142,0.9101,0.5625,1.3081,5,13,0,20349,143,139</du>
+    <c>
+     <dc>6,Jeremiah,W,Rockwell,0,2.6882,4.0033,3.8012,3.239,5.8472,2.3534,</dc>
+    </c>
+   </u>
+   <u>
+    <du>500,0,4.0967,107th Ohio,,0,0,0.8293,0.7668,1.4298,0.9343,0.7796,0.985,28,6,0,20350,143,139</du>
+    <c>
+     <dc>7,Joseph,,Cornelius,0,3.5094,2.4552,2.0889,5.6701,2.0646,2.0469,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

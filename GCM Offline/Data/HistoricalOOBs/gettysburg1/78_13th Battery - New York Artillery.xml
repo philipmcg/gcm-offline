@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>13th Battery - New York Artillery,5,1</do>
+   <c>
+    <dc>9,William,,Wheeler,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.8763,3in Ordnance,,0,1,3.5933,3.6044,4.1839,3.8777,4.174,3.636,88,37,0,20375,144,0</du>
+    <c>
+     <dc>15,John,F,Winegar,0,4.6298,3.741,4.1149,5.1651,3.4313,4.5194,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8416,3in Ordnance,,0,1,3.5901,3.7964,4.3165,3.7405,3.911,3.9551,88,37,0,20376,144,0</du>
+    <c>
+     <dc>15,Joseph,H,Baughman,0,3.1398,5.7966,4.1122,2.4753,4.4028,4.7556,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7815,3in Ordnance,,0,1,3.9125,4.0683,3.9058,4.3998,4.1535,4.4801,88,38,0,20377,144,0</du>
+    <c>
+     <dc>15,Albert,L,Gray,0,2.0477,4.9639,2.1626,3.7909,2.9072,2.3028,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6658,3in Ordnance,,0,1,3.9735,3.8659,4.0025,3.8327,3.7231,3.7684,88,39,0,20378,144,0</du>
+    <c>
+     <dc>16,William,D,Summers,0,3.1912,4.9544,4.6555,3.1105,2.6724,2.5018,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

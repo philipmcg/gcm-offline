@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery C &amp; F - Pennsylvania Artillery,5,1</do>
+   <c>
+    <dc>8,James,,Thompson,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.5265,3in Ordnance,,0,1,2.9292,3.4202,3.2974,3.1858,3.0946,3.2181,88,38,0,20558,144,0</du>
+    <c>
+     <dc>10,Joseph,C,Henderson,0,5.113,4.3468,5.9926,4.7819,3.8005,3.6059,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1727,3in Ordnance,,0,1,2.8179,2.7002,3.4065,3.0306,3.392,2.5258,88,39,0,20559,144,0</du>
+    <c>
+     <dc>16,Frank,A,Bickly,0,5.6143,4.9821,4.4131,3.0146,3.5255,4.7194,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8256,3in Ordnance,,0,1,3.4208,3.0058,3.3628,3.2899,3.0986,3.2052,88,39,0,20560,144,0</du>
+    <c>
+     <dc>10,Joseph,W,Haling,0,3.0537,3.5629,2.9712,5.6248,5.0146,2.8929,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2795,3in Ordnance,,0,1,3.3155,2.9953,2.7956,2.5342,2.9467,3.3184,88,37,0,20561,144,0</du>
+    <c>
+     <dc>15,Thomas,C,Weis,0,3.0918,3.025,5.9505,5.5281,3.8614,2.1229,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9106,3in Ordnance,,0,1,2.5217,2.9157,2.9527,2.9229,3.2348,2.901,88,39,0,20562,144,0</du>
+    <c>
+     <dc>16,Edward,G,Collins,0,2.9753,4.1891,5.4107,3.3419,5.8085,4.7528,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4097,3in Ordnance,,0,1,2.6628,3.0222,2.7105,2.6133,3.1589,3.3278,88,38,0,20563,144,0</du>
+    <c>
+     <dc>15,John,O,Bonnell,0,2.7478,3.9811,3.2371,2.7911,5.7896,3.7831,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

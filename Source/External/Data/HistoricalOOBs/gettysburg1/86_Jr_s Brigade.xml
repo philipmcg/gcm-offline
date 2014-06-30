@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jr's Brigade,5,1</do>
+   <c>
+    <dc>5,George,A,Jr,0,0,2,2,2,2,2,(0-6)</dc>
+   </c>
+   <u>
+    <du>394,0,4.1332,29th Pennsylvania,,0,0,1.185,0.5505,1.083,0.6558,0.8117,0.846,45,13,0,20415,143,132</du>
+    <c>
+     <dc>8,Levi,,Zigler,0,3.2892,4.9945,5.9139,5.0008,4.1757,2.7633,</dc>
+    </c>
+   </u>
+   <u>
+    <du>173,0,2.1567,109th Pennsylvania,,0,0,1.4258,1.0612,1.3792,0.8947,0.956,1.4278,45,6,0,20416,143,132</du>
+    <c>
+     <dc>9,George,,Daniels,0,4.6308,2.1645,5.4475,2.8887,4.3002,4.988,</dc>
+    </c>
+   </u>
+   <u>
+    <du>218,0,3.209,111th Pennsylvania,,0,0,1.3205,1.3999,1.2419,1.0732,0.6123,0.506,5,9,0,20417,143,132</du>
+    <c>
+     <dc>8,Charles,,Penny,0,4.6243,4.0522,3.0084,2.9787,5.7961,3.5222,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Ruger's Brigade,5,1</do>
+   <c>
+    <dc>4,Thomas,H,Ruger,0,5,4,5,5,4,4,(9-5)</dc>
+   </c>
+   <u>
+    <du>426,0,6.4037,27th Indiana,,0,0,1.3345,0.8242,0.8139,1.451,1.3627,0.9429,27,6,0,20404,143,116</du>
+    <c>
+     <dc>6,William,A,Erbe,0,3.233,4.4082,5.5738,2.5,4.6557,4.7603,</dc>
+    </c>
+   </u>
+   <u>
+    <du>351,0,6.2318,2nd Massachusetts,,0,0,1.1585,1.1679,1.2915,0.7339,0.7735,0.812,5,9,0,20405,143,118</du>
+    <c>
+     <dc>6,Jesse,S,Luckens,0,5.4304,2.2066,3.8374,3.0886,2.5625,5.3508,</dc>
+    </c>
+   </u>
+   <u>
+    <du>384,0,2.0654,13th New Jersey,,0,0,1.3673,0.5536,1.3932,1.1717,0.6447,0.5358,28,12,0,20406,143,128</du>
+    <c>
+     <dc>6,Amos,D,Steinmetz,0,5.6863,3.3705,2.3813,3.3125,4.2443,4.5657,</dc>
+    </c>
+   </u>
+   <u>
+    <du>354,0,2.1381,107th New York,,0,0,0.8908,0.9509,1.1925,1.2013,0.7943,0.9796,45,13,0,20407,143,130</du>
+    <c>
+     <dc>5,John,B,Wells,0,4.5885,2.6875,2.4797,4.7712,2.5904,4.8756,</dc>
+    </c>
+   </u>
+   <u>
+    <du>292,0,5.2781,3rd Wisconsin,,0,0,0.9034,0.7507,0.918,1.221,1.228,1.0787,45,6,0,20408,143,139</du>
+    <c>
+     <dc>7,William,W,Hodge,0,3.776,5.3341,2.6554,3.2054,4.7851,4.0592,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

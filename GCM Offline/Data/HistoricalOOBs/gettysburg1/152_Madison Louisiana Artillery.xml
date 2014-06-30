@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Madison Louisiana Artillery,5,2</do>
+   <c>
+    <dc>8,George,V,Moody,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.872,24lb Howitzer,,0,1,5.9652,5.628,5.9773,6.0554,6.3904,5.6143,84,73,0,20744,4,0</du>
+    <c>
+     <dc>15,Robert,,Allen,0,2.0999,4.7413,3.5296,4.0467,5.8854,4.5941,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2339,24lb Howitzer,,0,1,5.5224,6.2795,6.0216,5.6539,5.5812,5.9277,84,75,0,20745,4,0</du>
+    <c>
+     <dc>16,John,M,Sutphin,0,3.5471,4.0454,3.532,3.3771,4.5376,5.1061,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.548,24lb Howitzer,,0,1,6.2488,5.9476,5.642,5.8975,5.8663,6.3346,84,75,0,20746,4,0</du>
+    <c>
+     <dc>15,Charles,,Nisbit,0,4.3779,5.6289,3.5518,3.9207,3.3777,4.6893,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.3419,24lb Howitzer,,0,1,5.7106,6.3712,5.5143,5.9169,5.7812,6.1281,84,75,0,20747,4,0</du>
+    <c>
+     <dc>16,Columbus,C,Fuller,0,5.3095,3.1662,3.4127,5.9395,4.2809,3.8589,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

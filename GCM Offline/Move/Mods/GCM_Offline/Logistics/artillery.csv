@@ -1,0 +1,53 @@
+Name,ID,Type ID,Min,Best,Normal,Long,Maximum,Reliability,ROF,MROF,Can Pct,Shell Pct,Shrap Pct,Solid Pct,ArtyTableID,Can ID,Shell ID,Shrap ID,Solid ID,,,,,,,,,
+,idstring,idstring,[1/10000],[1/10000],[1/10000],[1/10000],[1/10000],[0.0/100.0],[1/10000],[1/10000],[0/100],[0/100],[0/100],[0/100],idstring,idstring,idstring,idstring,idstring,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Name,User defined name, not used by the program, cannot be blank,,,,,,,,,,,,,,,,,,,,,,,,
+,ID,id of this cannon, used by reference in other csv files such as oobs, also used to identify from the string tables, the textual name of this cannon,,,,,,,,,,,,,,,,,,,,,,,
+,Type ID,A second string id for this cannon, this will allow an additional line of description for the piece of artillery,,,,,,,,,,,,,,,,,,,,,,,,,
+,Min,The closest range where this cannon would be used in yards,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Best,The most accurate range of this cannon in yards,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Normal,The typical range where this cannnon was fired in yards,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Long,A very long range for using this cannon in yards,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Maximum,The farthest away that this cannon has any chance of hitting a target in yards,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Reliability,The base percent chance that this cannon has of successfully being loaded and fired, this can be modified by other factors, so this should be the lowest chance of success for a rookie crew,,,,,,,,,,,,,,,,,,,,,,,,
+,ROF,The rate of fire for this weapon, this is the number of seconds it takes between each shot to reload the cannon,,,,,,,,,,,,,,,,,,,,,,,,,
+,MROF,The best rate of fire for this weapon, this is the number of seconds it takes between each shot to reload the cannon,,,,,,,,,,,,,,,,,,,,,,,,,
+,Can Pct,The ammo distribution to cannister, so if this unit were given 100 rounds of ammo, this is the number of those that would be cannister, the four of these pct values must add up to exactly 100, you can leave them blank to erase that ammo type,,,,,,,,,,,,,,,,,,,,,,
+,Shell Pct,The ammo distribution to shell, so if this unit were given 100 rounds of ammo, this is the number of those that would be shell, the four of these pct values must add up to exactly 100, you can leave them blank to erase that ammo type,,,,,,,,,,,,,,,,,,,,,,
+,Shrap Pct,The ammo distribution to shrapnel, so if this unit were given 100 rounds of ammo, this is the number of those that would be shrapnel, the four of these pct values must add up to exactly 100, you can leave them blank to erase that ammo type,,,,,,,,,,,,,,,,,,,,,,
+,Solid Pct,The ammo distribution to solid shot, so if this unit were given 100 rounds of ammo, this is the number of those that would be solid shot, the four of these pct values must add up to exactly 100, you can leave them blank to erase that ammo type,,,,,,,,,,,,,,,,,,,,,,
+,ArtyTableID,This is the bore type of this piece of artillery.  It is used in artytables.csv to look up the factors for firing this weapon.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Can ID,The id of this ammunition type from the artillery ammunition table.  There are up to four different types of ammunition per cannon.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Shell ID,The id of this ammunition type from the artillery ammunition table.  There are up to four different types of ammunition per cannon.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Shrap ID,The id of this ammunition type from the artillery ammunition table.  There are up to four different types of ammunition per cannon.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Solid ID,The id of this ammunition type from the artillery ammunition table.  There are up to four different types of ammunition per cannon.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10lb_Parrott_CSA,IDS_ARSN_10lb_Parrott_CSA,IDS_ARSN_Rifled,100,400,800,2000,2400,100,38,38,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,35,35,,41,41
+10lb_Parrott_USA,IDS_ARSN_10lb_Parrott_USA,IDS_ARSN_Rifled,100,400,800,2000,2400,100,36,36,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,33,33,,39,39
+12lb_Armstrong,IDS_ARSN_12lb_Armstrong,IDS_ARSN_Rifled,100,400,800,1000,1400,100,38,38,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,35,35,,41,41
+12lb_Blakely,IDS_ARSN_12lb_Blakely,IDS_ARSN_Rifled,100,400,800,1000,1400,100,37,37,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,34,34,,40,40
+12lb_Clay,IDS_ARSN_12lb_Clay,IDS_ARSN_Rifled,100,400,800,1000,1400,100,36,36,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,33,33,,39,39
+12lb_Howitzer_CSA,IDS_ARSN_12lb_Howitzer_CSA,IDS_ARSN_Smoothbore,80,400,800,1000,1400,100,37,37,10,40,50,0,IDS_SHORTSMOOTHBORE,IDS_AMMO_H_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,,,,,,34,34,,40,40
+12lb_Howitzer_USA,IDS_ARSN_12lb_Howitzer_USA,IDS_ARSN_Smoothbore,80,400,800,1000,1400,100,38,38,10,40,50,0,IDS_SHORTSMOOTHBORE,IDS_AMMO_H_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,,,,,,35,35,,41,41
+12lb_James,IDS_ARSN_12lb_James,IDS_ARSN_Rifled,100,400,800,1000,1400,100,36,36,10,15,15,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,33,33,,39,39
+12lb_Napoleon_CSA,IDS_ARSN_12lb_Napoleon_CSA,IDS_ARSN_Smoothbore,80,500,800,1000,1600,100,29,29,10,15,15,60,IDS_LONGSMOOTHBORE,IDS_AMMO_SB_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,27,27,,32,32
+12lb_Napoleon_USA,IDS_ARSN_12lb_Napoleon_USA,IDS_ARSN_Smoothbore,80,500,800,1000,1600,100,29,29,10,15,15,60,IDS_LONGSMOOTHBORE,IDS_AMMO_SB_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,27,27,,32,32
+12lb_Whitworth,IDS_ARSN_12lb_Whitworth,IDS_ARSN_Rifled,100,400,800,3000,4000,100,38,38,0,0,0,100,IDS_WHITWORTH,,,,IDS_AMMO_10lb_Parrott_Solid,,,,,35,35,,41,41
+14lb_James,IDS_ARSN_14lb_James,IDS_ARSN_Rifled,100,400,800,1000,1400,100,37,37,10,15,15,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,34,34,,40,40
+20lb_Parrott_CSA,IDS_ARSN_20lb_Parrott_CSA,IDS_ARSN_Rifled,100,400,800,1000,2200,100,41,41,15,15,10,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,38,38,,45,45
+20lb_Parrott_USA,IDS_ARSN_20lb_Parrott_USA,IDS_ARSN_Rifled,100,400,800,1000,2200,100,41,41,15,15,10,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,38,38,,45,45
+24lb_Howitzer_CSA,IDS_ARSN_24lb_Howitzer_CSA,IDS_ARSN_Smoothbore,80,400,800,1000,1400,100,40,40,15,50,15,0,IDS_SHORTSMOOTHBORE,IDS_AMMO_H_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,,,,,,37,37,,44,44
+24lb_Howitzer_USA,IDS_ARSN_24lb_Howitzer_USA,IDS_ARSN_Smoothbore,80,400,800,1000,1400,100,40,40,15,50,15,0,IDS_SHORTSMOOTHBORE,IDS_AMMO_H_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,,,,,,37,37,,44,44
+3.5in_James,IDS_ARSN_3.5in_James,IDS_ARSN_Rifled,100,400,800,1000,1400,100,31,31,10,15,15,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,29,29,,34,34
+3in_Ordnance_CSA,IDS_ARSN_3in_Ordnance_CSA,IDS_ARSN_Rifled,100,400,800,2000,2400,100,32,32,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,29,29,,35,35
+3in_Ordnance_USA,IDS_ARSN_3in_Ordnance_USA,IDS_ARSN_Rifled,100,400,800,2000,2400,100,31,31,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,29,29,,34,34
+3in_Rodman_CSA,IDS_ARSN_3in_Rodman_CSA,IDS_ARSN_Rifled,100,400,800,2000,2400,100,33,33,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,30,30,,36,36
+3in_Rodman_USA,IDS_ARSN_3in_Rodman_USA,IDS_ARSN_Rifled,100,400,800,2000,2400,100,31,31,10,10,20,60,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,29,29,,34,34
+6lb_M1841_Rifle_CSA,IDS_ARSN_6lb_M1841_Rifle_CSA,IDS_ARSN_Rifled,100,400,800,1000,1400,100,32,32,10,0,20,70,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,29,29,,35,35
+6lb_M1841_Rifle_USA,IDS_ARSN_6lb_M1841_Rifle_USA,IDS_ARSN_Rifled,100,400,800,1000,1400,100,33,33,10,0,20,70,IDS_RIFLED,IDS_AMMO_R_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,30,30,,36,36
+6lb_M1841_USA,IDS_ARSN_6lb_M1841_USA,IDS_ARSN_Smoothbore,80,400,800,1000,1100,100,33,33,10,0,20,70,IDS_LONGSMOOTHBORE,IDS_AMMO_SB_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,30,30,,36,36
+6lb_M1841_CSA,IDS_ARSN_6lb_M1841_CSA,IDS_ARSN_Smoothbore,80,400,800,1000,1100,100,32,32,10,0,20,70,IDS_LONGSMOOTHBORE,IDS_AMMO_SB_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,29,29,,35,35
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spare Cannon,IDS_ARSN_Objective_Gun,IDS_ARSN_Smoothbore,1,2,3,4,5,0,60000,60000,0,0,0,0,IDS_LONGSMOOTHBORE,IDS_AMMO_SB_Canister,IDS_AMMO_10lb_Parrott_Shell_USA,IDS_AMMO_10lb_Parrott_Shrapnel_USA,IDS_AMMO_10lb_Parrott_Solid,,,,,30,30,,36,36
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,min: 50, optimal: 201, typical: 851, long: 2001, max: 2500.  ,,,,,,,,,,,,,,,,,,,,,

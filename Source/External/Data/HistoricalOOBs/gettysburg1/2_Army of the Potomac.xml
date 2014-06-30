@@ -1,0 +1,14 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Army of the Potomac,2,1</do>
+   <c>
+    <dc>3,George,G,Meade,0,7,5,5,5,3,3,(0-0)</dc>
+   </c>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+ </head>
+</xml>

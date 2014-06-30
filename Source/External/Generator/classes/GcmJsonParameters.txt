@@ -1,0 +1,50 @@
+
+namespace = GCM.Controllers
+
+casing = no
+
+using
+ System.Xml.Serialization
+
+ArgGetBattlePlayersInfo
+ int BattleID
+ 
+ArgGetTurnLinksForDivision
+ int DivisionID
+ int NumberToShow
+
+ArgGetDivisionHistory
+ int DivisionID
+ int NumberToShow
+ 
+ArgGetBattleLinksForDivision
+ int DivisionID
+ int NumberToShow
+
+ArgPlayerID
+ int PlayerID
+
+ArgLobbyLeaveRoom
+ int RoomID
+ int PlayerID
+
+ArgLobbyJoinRoom
+ int RoomID
+ int PlayerID
+
+ArgLobbyKick
+ int RoomID
+ int PlayerID
+ int HostID
+
+ArgLobbyChangeTeam
+ int RoomID
+ int PlayerID
+ int HostID
+ int TeamID
+
+ArgLobbySetOption
+ int RoomID
+ int HostID
+ string Key
+ string Value

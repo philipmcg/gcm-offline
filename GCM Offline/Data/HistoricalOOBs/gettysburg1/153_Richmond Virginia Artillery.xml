@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Richmond Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,William,W,Parker,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.3138,3in Ordnance,,0,1,2.4126,1.9591,1.9865,1.7909,2.2871,2.344,87,78,0,20748,4,0</du>
+    <c>
+     <dc>10,John,M,Larney,0,4.7029,2.4778,3.0525,5.1646,4.5374,3.152,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.0962,3in Ordnance,,0,1,1.754,1.5294,2.1251,2.3765,2.005,2.478,87,78,0,20749,4,0</du>
+    <c>
+     <dc>16,Andrew,,Reynolds,0,5.6304,4.6475,3.9156,5.3257,3.171,3.5466,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4384,3in Ordnance,,0,1,2.0039,1.5551,2.0118,1.8903,2.2043,2.4447,87,76,0,20750,4,0</du>
+    <c>
+     <dc>15,Joseph,P,Blocker,0,4.9588,4.2738,5.4769,3.9351,5.4548,4.7722,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.3167,10lb Parrott,,0,1,1.9598,2.235,1.7388,2.2855,1.8292,1.615,70,78,0,20751,4,0</du>
+    <c>
+     <dc>15,Abraham,R,Shepherd,0,4.0359,2.0431,3.6427,4.8246,3.5692,4.8912,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

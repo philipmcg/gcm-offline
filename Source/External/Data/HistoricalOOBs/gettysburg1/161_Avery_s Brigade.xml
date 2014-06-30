@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Avery's Brigade,5,2</do>
+   <c>
+    <dc>5,Isaac,E,Avery,0,2,3,3,3,3,4,(9-1)</dc>
+   </c>
+   <u>
+    <du>554,0,6.2128,6th North Carolina,,0,0,0.7819,1.4116,0.9368,1.3034,1.0036,1.1492,41,49,0,20774,2,0</du>
+    <c>
+     <dc>5,Joseph,H,Ivey,0,4.3196,3.8384,4.8379,4.2526,2.7716,4.7726,</dc>
+    </c>
+   </u>
+   <u>
+    <du>477,0,5.1126,21st North Carolina,,0,0,1.2245,0.7879,0.8087,0.8869,0.959,1.1995,26,51,0,20775,2,0</du>
+    <c>
+     <dc>6,Enock,B,Henry,0,4.027,4.4855,3.6505,5.9631,4.2515,3.8511,</dc>
+    </c>
+   </u>
+   <u>
+    <du>331,0,2.4748,57th North Carolina,,0,0,1.1005,1.1458,0.9546,0.6536,1.3706,1.3391,5,52,0,20776,2,0</du>
+    <c>
+     <dc>7,John,M,Langley,0,4.757,2.1349,3.0768,4.7525,5.8209,5.1669,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

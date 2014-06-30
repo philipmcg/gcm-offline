@@ -1,0 +1,63 @@
+$GCM_Tips1
+<FONT=StatusFont,L,255,216,0>
+GCM - Things to be aware of
+ 
+ 
+Infantry - Fatigue
+ 
+- Regiments gain fatigue very quickly when moving double-quick.
+- Regiments that are tired are much less effective at both shooting and charging.
+- Regiments rest when they are not fighting or moving.
+ 
+ 
+Infantry - Morale
+ 
+- Morale starts at high, and will go down as a unit takes casualties.  
+- Commanders give a morale boost to regiments they are near.  This boost disappears as soon as the commander is no longer nearby.
+- Regiments may fall back or retreat without orders when their morale reaches 'uneasy', or sooner if they are undisciplined.
+- If a regiment breaks but does not rout, it will eventually stop retreating and it can then be rallied.  
+- To rally, send a commander to the regiment.  Rallying does not take long, but the regiment will only recover some of its lost morale.
+- Commanders will boost morale or rally any regiments within their radius.  
+- The radius depends on the level of command -- Brigade: 50yds,  Division: 100yds,  Corps: 150yds,  Army: 250yds
+- Regiments that are under shell or shrapnel fire will lose additional morale even if they are not taking casualties.
+- Regiments that are hit in the flank will lose morale five times faster than if they are hit in the front.
+- When a unit reaches 60% casualties it will rout off the field regardless of morale, giving enemy units nearby a big boost to morale.
+ 
+ 
+Artillery
+ 
+- Guns will become fatigued very quickly if they move through difficult terrain such as woods.
+- Guns also become fatigued quickly while they withdraw by recoil.
+- Fatigued artillery take a long time to limber or unlimber.
+- Solid shot is the most deadly ammunition other than canister, because it kills more if the target is dense or if it hits the flank.
+- Artillery is much more effective when firing from a higher elevation than the target.
+
+
+
+$GCM_Tips2
+<FONT=StatusFont,L,255,216,0>
+GCM - Things to be aware of
+ 
+ 
+Objectives
+ 
+- Objectives give points every minute to the side that holds them.
+- 2/3 of an objective's total points will be awarded in the last 1/3 of the game time.
+- To hold an objective, place an Objective Holder officer and a gun or supply wagon on the location.
+ 
+ 
+Terrain
+ 
+- A Regiment whose flag is on a stone wall will take half as many casualties as a regiment in the open.
+- A Regiment whose flag is in woods or heavy woods will take one third fewer casualties as a regiment in the open.
+- A Regiment whose flag is in orchard will take one sixth fewer casualties as a regiment in the open.
+- All units move faster on roads and slower through woods or across creeks.
+- Troops move very slowly through heavy woods.
+ 
+ 
+Infantry - Formations
+ 
+- Column is the fastest formation for moving when you are at least 300yds from the nearest enemy troops.
+- Within 300yds of the enemy, all formations move nearly the same, with Column by Divisions being fastest, and Skirmish being slowest.
+- Skirmish formation will take fewer casualties from artillery fire.
+- Regiments that are laying down will also take fewer casualties from artillery fire.

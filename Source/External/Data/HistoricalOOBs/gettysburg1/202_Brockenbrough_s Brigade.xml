@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Brockenbrough's Brigade,5,2</do>
+   <c>
+    <dc>5,John,M,Brockenbrough,0,5,2,1,1,2,2,(2-4)</dc>
+   </c>
+   <u>
+    <du>267,0,3.0304,22nd Virginia Battalion,,0,0,0.9191,0.6628,0.9972,1.1412,1.3959,1.2885,31,52,0,20957,2,0</du>
+    <c>
+     <dc>8,Jim,C,Phillips,0,5.8345,5.0039,5.875,4.9706,5.7229,5.2661,</dc>
+    </c>
+   </u>
+   <u>
+    <du>285,0,5.1147,40th Virginia,,0,0,0.7275,1.2089,0.9006,1.4345,0.9691,1.4831,26,52,0,20958,2,0</du>
+    <c>
+     <dc>8,Richard,H,Burkley,0,3.7041,5.6347,5.9909,3.1916,5.7332,2.5422,</dc>
+    </c>
+   </u>
+   <u>
+    <du>237,0,4.4026,47th Virginia,,0,0,0.8246,0.8687,0.571,0.948,0.7035,1.0746,40,52,0,20959,2,0</du>
+    <c>
+     <dc>6,John,,Lyon,0,3.3661,4.3271,4.7776,5.092,4.5953,3.4133,</dc>
+    </c>
+   </u>
+   <u>
+    <du>300,0,4.2042,55th Virginia,,0,0,0.5051,0.7604,0.8154,1.1715,0.5579,0.8684,28,52,0,20960,2,0</du>
+    <c>
+     <dc>6,Thomas,M,Anderson,0,4.1623,3.6629,4.3254,2.6804,5.8084,2.9731,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

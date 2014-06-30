@@ -1,0 +1,19 @@
+~artillery
+art	name	side	weapon	class
+u_10pdr_Parrott	10lb Parrott	1	IDS_ARSN_10lb_Parrott_USA	u_iron
+u_20pdr_Parrott	20lb Parrott	1	IDS_ARSN_20lb_Parrott_USA	u_iron
+u_3in_Ordnance_Rifle	3in Ordnance	1	IDS_ARSN_3in_Ordnance_USA	u_iron
+u_14pdr_James_Rifle	14lb James	1	IDS_ARSN_14lb_James	u_brass
+u_12pdr_Napoleon	12lb Napoleon	1	IDS_ARSN_12lb_Napoleon_USA	u_brass
+u_12pdr_Howitzer	12lb Howitzer	1	IDS_ARSN_12lb_Howitzer_USA	u_brass
+				
+c_10pdr_Parrott	10lb Parrott	2	IDS_ARSN_10lb_Parrott_CSA	c_iron
+c_20pdr_Parrott	20lb Parrott	2	IDS_ARSN_20lb_Parrott_CSA	c_iron
+c_3in_Ordnance_Rifle	3in Ordnance	2	IDS_ARSN_3in_Ordnance_CSA	c_iron
+c_12pdr_Whitworth_Rifle	12lb Whitworth	2	IDS_ARSN_12lb_Whitworth	c_iron
+c_Blakely_Rifle	12lb Blakely	2	IDS_ARSN_12lb_Blakely	c_iron
+c_12pdr_Napoleon	12lb Napoleon	2	IDS_ARSN_12lb_Napoleon_CSA	c_brass
+c_6pdr_Field_Gun	6lb Model 1841	2	IDS_ARSN_6lb_M1841_CSA	c_brass
+c_12pdr_Howitzer	12lb Howitzer	2	IDS_ARSN_12lb_Howitzer_CSA	c_brass
+c_24pdr_Howitzer	24lb Howitzer	2	IDS_ARSN_24lb_Howitzer_CSA	c_brass
+

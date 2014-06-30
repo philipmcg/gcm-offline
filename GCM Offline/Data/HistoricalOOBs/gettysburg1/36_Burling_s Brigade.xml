@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Burling's Brigade,5,1</do>
+   <c>
+    <dc>5,George,C,Burling,0,0,2,2,2,2,1,(3-3)</dc>
+   </c>
+   <u>
+    <du>391,0,4.1082,2nd New Hampshire,,0,0,0.5609,1.1929,0.547,0.9993,0.8026,0.722,45,12,0,20162,143,126</du>
+    <c>
+     <dc>6,Frederick,F,Danford,0,3.2998,2.3355,3.6581,2.1085,4.591,3.1578,</dc>
+    </c>
+   </u>
+   <u>
+    <du>234,0,4.1645,5th New Jersey,,0,0,1.3787,0.7669,0.7521,0.8073,1.2367,0.8227,6,13,0,20163,143,128</du>
+    <c>
+     <dc>8,Thomas,H,Shireman,0,5.0222,3.1064,4.9996,4.2277,3.8494,3.5476,</dc>
+    </c>
+   </u>
+   <u>
+    <du>235,0,4.4496,6th New Jersey,,0,0,0.6331,0.9259,1.1166,1.0379,0.9746,0.7967,45,6,0,20164,143,128</du>
+    <c>
+     <dc>6,Andrew,F,Detwiler,0,5.6783,3.7602,2.0582,2.8518,3.4474,2.3839,</dc>
+    </c>
+   </u>
+   <u>
+    <du>308,0,4.013,7th New Jersey,,0,0,1.2797,0.8921,1.1145,1.0725,0.8289,1.4083,31,9,0,20165,143,128</du>
+    <c>
+     <dc>6,John,M,Fillmore,0,5.6636,4.2253,2.8768,4.3179,4.3898,3.5388,</dc>
+    </c>
+   </u>
+   <u>
+    <du>196,0,4.1941,8th New Jersey,,0,0,0.701,0.5194,1.1731,1.039,0.971,0.8315,45,12,0,20166,143,128</du>
+    <c>
+     <dc>9,Silas,R,Ezzell,0,5.0795,2.8597,5.8015,5.9323,3.1637,3.9307,</dc>
+    </c>
+   </u>
+   <u>
+    <du>175,0,3.2883,115th Pennsylvania,,0,0,1.4186,0.6445,1.4928,1.3915,1.0906,0.9365,5,13,0,20167,143,132</du>
+    <c>
+     <dc>8,Francis,J,Keeler,0,4.8301,3.7465,3.5568,2.7454,2.845,5.9329,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

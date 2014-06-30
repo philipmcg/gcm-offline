@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>2nd Battery - Connecticut Artillery,5,1</do>
+   <c>
+    <dc>8,John,W,Sterling,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.4241,12lb Howitzer,,0,1,1.4413,0.7911,0.8905,0.6558,1.0945,0.5695,76,34,0,20564,144,0</du>
+    <c>
+     <dc>10,Simon,C,Naylor,0,3.5194,4.5731,4.1985,5.4245,3.4248,4.5215,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.005,12lb Howitzer,,0,1,0.5523,0.5859,0.728,0.6356,1.3439,0.9076,76,34,0,20565,144,0</du>
+    <c>
+     <dc>16,Ephraim,,Brewer,0,4.6554,3.0806,3.6443,3.3439,5.7148,5.1822,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.8808,12lb Napoleon,,0,1,0.9948,0.7867,1.1038,1.1143,0.8808,1.1949,79,35,0,20566,144,0</du>
+    <c>
+     <dc>10,Henry,C,Carson,0,4.7758,5.4758,2.1397,3.8678,3.4764,3.507,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.8414,12lb Napoleon,,0,1,0.9655,1.0603,0.5672,1.4424,1.0387,0.9548,79,34,0,20567,144,0</du>
+    <c>
+     <dc>16,Joseph,C,Springfield,0,4.7974,5.2363,3.6977,4.4133,3.6075,4.2774,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,0.9569,12lb Napoleon,,0,1,1.102,0.9128,0.9749,0.9296,1.3888,0.738,79,34,0,20568,144,0</du>
+    <c>
+     <dc>15,David,W,Wehmer,0,4.534,2.0632,5.892,4.4949,2.9157,4.2715,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.7364,12lb Napoleon,,0,1,0.585,1.1756,1.4602,1.2487,1.131,0.5403,79,36,0,20569,144,0</du>
+    <c>
+     <dc>16,James,H,Rishell,0,4.9563,4.7396,3.0592,2.0502,3.2466,4.4244,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

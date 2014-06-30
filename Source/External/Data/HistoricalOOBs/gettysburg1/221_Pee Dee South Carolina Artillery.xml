@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Pee Dee South Carolina Artillery,5,2</do>
+   <c>
+    <dc>9,William,E,Zimmerman,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.1477,3in Ordnance,,0,1,4.6893,5.2861,5.3866,5.4157,4.6504,5.4433,87,77,0,21039,4,0</du>
+    <c>
+     <dc>10,John,R,Farley,0,2.3438,4.886,2.3443,3.7052,4.6418,3.26,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9471,3in Ordnance,,0,1,5.4896,5.3725,5.4106,5.1109,5.4942,5.0746,87,78,0,21040,4,0</du>
+    <c>
+     <dc>15,Thomas,H,Allen,0,2.3415,4.772,2.5103,4.6961,4.8885,5.8467,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4104,3in Ordnance,,0,1,5.4442,5.4402,4.6004,4.5122,4.6491,4.958,87,78,0,21041,4,0</du>
+    <c>
+     <dc>10,Thomas,D,Friese,0,4.8896,2.1214,5.9135,5.3353,4.0693,5.6481,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4391,3in Ordnance,,0,1,5.0974,5.2018,5.478,4.5887,5.2149,5.0047,87,78,0,21042,4,0</du>
+    <c>
+     <dc>15,Robert,C,Johnson,0,3.1069,4.5036,4.6585,4.8751,5.9737,3.358,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

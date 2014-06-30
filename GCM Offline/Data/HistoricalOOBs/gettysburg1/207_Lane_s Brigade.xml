@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Lane's Brigade,5,2</do>
+   <c>
+    <dc>4,James,H,Lane,0,5,4,3,4,5,6,(5-4)</dc>
+   </c>
+   <u>
+    <du>325,0,6.1969,7th North Carolina,,0,0,1.0825,1.1891,0.674,1.4849,1.3381,0.6357,26,49,0,20976,2,0</du>
+    <c>
+     <dc>6,George,B,Yarborough,0,4.4437,4.6612,3.8201,2.17,5.744,2.8694,</dc>
+    </c>
+   </u>
+   <u>
+    <du>383,0,6.3936,18th North Carolina,,0,0,1.0448,1.0097,0.9458,0.605,1.3256,0.7369,6,51,0,20977,2,0</du>
+    <c>
+     <dc>6,Frank,B,Ward,0,2.187,4.8337,3.8404,4.9746,2.2525,4.0315,</dc>
+    </c>
+   </u>
+   <u>
+    <du>383,0,5.4494,28th North Carolina,,0,0,0.6574,0.973,0.8464,0.9535,0.621,1.3316,28,47,0,20978,2,0</du>
+    <c>
+     <dc>7,George,W,Stone,0,2.9105,4.7329,2.8193,5.6411,3.3962,4.2403,</dc>
+    </c>
+   </u>
+   <u>
+    <du>406,0,6.2026,33rd North Carolina,,0,0,0.5017,0.6692,0.5862,1.4722,1.4898,1.0128,5,48,0,20979,2,0</du>
+    <c>
+     <dc>6,William,E,Hutchison,0,3.1448,4.7864,5.6632,5.9266,2.901,4.6969,</dc>
+    </c>
+   </u>
+   <u>
+    <du>417,0,4.1594,37th North Carolina,,0,0,0.9281,1.0096,1.4495,1.4053,1.0105,0.906,5,49,0,20980,2,0</du>
+    <c>
+     <dc>7,Charles,L,Young,0,5.3335,4.2231,4.3204,5.3923,2.2087,5.0373,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

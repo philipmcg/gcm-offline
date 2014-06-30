@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Brooks South Carolina Artillery,5,2</do>
+   <c>
+    <dc>8,William,W,Fickling,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.8186,12lb Howitzer,,0,1,5.6183,6.257,5.7685,5.5155,6.0482,5.6607,75,73,0,20740,4,0</du>
+    <c>
+     <dc>15,James,L,Powers,0,4.8048,3.8284,3.7734,4.2685,4.9737,5.5921,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8006,12lb Howitzer,,0,1,6.4553,5.5852,5.824,5.5189,6.172,6.2322,75,74,0,20741,4,0</du>
+    <c>
+     <dc>16,Green,H,Knight,0,2.7194,5.9139,5.4212,5.2088,4.8648,3.2383,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.9715,12lb Howitzer,,0,1,5.5423,6.3996,6.0259,5.7186,5.8602,6.3706,75,74,0,20742,4,0</du>
+    <c>
+     <dc>15,Thomas,H,McDonald,0,4.7025,5.605,3.8606,2.2835,3.9267,5.9294,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0888,12lb Howitzer,,0,1,6.0763,5.9537,6.3083,6.394,5.6274,5.744,75,73,0,20743,4,0</du>
+    <c>
+     <dc>15,Young,P,Hill,0,3.4368,2.3702,2.2386,4.9726,5.3806,5.7627,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

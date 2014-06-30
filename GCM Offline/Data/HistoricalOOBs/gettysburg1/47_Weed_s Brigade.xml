@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Weed's Brigade,5,1</do>
+   <c>
+    <dc>4,Stephen,H,Weed,0,3,4,3,3,3,3,(10-3)</dc>
+   </c>
+   <u>
+    <du>495,0,2.077,140th New York,,0,0,1.2134,0.8792,1.217,1.1111,1.4902,1.484,28,7,0,20220,143,130</du>
+    <c>
+     <dc>6,Obadiah,P,Peters,0,3.4582,2.4221,5.1871,4.0516,2.2849,4.8962,</dc>
+    </c>
+   </u>
+   <u>
+    <du>502,0,2.0422,146th New York,,0,0,0.9717,1.222,1.428,1.3662,1.4824,0.7198,45,11,0,20221,143,130</du>
+    <c>
+     <dc>5,John,M,Phelps,0,5.186,5.6216,2.4237,2.4125,4.3659,5.1245,</dc>
+    </c>
+   </u>
+   <u>
+    <du>251,0,2.3821,91st Pennsylvania,,0,0,0.988,0.8153,1.2927,0.7166,0.9143,0.5987,45,13,0,20222,143,132</du>
+    <c>
+     <dc>6,James,,Siegfried,0,4.539,2.8733,5.098,4.6856,2.1195,4.5101,</dc>
+    </c>
+   </u>
+   <u>
+    <du>403,0,3.0605,155th Pennsylvania,,0,0,0.8254,0.5375,0.5219,1.0364,0.6945,0.6011,41,11,0,20223,143,132</du>
+    <c>
+     <dc>6,Edwin,W,Klease,0,3.5358,2.1391,4.8874,5.1865,2.2282,3.2991,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,61 @@
+~regiments								
+abbr	origin	name	side	flag1	flag2	class	weapon	freq
+u_ar	u_ar	Arkansas Volunteers	1	u_regt	u_regt2	u_regt	u_regt	6
+u_al	u_al	Alabama Volunteers	1	u_regt	u_regt2	u_regt	u_regt	4
+u_ca	u_ca	California Volunteers	1	u_regt	u_regt2	u_regt	u_regt	8
+u_co	u_co	Colorado Volunteers	1	u_regt	u_regt2	u_regt	u_regt	3
+u_ct	u_ct	Connecticut	1	u_regt	GFX_US_CT_Regt	u_regt	u_regt	30
+u_de	u_de	Delaware	1	u_regt	GFX_US_DE_Regt	u_regt	u_regt	9
+u_ga	u_ga	Georgia	1	u_regt	u_regt2	u_regt	u_regt	1
+u_il	u_il	Illinois	1	u_regt	u_regt2	u_regt	u_regt	156
+u_in	u_in	Indiana	1	u_regt	GFX_US_IN_Regt	u_regt	u_regt	159
+u_ia	u_ia	Iowa	1	u_regt	GFX_US_IA_Regt	u_regt	u_regt	48
+u_ks	u_ks	Kansas Volunteers	1	u_regt	u_regt2	u_regt	u_regt	15
+u_ksm	u_ks	Kansas Militia	1	u_regt	u_regt2	u_regt	u_regt	22
+u_ky	u_ky	Kentucky	1	u_regt	u_regt2	u_regt	u_regt	40
+u_la	u_la	Louisiana Volunteers	1	u_regt	u_regt2	u_regt	u_regt	12
+u_me	u_me	Maine	1	u_regt	GFX_US_ME_Regt	u_regt	u_regt	32
+u_md	u_md	Maryland	1	u_regt	GFX_US_MD_Regt	u_regt	u_regt	20
+u_ma	u_ma	Massachusetts	1	u_regt	GFX_US_MA_Regt	u_regt	u_regt	62
+u_mi	u_mi	Michigan	1	u_regt	GFX_US_MI_Regt	u_regt	u_regt	30
+u_mn	u_mn	Minnesota	1	u_regt	u_regt2	u_regt	u_regt	11
+u_mo	u_mo	Missouri	1	u_regt	u_regt2	u_regt	u_regt	45
+u_ne	u_ne	Nebraska Volunteers	1	u_regt	u_regt2	u_regt	u_regt	1
+u_nv	u_nv	Nevada Volunteers	1	u_regt	u_regt2	u_regt	u_regt	1
+u_nh	u_nh	New Hampshire	1	u_regt	GFX_US_NH_Regt	u_regt	u_regt	18
+u_nj	u_nj	New Jersey	1	u_regt	GFX_US_NJ_Regt	u_regt	u_regt	40
+u_ny	u_ny	New York	1	u_regt	GFX_US_NY_Regt	u_regt	u_regt	194
+u_nym	u_ny	New York State Militia	1	u_regt	GFX_US_NY_Regt	u_regt	u_regt	10
+u_nc	u_nc	North Carolina Volunteers	1	u_regt	u_regt2	u_regt	u_regt	3
+u_oh	u_oh	Ohio	1	u_regt	u_regt2	u_regt	u_regt	197
+u_or	u_or	Oregon Volunteers	1	u_regt	u_regt2	u_regt	u_regt	1
+u_pa	u_pa	Pennsylvania	1	u_regt	GFX_US_PA_Regt	u_regt	u_regt	200
+u_par	u_pa	Pennsylvania Reserves	1	u_regt	GFX_US_PA_Regt	u_regt	u_regt	13
+u_ri	u_ri	Rhode Island	1	u_regt	GFX_US_RI_Regt	u_regt	u_regt	12
+u_sc	u_sc	South Carolina Volunteers	1	u_regt	u_regt2	u_regt	u_regt	4
+u_tn	u_tn	Tennessee Volunteers	1	u_regt	u_regt2	u_regt	u_regt	10
+u_vt	u_vt	Vermont	1	u_regt	GFX_US_VT_Regt	u_regt	u_regt	18
+u_wv	u_wv	West Virginia	1	u_regt	u_regt2	u_regt	u_regt	17
+u_wi	u_wi	Wisconsin	1	u_regt	u_regt2	u_regt	u_regt	53
+u_us	u_us	U.S. Infantry	1	u_regt	u_regt2	u_regt	u_regt	20
+u_usv	u_us	U.S. Volunteers	1	u_regt	u_regt2	u_regt	u_regt	6
+u_usct	u_us	U.S. Colored Troops	1	u_regt	u_regt2	u_regt	u_regt	138
+u_nm	u_nm	New Mexico Volunteers	1	u_regt	u_regt2	u_regt	u_regt	6
+u_wa	u_wa	Washington Volunteers	1	u_regt	u_regt2	u_regt	u_regt	1
+								
+c_cs	c_cs	C.S. Infantry	2	c_regt	c_regt2	c_regt	c_regt	7
+c_al	c_al	Alabama	2	c_regt	c_regt2	c_regt	c_regt	65
+c_ar	c_ar	Arkansas	2	c_regt	c_regt2	c_regt	c_regt	39
+c_fl	c_fl	Florida	2	c_regt	c_regt2	c_regt	c_regt	11
+c_ga	c_ga	Georgia	2	c_regt	c_regt2	c_regt	c_regt	61
+c_ky	c_ky	Kentucky	2	c_regt	c_regt2	c_regt	c_regt	9
+c_la	c_la	Louisiana	2	c_regt	c_regt2	c_regt	c_regt	31
+c_md	c_md	Maryland	2	c_regt	c_regt2	c_regt	c_regt	2
+c_ms	c_ms	Mississippi	2	c_regt	c_regt2	c_regt	c_regt	48
+c_mo	c_mo	Missouri	2	c_regt	c_regt2	c_regt	c_regt	13
+c_nc	c_nc	North Carolina	2	c_regt	c_regt2	c_regt	c_regt	16
+c_sc	c_sc	South Carolina	2	c_regt	c_regt2	c_regt	c_regt	30
+c_tn	c_tn	Tennessee	2	c_regt	c_regt2	c_regt	c_regt	60
+c_tx	c_tx	Texas	2	c_regt	c_regt2	c_regt	c_regt	23
+c_va	c_va	Virginia	2	c_regt	c_regt2	c_regt	c_regt	64
+c_vam	c_va	Virginia Militia	2	c_regt	c_regt2	c_regt	c_regt	40

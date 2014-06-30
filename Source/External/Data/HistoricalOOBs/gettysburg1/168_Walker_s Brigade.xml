@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Walker's Brigade,5,2</do>
+   <c>
+    <dc>4,James,A,Walker,0,6,4,4,4,3,4,(1-2)</dc>
+   </c>
+   <u>
+    <du>369,0,7.4327,2nd Virginia,,0,0,1.276,1.488,1.2432,0.8491,0.7202,0.7417,5,52,0,20805,2,0</du>
+    <c>
+     <dc>6,Joshua,H,Clayton,0,4.8406,4.4756,5.8442,3.1324,2.6625,2.7944,</dc>
+    </c>
+   </u>
+   <u>
+    <du>289,0,8.3612,4th Virginia,,0,0,1.2098,0.8715,0.5338,0.9945,0.8217,1.3645,5,47,0,20806,2,0</du>
+    <c>
+     <dc>8,John,C,Atkins,0,4.8109,2.6326,3.6174,4.9115,3.1863,3.9708,</dc>
+    </c>
+   </u>
+   <u>
+    <du>382,0,7.1885,5th Virginia,,0,0,0.6927,0.749,1.2918,0.5725,0.5789,1.0334,5,49,0,20807,2,0</du>
+    <c>
+     <dc>8,John,S,Brook,0,3.7916,3.7056,4.9739,3.233,4.0312,3.7092,</dc>
+    </c>
+   </u>
+   <u>
+    <du>172,0,7.1655,27th Virginia,,0,0,1.2381,1.167,0.9458,0.648,0.7691,1.0535,5,48,0,20808,2,0</du>
+    <c>
+     <dc>8,Leander,B,Bush,0,5.956,2.2861,3.3655,2.2449,2.8236,5.1559,</dc>
+    </c>
+   </u>
+   <u>
+    <du>266,0,6.4899,33rd Virginia,,0,0,1.1087,0.7029,0.9634,1.0344,0.7956,1.2178,41,51,0,20809,2,0</du>
+    <c>
+     <dc>8,William,W,Mosley,0,3.8554,5.3093,5.5385,4.8359,5.7383,3.849,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

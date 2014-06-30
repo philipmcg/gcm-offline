@@ -1,0 +1,45 @@
+You've installed the GCM hotkey file to Scourge of War.
+
+Below are the new hotkeys you can use:
+
+1 - Take Command (of selected unit only)
+2 - Next Unit under same leader
+3 - Select Leader of current unit
+4 - Wheel left
+5 - Wheel right
+6 - Advance
+7 - Fall back
+
+F2 - Artillery manual target
+
+F - Halt
+R - Run
+Y - Walk (stop running)
+
+H - Use roads
+J - Short Retreat
+
+X - Wheel all the way around (very useful, try it!)
+V - Lie down
+B - Stand up
+
+L - Chat
+I - Chat to team only
+
+9,0 - Artillery use solid and target infantry (this is two keys, hit both when battery commander is selected)
+
+
+These hotkeys can be really useful, allowing you to control your troops with less effort.  For instance:
+
+When you want your entire line to advance or fall back, simply click each flag in the line and press the 6 or 7 key (to advance or fall back respectively).
+
+Any time you give a move order and want the moving unit to use roads, press H right after giving the move order.  No need to find the road march button on your toolbar.
+
+To give manual targets to a battery, click one of the guns and press F2, 2 repeatedly, clicking the target you want them to shoot at each time.  This will tell all the guns in the battery to target that unit.  This can be effective if they are firing at a skirmishing regiment that is a little closer than a juicy exposed flank or a column.
+
+All these keys make it easier to play without looking at the toolbar.
+
+At the start of the game, select your first battery commander, and press these keys in order: 9, 0, 2.  Repeat for each battery commander.  This will make all batteries use solid shot and target infantry.
+
+
+

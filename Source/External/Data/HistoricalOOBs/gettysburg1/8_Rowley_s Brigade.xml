@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Rowley's Brigade,5,1</do>
+   <c>
+    <dc>4,Thomas,A,Rowley,0,2,0,0,0,0,6,(9-0)</dc>
+   </c>
+   <u>
+    <du>320,0,4.4527,80th New York (20 NY Militia),,0,0,0.7359,0.9226,0.6921,0.8396,0.7247,0.9959,6,9,0,20022,143,130</du>
+    <c>
+     <dc>6,Philip,W,Collins,0,3.4736,2.2074,3.0628,2.178,2.8042,2.1828,</dc>
+    </c>
+   </u>
+   <u>
+    <du>295,0,2.3568,121st Pennsylvania,,0,0,0.7382,0.708,0.9427,0.8264,1.3978,1.152,45,12,0,20023,143,132</du>
+    <c>
+     <dc>8,Calvin,B,Jenkins,0,4.947,3.7101,5.591,3.0968,2.6959,3.2764,</dc>
+    </c>
+   </u>
+   <u>
+    <du>372,0,3.4219,142nd Pennsylvania,,0,0,1.3807,0.9894,1.1409,1.1113,0.8786,0.6638,28,13,0,20024,143,132</du>
+    <c>
+     <dc>6,William,W,Sweet,0,3.0815,2.7198,3.5121,2.4292,5.5263,5.9734,</dc>
+    </c>
+   </u>
+   <u>
+    <du>510,0,2.2441,151st Pennsylvania,,0,0,0.5541,0.8186,0.7486,1.3849,0.8269,0.5107,5,6,0,20025,143,132</du>
+    <c>
+     <dc>6,Robert,R,Karl,0,3.0812,2.3835,5.2282,4.5627,5.0936,3.4302,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

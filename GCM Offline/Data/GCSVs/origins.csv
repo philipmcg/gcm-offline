@@ -1,0 +1,54 @@
+~origins		
+id	name	faction
+u_ar	Arkansas	1
+u_al	Alabama	1
+u_ca	California	1
+u_co	Colorado	1
+u_ct	Connecticut	1
+u_de	Delaware	1
+u_ga	Georgia	1
+u_il	Illinois	1
+u_in	Indiana	1
+u_ia	Iowa	1
+u_ks	Kansas	1
+u_ky	Kentucky	1
+u_la	Louisiana	1
+u_me	Maine	1
+u_md	Maryland	1
+u_ma	Massachusetts	1
+u_mi	Michigan	1
+u_mn	Minnesota	1
+u_mo	Missouri	1
+u_ne	Nebraska	1
+u_nv	Nevada	1
+u_nh	New Hampshire	1
+u_nj	New Jersey	1
+u_ny	New York	1
+u_nc	North Carolina	1
+u_oh	Ohio	1
+u_or	Oregon	1
+u_pa	Pennsylvania	1
+u_ri	Rhode Island	1
+u_sc	South Carolina	1
+u_tn	Tennessee	1
+u_vt	Vermont	1
+u_wv	West Virginia	1
+u_wi	Wisconsin	1
+u_us	United States	1
+u_nm	New Mexico	1
+u_wa	Washington	1
+c_cs	Confederate States	2
+c_al	Alabama	2
+c_ar	Arkansas	2
+c_fl	Florida	2
+c_ga	Georgia	2
+c_ky	Kentucky	2
+c_la	Louisiana	2
+c_md	Maryland	2
+c_ms	Mississippi	2
+c_mo	Missouri	2
+c_nc	North Carolina	2
+c_sc	South Carolina	2
+c_tn	Tennessee	2
+c_tx	Texas	2
+c_va	Virginia	2

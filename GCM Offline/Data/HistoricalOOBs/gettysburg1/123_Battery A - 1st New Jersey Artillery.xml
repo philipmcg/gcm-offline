@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery A - 1st New Jersey Artillery,5,1</do>
+   <c>
+    <dc>9,Augustin,N,Parsons,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.0782,10lb Parrott,,0,1,5.2932,4.7172,5.4686,4.8901,4.9268,5.0439,71,37,0,20608,144,0</du>
+    <c>
+     <dc>10,John,D,Pixley,0,3.1078,3.3728,3.2686,3.5735,5.7848,4.2227,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6746,10lb Parrott,,0,1,4.911,4.9763,5.0914,5.0673,4.9251,5.4569,71,37,0,20609,144,0</du>
+    <c>
+     <dc>15,Lyman,H,Kies,0,4.8702,3.8355,5.9778,5.3422,5.0858,3.7556,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.3524,10lb Parrott,,0,1,4.8285,4.8495,5.3446,5.4678,4.5585,4.6894,71,38,0,20610,144,0</du>
+    <c>
+     <dc>15,Joel,T,Stanton,0,4.8907,4.6917,4.1724,4.0468,3.834,5.0596,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7241,10lb Parrott,,0,1,5.2756,5.2289,5.0597,5.0198,4.9607,5.0636,71,37,0,20611,144,0</du>
+    <c>
+     <dc>15,William,S,Jarvis,0,5.7188,5.5441,5.5642,3.9781,2.2008,5.6287,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5353,10lb Parrott,,0,1,4.915,5.4145,5.4012,4.8879,5.223,4.7451,71,39,0,20612,144,0</du>
+    <c>
+     <dc>15,Henry,P,Leonard,0,2.8774,3.016,2.4778,4.6607,2.1834,5.7415,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0433,10lb Parrott,,0,1,5.2587,5.0483,4.981,4.5364,5.3384,4.8268,71,38,0,20613,144,0</du>
+    <c>
+     <dc>16,Henry,C,Blanchett,0,5.1149,4.401,3.2106,5.6485,5.0706,2.3301,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

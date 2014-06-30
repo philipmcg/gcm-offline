@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Baxter's Brigade,5,1</do>
+   <c>
+    <dc>4,Henry,,Baxter,0,1,4,4,4,5,4,(8-0)</dc>
+   </c>
+   <u>
+    <du>293,0,5.078,12th Massachusetts,,0,0,0.7654,1.2392,1.0242,0.652,0.9907,1.225,5,6,0,20017,143,118</du>
+    <c>
+     <dc>7,Daniel,J,Ream,0,2.016,5.4369,2.495,5.0534,2.9132,4.2352,</dc>
+    </c>
+   </u>
+   <u>
+    <du>227,0,5.4843,83rd New York,,0,0,0.7038,1.3461,0.7765,0.5737,0.6034,1.0009,28,9,0,20018,143,130</du>
+    <c>
+     <dc>8,Robert,,Kurtz,0,4.4917,2.8072,3.0795,3.1162,4.5359,2.7225,</dc>
+    </c>
+   </u>
+   <u>
+    <du>266,0,4.112,97th New York,,0,0,1.1381,1.1898,0.938,0.8975,1.4486,0.8805,5,12,0,20019,143,130</du>
+    <c>
+     <dc>6,Nathan,H,Coleman,0,5.2969,2.7591,2.0653,4.2138,4.4858,2.1566,</dc>
+    </c>
+   </u>
+   <u>
+    <du>306,0,4.0602,88th Pennsylvania,,0,0,1.2246,0.56,1.3778,0.5693,1.2077,0.6151,31,13,0,20020,143,132</du>
+    <c>
+     <dc>6,John,J,Hayden,0,3.8303,5.6252,4.3841,2.3125,3.0422,3.3524,</dc>
+    </c>
+   </u>
+   <u>
+    <du>236,0,4.1326,90th Pennsylvania,,0,0,1.4749,1.471,0.524,1.4779,1.007,0.7096,45,6,0,20021,143,132</du>
+    <c>
+     <dc>7,John,,Brown,0,3.33,3.4892,3.82,4.7403,5.4341,5.3435,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

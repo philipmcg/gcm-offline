@@ -1,0 +1,14 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>First Corps,3,2</do>
+   <c>
+    <dc>2,James,,Longstreet,0,8,6,6,5,6,2,(0-0)</dc>
+   </c>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+ </head>
+</xml>

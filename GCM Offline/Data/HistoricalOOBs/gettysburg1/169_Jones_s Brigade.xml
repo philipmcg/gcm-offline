@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jones's Brigade,5,2</do>
+   <c>
+    <dc>4,John,M,Jones,0,2,2,3,3,3,3,(2-2)</dc>
+   </c>
+   <u>
+    <du>210,0,7.4178,21st Virginia,,0,0,1.0725,1.2305,1.2097,1.0308,1.3302,1.0491,5,49,0,20810,2,0</du>
+    <c>
+     <dc>5,Nicholas,H,Atchison,0,2.9881,2.092,2.2479,5.0719,5.1347,3.2272,</dc>
+    </c>
+   </u>
+   <u>
+    <du>313,0,5.0843,25th Virginia,,0,0,0.781,0.9749,1.2977,0.6685,0.952,0.5623,5,48,0,20811,2,0</du>
+    <c>
+     <dc>6,John,M,Walker,0,3.0809,5.2974,2.9424,5.055,2.9949,2.0071,</dc>
+    </c>
+   </u>
+   <u>
+    <du>283,0,5.2434,42nd Virginia,,0,0,1.1982,1.4402,0.7992,0.8525,0.6067,0.8253,37,51,0,20812,2,0</du>
+    <c>
+     <dc>8,Theophilus,K,Ridgeway,0,5.764,5.7116,2.7559,5.4888,5.3781,2.7247,</dc>
+    </c>
+   </u>
+   <u>
+    <du>257,0,5.3684,44th Virginia,,0,0,1.4351,0.7228,1.1948,0.9615,1.1527,0.593,5,48,0,20813,2,0</du>
+    <c>
+     <dc>7,Robert,,Gilchrist,0,3.9831,3.3342,3.779,4.9306,3.2201,3.6319,</dc>
+    </c>
+   </u>
+   <u>
+    <du>283,0,5.1161,48th Virginia,,0,0,0.6865,1.0965,0.707,0.5453,0.5932,1.2447,5,52,0,20814,2,0</du>
+    <c>
+     <dc>6,James,L,Yeager,0,5.5661,3.3635,2.8682,4.565,3.2824,3.7819,</dc>
+    </c>
+   </u>
+   <u>
+    <du>283,0,3.1741,50th Virginia,,0,0,1.2008,0.8283,0.977,0.6189,0.9884,1.2086,31,47,0,20815,2,0</du>
+    <c>
+     <dc>8,David,J,Neill,0,3.4417,4.5003,2.078,4.7474,3.0927,2.8325,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

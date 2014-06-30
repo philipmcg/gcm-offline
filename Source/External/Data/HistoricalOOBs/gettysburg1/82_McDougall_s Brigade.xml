@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>McDougall's Brigade,5,1</do>
+   <c>
+    <dc>5,Archibald,L,McDougall,0,0,2,2,2,2,2,(7-5)</dc>
+   </c>
+   <u>
+    <du>250,0,4.4286,5th Connecticut,,0,0,1.2893,1.0387,0.6809,1.366,1.1079,0.8438,45,13,0,20395,143,110</du>
+    <c>
+     <dc>7,Samuel,L,Patton,0,3.1623,2.3003,4.0269,4.6901,4.9022,4.3463,</dc>
+    </c>
+   </u>
+   <u>
+    <du>356,0,2.1247,20th Connecticut,,0,0,0.6327,0.5439,1.1141,0.5231,0.9941,0.6943,45,6,0,20396,143,110</du>
+    <c>
+     <dc>6,Frederick,J,Beck,0,4.3326,5.0708,2.8248,2.3278,3.8315,5.4238,</dc>
+    </c>
+   </u>
+   <u>
+    <du>324,0,4.0747,3rd Maryland,,0,0,0.7793,1.245,0.6265,1.3019,1.2723,1.338,28,9,0,20397,143,120</du>
+    <c>
+     <dc>7,Carl,H,McClain,0,3.791,2.574,3.6748,5.0103,2.4293,4.3142,</dc>
+    </c>
+   </u>
+   <u>
+    <du>539,0,2.1781,123rd New York,,0,0,1.1331,1.3456,1.1855,1.1134,1.074,0.7763,28,12,0,20398,143,130</du>
+    <c>
+     <dc>6,William,D,Garnder,0,2.982,4.7845,4.5393,5.4021,3.0775,5.5576,</dc>
+    </c>
+   </u>
+   <u>
+    <du>169,0,2.2808,145th New York,,0,0,1.2011,1.025,0.6775,1.1229,1.0749,0.6951,45,13,0,20399,143,130</du>
+    <c>
+     <dc>8,Henry,A,O`Brien,0,4.6617,5.7997,3.2267,3.7987,2.8903,2.3771,</dc>
+    </c>
+   </u>
+   <u>
+    <du>294,0,5.0405,46th Pennsylvania,,0,0,1.1758,0.717,1.1793,0.6719,0.6071,1.3032,45,6,0,20400,143,132</du>
+    <c>
+     <dc>8,Enoch,M,Hockenberry,0,2.3917,3.5863,5.08,2.6411,4.7565,3.9809,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,99 @@
+Name,ID,Ammo ID,Min,Best,Normal,Long,Maximum,Reliability,ROF,MROF,,,,
+,idstring,idstring,[1/10000],[1/10000],[1/10000],[1/10000],[1/10000],[0.0/100.0],[1/10000],[1/10000],,,,
+,,,,,,,,,,,,,,
+,Name,"User defined name, not used by the program, cannot be blank",,,,,,,,,,,,
+,ID,"id of this rifle, used by reference in other csv files such as oobs, also used to identify from the string tables, the textual name of this weapon",,,,,,,,,,,,
+,Ammo ID,"id of this rifle's ammunition, used to identify from the string tables, the textual name of this ammunition",,,,,,,,,,,,
+,Min,The closest range where this rifle would be used (in yards),,,,,,,,,,,,
+,Best,The most accurate range of this rifle (in yards),,,,,,,,,,,,
+,Normal,The typical range where this rifle was fired (in yards),,,,,,,,,,,,
+,Long,A very long range for using this rifle (in yards),,,,,,,,,,,,
+,Maximum,The farthest away that this rifle has any chance of hitting a target (in yards),,,,,,,,,,,,
+,Reliability,"The base percent chance that this rifle has of successfully being loaded and fired, this can be modified by other factors, so this should be the lowest chance of success for a rookie infantryman",,,,,,,,,,,,
+,ROF,"The rate of fire for this weapon, this is the number of seconds it takes the least experienced soldier to reload the rifle ",,,,,,,,,,,,
+,MROF,The fastest possible rate of fire in seconds for this weapon,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1809_Potsdam_Pattern_Prussia,IDS_ARSN_1809_Potsdam_Pattern_Prussia,IDS_ARSN_Musket_71_caliber,21,40,83,93,160,17.03843404,44,33,,,,
+1834_Pattern_Prussia,IDS_ARSN_1834_Pattern_Prussia,IDS_ARSN_Musket_70_caliber,21,44,85,96,160,19.07914378,44,33,,,,
+1839_Pattern_Bavaria,IDS_ARSN_1839_Pattern_Bavaria,IDS_ARSN_Musket_70_caliber,22,46,86,95,160,15.88638976,45,34,,,,
+1843_Pattern_Belgium,IDS_ARSN_1843_Pattern_Belgium,IDS_ARSN_Musket_72_caliber,20,41,85,96,160,18.1527536,45,34,,,,
+1853_Pattern_Enfield_Britain,IDS_ARSN_1853_Pattern_Enfield_Britain,IDS_ARSN_Rifle-Musket_577_caliber,29,61,99,130,160,18.86524196,47,35,,,,
+1854_Lorenz_Austria,IDS_ARSN_1854_Lorenz_Austria,IDS_ARSN_Rifle-Musket_54_caliber,31,59,100,115,160,21.91302387,46,35,,,,
+1858_Pattern_Enfield_Britain,IDS_ARSN_1858_Pattern_Enfield_Britain,IDS_ARSN_Rifle-Musket_577_caliber,28,58,98,128,160,19.39823032,45,34,,,,
+Army_Model,IDS_ARSN_Army_Model,IDS_ARSN_Revolver_44_caliber,10,21,29,39,60,21.89653764,27,20,,,,
+Austrian_Jaeger_USA,IDS_ARSN_Austrian_Jaeger_USA,IDS_ARSN_Carbine_52_caliber,19,39,76,84,160,17.98022186,25,19,,,,
+Burnside_USA,IDS_ARSN_Burnside_USA,IDS_ARSN_Carbine_54_caliber,26,51,75,91,160,18.48794638,25,19,,,,
+Civilian_Models,IDS_ARSN_Civilian_Models,IDS_ARSN_Shotgun_Buckshot,10,21,30,41,60,21.32298658,26,20,,,,
+Colt_Repeating_USA,IDS_ARSN_Colt_Repeating_USA,IDS_ARSN_Rifle_56_caliber,25,51,74,83,160,18.52668874,27,20,,,,
+Cook_&_Brother_Musket,IDS_ARSN_Cook_&_Brother_Musket,IDS_ARSN_Musket_58_caliber,15,31,64,84,160,17.43080925,46,35,,,,
+Cook_&_Brother_Carbine,IDS_ARSN_Cook_&_Brother_Carbine,IDS_ARSN_Carbine_58_caliber,25,50,74,85,160,16.14059379,27,20,,,,
+Dresden_Pattern,IDS_ARSN_Dresden_Pattern,IDS_ARSN_Musket_70_caliber,23,45,84,94,160,16.85052857,44,33,,,,
+Enfield_Percussion_Britain,IDS_ARSN_Enfield_Percussion_Britain,IDS_ARSN_Musketoon_577_caliber,23,50,73,85,160,18.84419329,26,20,,,,
+Fayetteville_Pattern,IDS_ARSN_Fayetteville_Pattern,IDS_ARSN_Rifle-Musket_58_caliber,29,60,100,125,160,20.96445429,46,35,,,,
+Gallager_USA,IDS_ARSN_Gallager_USA,IDS_ARSN_Carbine_50_caliber,21,43,75,91,160,21.09424561,25,19,,,,
+Hall_USA,IDS_ARSN_Hall_USA,IDS_ARSN_Carbine_52_caliber,19,38,81,88,160,18.0155926,24,18,,,,
+HEDimick_Pattern,IDS_ARSN_HEDimick_Pattern,IDS_ARSN_Rifle-Musket_69_caliber,23,51,88,113,160,21.63365433,45,34,,,,
+Henry_Repeating_USA,IDS_ARSN_Henry_Repeating_USA,IDS_ARSN_Rifle_44_caliber,25,51,75,85,160,17.45541581,27,20,,,,
+JPMurray_CSA,IDS_ARSN_JPMurray_CSA,IDS_ARSN_Musketoon_58_caliber,24,49,76,84,160,16.93147326,24,18,,,,
+Liege_Pattern_France,IDS_ARSN_Liege_Pattern_France,IDS_ARSN_Musket_70_caliber,20,45,84,94,160,17.30597752,45,34,,,,
+Maynard_USA,IDS_ARSN_Maynard_USA,IDS_ARSN_Carbine_54_caliber,23,44,76,83,160,17.49186871,27,20,,,,
+Merrill_USA,IDS_ARSN_Merrill_USA,IDS_ARSN_Carbine_54_caliber,25,51,73,83,160,16.62138749,19,14,,,,
+Mixed_Calibers_54_577,IDS_ARSN_Mixed_Calibers_54_577,IDS_ARSN_Rifle-Musket_54_577_caliber,29,60,98,115,160,20.09144155,44,33,,,,
+Mixed_Calibers_54_58,IDS_ARSN_Mixed_Calibers_54_58,IDS_ARSN_Rifle-Musket_54_58_caliber,31,60,101,114,160,18.07588292,45,34,,,,
+Mixed_Calibers_577_58,IDS_ARSN_Mixed_Calibers_577_58,IDS_ARSN_Rifle-Musket_577_58_caliber,28,58,99,131,160,20.95847985,47,35,,,,
+Mixed_Calibers_577_69,IDS_ARSN_Mixed_Calibers_577_69,IDS_ARSN_Rifle-Musket_577_69_caliber,31,60,100,130,160,18.63110815,46,35,,,,
+Mixed_Calibers_58_69,IDS_ARSN_Mixed_Calibers_58_69,IDS_ARSN_Rifle-Musket_58_69_caliber,31,58,115,130,160,21.03388512,44,33,,,,
+Mixed_Types_Musket_Rifle,IDS_ARSN_Mixed_Types_Musket_Rifle,IDS_ARSN_Musket_Rifle-Musket,28,59,98,129,160,18.00592491,46,35,,,,
+Model_1795_Flintlock_USA,IDS_ARSN_Model_1795_Flintlock_USA,IDS_ARSN_Musket_69_caliber,18,34,74,91,160,18.58417303,44,33,,,,
+Model_1803_Flintlock_USA,IDS_ARSN_Model_1803_Flintlock_USA,IDS_ARSN_Rifle-Musket_54_caliber,28,59,100,113,160,21.97668951,44,33,,,,
+Model_1816_Flintlock_USA,IDS_ARSN_Model_1816_Flintlock_USA,IDS_ARSN_Musket_69_caliber,17,33,73,91,160,18.36225831,46,35,,,,
+Model_1816_Percussion_USA,IDS_ARSN_Model_1816_Percussion_USA,IDS_ARSN_Musket_69_caliber,17,36,75,91,160,17.13792047,44,33,,,,
+Model_1822_USA,IDS_ARSN_Model_1822_USA,IDS_ARSN_Musket_69_caliber,19,39,89,100,160,19.11641305,45,34,,,,
+Model_1841_Mississippi_USA,IDS_ARSN_Model_1841_Mississippi_USA,IDS_ARSN_Rifle-Musket_54_caliber,26,49,100,114,160,21.80685586,45,34,,,,
+Model_1841_Percussion_USA,IDS_ARSN_Model_1841_Percussion_USA,IDS_ARSN_Rifle-Musket_58_caliber,25,49,98,113,160,20.99201231,47,35,,,,
+Model_1842_Palmetto_USA,IDS_ARSN_Model_1842_Palmetto_USA,IDS_ARSN_Rifle-Musket_69_caliber,24,50,91,113,160,18.11554713,44,33,,,,
+Model_1842_Rifle_USA,IDS_ARSN_Model_1842_Rifle_USA,IDS_ARSN_Rifle-Musket_69_caliber,26,48,91,116,160,18.78721823,47,35,,,,
+Model_1842_USA,IDS_ARSN_Model_1842_USA,IDS_ARSN_Musket_69_caliber,20,46,89,114,160,18.00861272,46,35,,,,
+Model_1855_Harpers_Ferry_USA,IDS_ARSN_Model_1855_Harpers_Ferry_USA,IDS_ARSN_Rifle-Musket_58_caliber,24,48,100,115,160,20.76409192,45,34,,,,
+Model_1859_Sharps_Rifle_USA,IDS_ARSN_Model_1859_Sharps_Rifle_USA,IDS_ARSN_Rifle_52_caliber,223,248,299,323,400,8.984007933,24,18,,,,
+Model_1859_Sharps_USA,IDS_ARSN_Model_1859_Sharps_USA,IDS_ARSN_Carbine_52_caliber,28,58,86,96,160,16.57908261,25,19,,,,
+Model_1861_Springfield_USA,IDS_ARSN_Model_1861_Springfield_USA,IDS_ARSN_Rifle-Musket_58_caliber,30,61,114,131,160,19.16830453,45,34,,,,
+Model_1861s_Springfield_USA_2,IDS_ARSN_Model_1861s_Springfield_USA_2,IDS_ARSN_Rifle-Musket_58_caliber,2,3,4,5,200,20,32,20,,,,
+Model_1861s_Springfield_USA,IDS_ARSN_Model_1861s_Springfield_USA,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,19,120,0,,,,
+Model_1861s_Springfield_USA_200,IDS_ARSN_Model_1861s_Springfield_USA_200,IDS_ARSN_Rifle-Musket_58_caliber,0,58,116,131,200,20,32,20,,,,
+Model_1863_Type_I_Springfield_USA,IDS_ARSN_Model_1863_Type_I_Springfield_USA,IDS_ARSN_Rifle-Musket_58_caliber,28,60,126,151,160,20.7474302,47,35,,,,
+Model_1863_Type_II_Springfield_USA,IDS_ARSN_Model_1863_Type_II_Springfield_USA,IDS_ARSN_Rifle-Musket_58_caliber,29,58,123,148,160,19.46725406,46,35,,,,
+Navy_Model,IDS_ARSN_Navy_Model,IDS_ARSN_Revolver_36_caliber,11,20,30,39,60,18.74146895,27,20,,,,
+Richmond_CSA,IDS_ARSN_Richmond_CSA,IDS_ARSN_Carbine_58_caliber,25,51,74,85,160,16.39275993,26,20,,,,
+Richmond_Percussion_CSA,IDS_ARSN_Richmond_Percussion_CSA,IDS_ARSN_Rifle-Musket_58_caliber,29,60,101,120,160,20.75090336,47,35,,,,
+Smith_USA,IDS_ARSN_Smith_USA,IDS_ARSN_Carbine_50_caliber,21,43,74,90,160,18.60418989,26,20,,,,
+Spencer_Repeating_USA,IDS_ARSN_Spencer_Repeating_USA,IDS_ARSN_Rifle_52_caliber,25,49,74,85,160,15.66761851,25,19,,,,
+Spencer_USA,IDS_ARSN_Spencer_USA,IDS_ARSN_Carbine_52_caliber,29,61,86,93,160,16.96667689,24,18,,,,
+Starr_USA,IDS_ARSN_Starr_USA,IDS_ARSN_Carbine_54_caliber,21,39,73,85,160,15.61692048,26,20,,,,
+Tyler_Texas_Pattern,IDS_ARSN_Tyler_Texas_Pattern,IDS_ARSN_Rifle-Musket_54_caliber,28,58,100,115,160,20.38661659,47,35,,,,
+Rifled_Musket,IDS_ARSN_GCM_Musket_0,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,15.3,120,0,,,,18
+Rifled_Musket,IDS_ARSN_GCM_Musket_1,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,17,120,0,,,,20
+Rifled_Musket,IDS_ARSN_GCM_Musket_2,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,18.7,120,0,,,,22
+Rifled_Musket,IDS_ARSN_GCM_Musket_3,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,20.4,120,0,,,,24
+Rifled_Musket,IDS_ARSN_GCM_Musket_4,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,22.1,120,0,,,,26
+Rifled_Musket,IDS_ARSN_GCM_Musket_5,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,23.8,120,0,,,,28
+Rifled_Musket,IDS_ARSN_GCM_Musket_6,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,24.65,120,0,,,,29
+Rifled_Musket,IDS_ARSN_GCM_Musket_7,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,25.5,120,0,,,,30
+Rifled_Musket,IDS_ARSN_GCM_Musket_8,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,26.35,120,0,,,,31
+Rifled_Musket,IDS_ARSN_GCM_Musket_9,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,27.2,120,0,,,,32
+Rifled_Musket,IDS_ARSN_GCM_Musket_10,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,28.05,120,0,,,,33
+Rifled_Musket,IDS_ARSN_GCM_Musket_11,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,28.9,120,0,,,,34
+Rifled_Musket,IDS_ARSN_GCM_Musket_12,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,29.75,120,0,,,,35
+Carbine,IDS_ARSN_GCM_Carbine_0,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,19.89,120,0,,,15.3,18
+Carbine,IDS_ARSN_GCM_Carbine_1,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,22.1,120,0,,,17,20
+Carbine,IDS_ARSN_GCM_Carbine_2,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,24.31,120,0,,,18.7,22
+Carbine,IDS_ARSN_GCM_Carbine_3,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,26.52,120,0,,,20.4,24
+Carbine,IDS_ARSN_GCM_Carbine_4,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,28.73,120,0,,,22.1,26
+Carbine,IDS_ARSN_GCM_Carbine_5,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,30.94,120,0,,,23.8,28
+Carbine,IDS_ARSN_GCM_Carbine_6,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,32.045,120,0,,,24.65,29
+Carbine,IDS_ARSN_GCM_Carbine_7,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,33.15,120,0,,,25.5,30
+Carbine,IDS_ARSN_GCM_Carbine_8,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,34.255,120,0,,,26.35,31
+Carbine,IDS_ARSN_GCM_Carbine_9,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,35.36,120,0,,,27.2,32
+Carbine,IDS_ARSN_GCM_Carbine_10,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,36.465,120,0,,,28.05,33
+Carbine,IDS_ARSN_GCM_Carbine_11,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,37.57,120,0,,,28.9,34
+Carbine,IDS_ARSN_GCM_Carbine_12,IDS_ARSN_Rifle-Musket_58_caliber,80,100,120,140,200,38.675,120,0,,,29.75,35

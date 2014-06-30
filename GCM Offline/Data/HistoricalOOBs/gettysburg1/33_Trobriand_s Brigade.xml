@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Trobriand's Brigade,5,1</do>
+   <c>
+    <dc>5,Phillippe,,Trobriand,0,0,4,5,4,5,2,(0-3)</dc>
+   </c>
+   <u>
+    <du>387,0,4.3587,17th Maine,,0,0,1.4478,1.1772,0.7772,0.9538,0.7007,1.2849,5,9,0,20145,143,122</du>
+    <c>
+     <dc>8,William,,Pierce,0,4.515,2.2297,5.6345,2.7391,3.9714,5.2624,</dc>
+    </c>
+   </u>
+   <u>
+    <du>268,0,6.3825,3rd Michigan,,0,0,1.2921,0.6309,1.1739,0.7399,1.1224,0.526,27,12,0,20146,143,124</du>
+    <c>
+     <dc>7,Jacob,B,Mundshower,0,5.4132,3.2297,5.3982,3.4422,3.2558,5.7618,</dc>
+    </c>
+   </u>
+   <u>
+    <du>245,0,5.3794,5th Michigan,,0,0,0.6436,0.5056,1.0543,1.3131,1.3378,0.5987,6,13,0,20147,143,124</du>
+    <c>
+     <dc>7,Harvey,T,Grimly,0,5.1783,3.5834,3.1904,3.0927,5.2151,2.4276,</dc>
+    </c>
+   </u>
+   <u>
+    <du>472,0,5.4636,40th New York,,0,0,0.8578,0.6846,1,0.8475,1.3818,0.6038,5,6,0,20148,143,130</du>
+    <c>
+     <dc>7,James,T,Wilson,0,3.2969,4.0953,4.6962,2.2506,5.5006,2.8536,</dc>
+    </c>
+   </u>
+   <u>
+    <du>176,0,4.4974,110th Pennsylvania,,0,0,0.7354,1.3743,1.3231,1.4781,1.2056,1.0066,28,9,0,20149,143,132</du>
+    <c>
+     <dc>9,Chester,H,Morris,0,5.6504,2.0124,4.3218,4.3579,4.1894,5.0687,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

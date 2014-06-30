@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Farnsworth's Brigade,5,1</do>
+   <c>
+    <dc>4,Elon,J,Farnsworth,0,0,4,4,4,4,5,(7-6)</dc>
+   </c>
+   <u>
+    <du>460,0,5.2181,5th New York Cavalry,,0,2,1.0739,1.0005,1.2496,0.8472,1.1244,1.0281,44,17,0,20464,144,129</du>
+    <c>
+     <dc>7,George,E,Wambold,0,4.4012,5.9923,2.5938,5.2568,3.3044,2.5632,</dc>
+    </c>
+   </u>
+   <u>
+    <du>554,0,1.0714,18th Pennsylvania Cavalry,,0,2,0.9582,0.9945,1.0432,0.8997,1.4299,0.6713,10,19,0,20465,144,131</du>
+    <c>
+     <dc>5,Mathew,J,York,0,3.4046,3.998,3.5299,5.066,4.7429,4.7963,</dc>
+    </c>
+   </u>
+   <u>
+    <du>648,0,4.1783,1st Vermont Cavalry,,0,2,0.8673,0.7703,0.7306,0.908,0.9767,0.5301,44,20,0,20466,144,135</du>
+    <c>
+     <dc>5,Stuart,,Harrison,0,5.2922,2.8141,5.5434,2.012,4.5013,4.1048,</dc>
+    </c>
+   </u>
+   <u>
+    <du>434,0,4.0706,1st West Virginia Cavalry,,0,2,0.5236,1.3391,0.5047,0.9918,1.0319,1.1728,44,17,0,20467,144,138</du>
+    <c>
+     <dc>6,William,P,Kleckner,0,3.8092,2.5864,4.6995,2.4483,4.6404,4.0167,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

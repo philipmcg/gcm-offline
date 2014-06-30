@@ -1,0 +1,15 @@
+$Intro 
+
+<FONT=DefaultMedium,L,255,255,100>Garnier's Campaign Mod
+<FONT=DefaultMedium,L,100,100,255>www.sowmp.com
+ 
+<FONT=DefaultMedium,L,100,255,100>Terrain Mod
+
+<FONT=DefaultMedium,L,255,255,255>
+
+
+This mod is OPTIONAL, you may choose whether or not to use it.
+
+Improves the look of the in-game vegetation and walls.
+
+Graphics come from various sources: Jolly, Crikey, 2nd Texas, Davinci, Garnier

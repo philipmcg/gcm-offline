@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Breathed's Virginia Battery,5,2</do>
+   <c>
+    <dc>8,James,,Breathed,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.1471,3in Ordnance,,0,1,3.3896,3.3109,3.2312,2.9969,3.3064,3.3214,87,76,0,21076,4,0</du>
+    <c>
+     <dc>10,John,E,Rasberry,0,3.2154,4.455,4.1436,2.117,5.8234,5.0799,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1907,3in Ordnance,,0,1,2.726,3.0428,3.2448,2.728,2.8195,2.9566,87,77,0,21077,4,0</du>
+    <c>
+     <dc>16,Timothy,C,Perry,0,2.7542,2.0585,3.3205,3.3152,2.2231,2.3999,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5807,3in Ordnance,,0,1,2.8252,3.0654,3.3186,2.6651,2.9054,2.947,87,78,0,21078,4,0</du>
+    <c>
+     <dc>15,William,H,Bass,0,2.7105,5.3691,3.9082,4.8131,5.6229,3.7852,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9201,3in Ordnance,,0,1,2.8982,3.0439,3.3024,2.5435,2.507,2.5722,87,77,0,21079,4,0</du>
+    <c>
+     <dc>15,Robert,D,Buck,0,5.7764,3.016,3.3251,2.5831,5.1582,3.7318,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

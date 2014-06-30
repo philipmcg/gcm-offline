@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery B - 1st New Jersey Artillery,5,1</do>
+   <c>
+    <dc>8,A,,Clark,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.6091,10lb Parrott,,0,1,4.7232,5.2483,4.9574,5.1026,4.8391,4.8922,71,39,0,20168,144,0</du>
+    <c>
+     <dc>10,Mathias,S,Floro,0,3.6144,4.7246,3.712,4.2502,3.608,3.2951,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8178,10lb Parrott,,0,1,5.0566,5.3779,4.8208,5.2746,5.1611,4.5606,71,37,0,20169,144,0</du>
+    <c>
+     <dc>15,Charles,,Mifflin,0,3.8637,4.4705,5.2076,5.4221,3.6232,2.0884,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1037,10lb Parrott,,0,1,5.4223,4.7962,4.9978,4.7611,4.8859,5.4774,71,38,0,20170,144,0</du>
+    <c>
+     <dc>10,Benjamin,S,Appederis,0,3.3634,3.2606,3.4493,3.2351,2.1161,3.1457,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0178,10lb Parrott,,0,1,4.9787,4.6449,4.8586,5.1288,5.3508,4.5976,71,38,0,20171,144,0</du>
+    <c>
+     <dc>16,George,C,Wallace,0,2.8048,2.7605,2.9569,3.5989,4.1388,5.3791,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0629,10lb Parrott,,0,1,5.0642,4.7331,4.9266,5.1315,5.4529,5.2463,71,37,0,20172,144,0</du>
+    <c>
+     <dc>10,George,J,Parish,0,5.2819,3.4184,2.2324,5.3026,2.8941,3.4699,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6222,10lb Parrott,,0,1,4.6391,5.4828,5.2734,4.8262,5.018,5.1961,71,37,0,20173,144,0</du>
+    <c>
+     <dc>16,Paul,B,Sargeant,0,4.8029,4.9791,2.7914,5.0679,3.9111,4.4109,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Tilton's Brigade,5,1</do>
+   <c>
+    <dc>5,William,S,Tilton,0,0,2,2,2,2,2,(4-3)</dc>
+   </c>
+   <u>
+    <du>162,0,4.253,18th Massachusetts,,0,0,1.276,0.7394,1.2367,1.1016,1.1673,1.3195,45,6,0,20198,143,118</du>
+    <c>
+     <dc>9,John,,Webster,0,4.0199,5.9462,5.7345,3.9056,5.6279,4.1398,</dc>
+    </c>
+   </u>
+   <u>
+    <du>160,0,6.3122,22nd Massachusetts,,0,0,1.1519,0.897,1.1608,1.3407,1.4199,0.9438,45,9,0,20199,143,118</du>
+    <c>
+     <dc>8,William,J,Johnson,0,4.6274,5.8827,5.9508,5.1229,5.9804,3.91,</dc>
+    </c>
+   </u>
+   <u>
+    <du>169,0,5.1878,1st Michigan,,0,0,0.949,0.9919,1.1046,1.4878,0.6963,0.5889,45,12,0,20200,143,124</du>
+    <c>
+     <dc>7,Edward,,Conrad,0,2.486,5.1677,2.9649,3.6847,5.0235,3.5218,</dc>
+    </c>
+   </u>
+   <u>
+    <du>263,0,3.1774,118th Pennsylvania,,0,0,0.6762,0.5472,1.4682,1.2335,0.6081,0.7655,45,13,0,20201,143,132</du>
+    <c>
+     <dc>7,Nelson,K,Smith,0,4.9712,4.2369,3.3926,4.1897,4.0498,3.7057,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery E - Pennsylvania Artillery,5,1</do>
+   <c>
+    <dc>9,Charles,A,Atwell,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.8901,10lb Parrott,,0,1,5.1701,4.6459,4.7851,5.0371,5.1857,4.9141,71,37,0,20427,144,0</du>
+    <c>
+     <dc>10,Nathan,L,Shattock,0,4.6775,4.305,2.916,2.0886,4.3925,4.536,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7189,10lb Parrott,,0,1,5.2092,5.2541,4.7788,4.5794,4.6867,4.6656,71,37,0,20428,144,0</du>
+    <c>
+     <dc>16,William,,Doriot,0,3.7691,4.1404,4.4361,5.8436,4.8763,5.6436,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6193,10lb Parrott,,0,1,4.8626,5.3795,4.5702,5.1848,4.6387,4.9758,71,39,0,20429,144,0</du>
+    <c>
+     <dc>10,Daniel,,Haupt,0,3.8183,4.8828,4.434,2.6694,3.4675,4.3844,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0614,10lb Parrott,,0,1,4.7623,4.6857,5.1538,5.0883,4.7729,4.6577,71,37,0,20430,144,0</du>
+    <c>
+     <dc>15,James,,Parish,0,2.8843,4.9733,2.3997,5.0383,5.6626,3.5506,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4385,10lb Parrott,,0,1,4.7952,5.4284,5.3434,5.0491,5.4326,5.0498,71,37,0,20431,144,0</du>
+    <c>
+     <dc>10,George,,Tresler,0,2.4047,5.5707,5.0019,3.7749,3.8698,2.9713,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9149,10lb Parrott,,0,1,4.6348,4.8579,4.8269,4.6733,4.941,5.133,71,37,0,20432,144,0</du>
+    <c>
+     <dc>16,Francis,H,Ryan,0,4.3173,4.4095,3.3198,3.2171,2.2251,2.9519,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

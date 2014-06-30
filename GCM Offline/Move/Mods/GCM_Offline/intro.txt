@@ -1,0 +1,11 @@
+$Intro 
+
+<FONT=DefaultMedium,L,255,255,100>Garnier's Campaign Mod
+<FONT=DefaultMedium,L,100,100,255>www.sowmp.com
+ 
+<FONT=DefaultMedium,L,255,150,150>Gameplay Mod
+
+<FONT=DefaultMedium,L,255,255,255>
+
+
+This mod must always be used for GCM games.

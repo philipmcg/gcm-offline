@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Barksdale's Brigade,5,2</do>
+   <c>
+    <dc>4,William,,Barksdale,0,7,2,3,3,5,3,(3-0)</dc>
+   </c>
+   <u>
+    <du>524,0,5.2954,13th Mississippi,,0,0,0.9788,1.2085,0.8893,1.3567,0.7524,1.0856,28,47,0,20636,2,0</du>
+    <c>
+     <dc>5,Thomas,J,Joseph,0,3.7075,5.8251,5.8396,5.8773,2.7368,5.333,</dc>
+    </c>
+   </u>
+   <u>
+    <du>511,0,5.4311,17th Mississippi,,0,0,1.2814,1.4052,1.2299,1.2143,1.1799,0.7015,28,48,0,20637,2,0</du>
+    <c>
+     <dc>5,William,C,Bostick,0,4.1883,5.1855,5.3957,4.4928,2.5543,3.3997,</dc>
+    </c>
+   </u>
+   <u>
+    <du>273,0,6.192,18th Mississippi,,0,0,1.3652,1.1398,0.9649,0.5448,0.5216,1.3566,28,49,0,20638,2,0</du>
+    <c>
+     <dc>8,James,D,Barton,0,4.2269,2.3984,2.1346,3.6066,5.7117,2.2847,</dc>
+    </c>
+   </u>
+   <u>
+    <du>465,0,5.1724,21st Mississippi,,0,0,0.5912,1.3316,1.1802,0.7269,1.278,1.3919,28,51,0,20639,2,0</du>
+    <c>
+     <dc>5,Abner,T,Taquino,0,2.6155,4.5427,2.0907,5.4692,4.7328,3.339,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

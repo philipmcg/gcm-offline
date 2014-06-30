@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Bedford Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,Tyler,C,Jordan,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.4749,3in Ordnance,,0,1,5.9846,6.0434,6.4926,6.3275,6.2334,6.0204,87,77,0,20736,4,0</du>
+    <c>
+     <dc>16,Elijah,K,Huggins,0,5.6981,3.9165,5.2592,5.6726,5.8761,3.3503,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8821,3in Ordnance,,0,1,6.1552,5.7177,6.2347,5.7211,5.8064,5.9663,87,76,0,20737,4,0</du>
+    <c>
+     <dc>16,Charles,S,Lovejoy,0,5.9111,5.472,5.0489,3.4563,4.4721,3.1357,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2756,3in Ordnance,,0,1,5.7956,6.3771,6.0472,6.0372,5.5458,6.412,87,78,0,20738,4,0</du>
+    <c>
+     <dc>10,George,R,Hall,0,2.6035,4.3927,4.7804,2.5986,2.2938,2.5064,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5118,3in Ordnance,,0,1,6.1881,6.1505,6.4469,5.5463,5.5582,5.9111,87,76,0,20739,4,0</du>
+    <c>
+     <dc>16,Joseph,C,Smith,0,4.1988,3.5616,2.688,3.8582,5.8428,5.2165,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

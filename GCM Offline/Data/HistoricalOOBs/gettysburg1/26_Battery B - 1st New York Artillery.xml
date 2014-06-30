@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery B - 1st New York Artillery,5,1</do>
+   <c>
+    <dc>8,James,M,Rorty,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.4631,10lb Parrott,,0,1,5.9504,5.6881,6.0281,5.9741,6.2392,6.4136,71,37,0,20103,144,0</du>
+    <c>
+     <dc>10,Charles,,Gamble,0,5.7584,3.9416,2.4928,4.0557,5.8592,3.1509,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9828,10lb Parrott,,0,1,5.6238,5.9001,5.5718,6.482,6.4276,5.5461,71,37,0,20104,144,0</du>
+    <c>
+     <dc>15,William,M,Bregler,0,3.692,3.2041,3.8032,5.8318,4.8377,2.4701,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.9222,10lb Parrott,,0,1,6.0522,6.0547,5.5633,6.1179,6.4617,5.8289,71,38,0,20105,144,0</du>
+    <c>
+     <dc>15,William,A,Mulford,0,4.7034,4.9068,5.8518,3.8632,2.8124,5.7111,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1097,10lb Parrott,,0,1,5.5705,5.8817,5.9913,5.5773,6.0503,6.2468,71,37,0,20106,144,0</du>
+    <c>
+     <dc>15,Selleck,,Knabenshue,0,5.987,4.0759,5.1452,5.1434,5.6851,3.7264,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

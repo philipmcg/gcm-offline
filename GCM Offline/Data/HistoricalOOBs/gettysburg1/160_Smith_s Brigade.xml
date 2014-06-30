@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Smith's Brigade,5,2</do>
+   <c>
+    <dc>4,William,,Smith,0,2,0,2,3,1,1,(8-1)</dc>
+   </c>
+   <u>
+    <du>299,0,5.0848,31st Virginia,,0,0,0.8178,0.7988,0.7344,0.5458,1.1039,1.2936,41,51,0,20771,2,0</du>
+    <c>
+     <dc>7,Ben,,Kirkland,0,4.5579,5.7612,2.8287,5.3563,4.0141,4.0735,</dc>
+    </c>
+   </u>
+   <u>
+    <du>314,0,5.1252,49th Virginia,,0,0,1.4664,1.3037,0.5953,0.8427,0.7138,0.8003,5,52,0,20772,2,0</du>
+    <c>
+     <dc>7,John,W,Sanford,0,4.7975,3.3651,4.1786,2.9632,4.5781,3.1548,</dc>
+    </c>
+   </u>
+   <u>
+    <du>285,0,5.2466,52nd Virginia,,0,0,0.9541,1.43,0.6277,1.229,0.7733,1.3745,26,47,0,20773,2,0</du>
+    <c>
+     <dc>6,John,W,Tyson,0,5.1592,5.2523,2.9033,5.0097,3.9727,4.5936,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

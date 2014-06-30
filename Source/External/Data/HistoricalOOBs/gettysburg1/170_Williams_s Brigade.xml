@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Williams's Brigade,5,2</do>
+   <c>
+    <dc>5,Jesse,,Williams,0,1,3,3,3,3,4,(4-2)</dc>
+   </c>
+   <u>
+    <du>198,0,5.018,1st Louisiana,,0,0,1.4688,0.9208,1.4853,0.6804,0.9554,1.3197,5,52,0,20816,2,0</du>
+    <c>
+     <dc>8,Samuel,,Daugherty,0,4.3655,4.9905,5.2053,2.5364,4.1499,4.1473,</dc>
+    </c>
+   </u>
+   <u>
+    <du>266,0,6.4444,2nd Louisiana,,0,0,0.5948,0.5542,1.4319,1.4489,0.895,0.5144,6,51,0,20817,2,0</du>
+    <c>
+     <dc>8,William,,Roach,0,2.1824,4.232,4.504,4.185,5.0505,4.123,</dc>
+    </c>
+   </u>
+   <u>
+    <du>256,0,5.4026,10th Louisiana,,0,0,1.1213,0.6415,0.7451,0.735,1.1417,0.7629,5,49,0,20818,2,0</du>
+    <c>
+     <dc>8,Harry,E,Cox,0,2.716,2.6245,4.0819,2.7331,2.9798,2.463,</dc>
+    </c>
+   </u>
+   <u>
+    <du>314,0,5.3757,14th Louisiana,,0,0,0.9502,1.497,1.1207,1.4443,1.1493,1.2537,5,48,0,20819,2,0</du>
+    <c>
+     <dc>7,Arthur,,Elias,0,5.2784,5.7057,3.8165,3.8255,3.9757,3.4279,</dc>
+    </c>
+   </u>
+   <u>
+    <du>213,0,4.2546,15th Louisiana,,0,0,1.4848,1.4395,1.0717,0.5731,1.2889,1.3579,5,47,0,20820,2,0</du>
+    <c>
+     <dc>8,Abner,W,Wilson,0,4.9181,5.8326,4.5149,5.7109,3.4139,5.4185,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

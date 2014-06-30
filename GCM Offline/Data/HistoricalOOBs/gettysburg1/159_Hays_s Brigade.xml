@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Hays's Brigade,5,2</do>
+   <c>
+    <dc>4,Harry,T,Hays,0,4,5,4,4,6,5,(7-1)</dc>
+   </c>
+   <u>
+    <du>224,0,6.4675,5th Louisiana,,0,0,0.6878,0.7522,0.6178,1.3501,1.1159,0.8287,5,52,0,20766,2,0</du>
+    <c>
+     <dc>7,Alexander,W,Rudulph,0,3.9963,2.0152,5.5513,3.1307,5.6614,4.9721,</dc>
+    </c>
+   </u>
+   <u>
+    <du>247,0,7.2962,6th Louisiana,,0,0,1.019,0.6878,0.8216,0.6966,1.0961,1.4833,28,47,0,20767,2,0</du>
+    <c>
+     <dc>7,James,H,Ayres,0,2.1027,2.0381,5.8812,4.7332,2.2003,2.2009,</dc>
+    </c>
+   </u>
+   <u>
+    <du>265,0,7.1727,7th Louisiana,,0,0,1.1439,1.3444,1.3698,1.0361,0.583,1.2573,5,49,0,20768,2,0</du>
+    <c>
+     <dc>8,James,H,Blan,0,4.0723,3.1538,4.9888,5.8711,4.5373,4.6931,</dc>
+    </c>
+   </u>
+   <u>
+    <du>330,0,6.113,8th Louisiana,,0,0,0.5691,0.6023,1.4885,1.0865,0.6649,0.7137,6,48,0,20769,2,0</du>
+    <c>
+     <dc>5,Joe,M,Williams,0,4.1359,2.685,4.1968,2.6867,5.173,4.6789,</dc>
+    </c>
+   </u>
+   <u>
+    <du>384,0,6.2717,9th Louisiana,,0,0,0.8688,1.2804,0.9421,1.1233,1.0538,0.5441,5,51,0,20770,2,0</du>
+    <c>
+     <dc>5,John,H,Augling,0,4.862,5.5057,3.3754,3.4843,5.1059,4.1007,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

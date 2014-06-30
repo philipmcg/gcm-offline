@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Law's Brigade,5,2</do>
+   <c>
+    <dc>4,Evander,M,Law,0,7,6,5,5,6,6,(2-1)</dc>
+   </c>
+   <u>
+    <du>383,0,5.1054,4th Alabama,,0,0,1.4648,1.1163,1.3496,1.2687,0.8194,0.7942,28,51,0,20700,2,0</du>
+    <c>
+     <dc>6,John,E,Ridgeway,0,3.8857,2.4073,3.8007,4.265,5.817,2.0549,</dc>
+    </c>
+   </u>
+   <u>
+    <du>543,0,5.4406,15th Alabama,,0,0,1.3818,1.0568,0.9961,0.5936,1.2829,1.0776,6,52,0,20701,2,0</du>
+    <c>
+     <dc>5,John,W,Allen,0,3.606,3.773,2.4108,4.6155,5.0951,3.5928,</dc>
+    </c>
+   </u>
+   <u>
+    <du>401,0,3.3582,44th Alabama,,0,0,0.806,0.549,0.5685,0.8841,1.0642,1.1235,5,47,0,20702,2,0</du>
+    <c>
+     <dc>5,Alexander,H,Ledyard,0,3.6669,5.045,4.1392,2.1189,5.6291,3.3501,</dc>
+    </c>
+   </u>
+   <u>
+    <du>384,0,2.477,47th Alabama,,0,0,1.139,0.5391,0.8171,0.7968,1.1949,1.4437,26,48,0,20703,2,0</du>
+    <c>
+     <dc>8,John,T,Lemons,0,2.3505,2.6592,2.661,3.0155,2.462,4.5809,</dc>
+    </c>
+   </u>
+   <u>
+    <du>412,0,3.3398,48th Alabama,,0,0,0.7669,0.6977,0.909,1.4761,0.775,0.7377,5,49,0,20704,2,0</du>
+    <c>
+     <dc>6,Walker,E,McAdams,0,4.7344,5.6707,2.7749,5.9802,5.7572,5.8253,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

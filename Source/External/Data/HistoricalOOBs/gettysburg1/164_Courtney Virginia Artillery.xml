@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Courtney Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,William,A,Tanner,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.1086,3in Ordnance,,0,1,5.0625,4.9824,4.8902,5.3192,4.5926,4.9002,87,78,0,20787,4,0</du>
+    <c>
+     <dc>10,William,P,Ford,0,3.4176,4.6922,3.9213,3.4776,2.6546,4.1575,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8189,3in Ordnance,,0,1,4.7673,5.0779,5.2521,5.1204,4.6182,5.486,87,78,0,20788,4,0</du>
+    <c>
+     <dc>16,Jas,T,Price,0,2.0079,3.0761,3.9065,5.1765,2.0935,4.2754,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.3507,3in Ordnance,,0,1,5.4636,4.5012,5.215,4.7528,4.7653,4.7321,87,77,0,20789,4,0</du>
+    <c>
+     <dc>10,Sam,H,Wade,0,3.4612,5.3521,2.4827,3.5595,3.7788,3.4368,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6341,3in Ordnance,,0,1,5.2855,4.8722,5.0095,5.3597,5.0506,5.1042,87,76,0,20790,4,0</du>
+    <c>
+     <dc>16,William,N,Hyden,0,5.7429,4.8518,4.7614,3.4664,5.0105,4.0558,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

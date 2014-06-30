@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Lee Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,Charles,I,Raine,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.6558,10lb Parrott,,0,1,6.2208,5.5024,5.7408,5.7827,5.795,5.9869,70,76,0,20833,4,0</du>
+    <c>
+     <dc>10,Robert,,Taylor,0,3.6813,3.5289,3.4669,4.7828,4.3582,4.2553,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9443,20lb Parrott,,0,1,5.8669,5.6344,6.1383,5.5558,5.5875,6.4193,82,77,0,20834,4,0</du>
+    <c>
+     <dc>15,Daniel,P,Roy,0,3.8266,4.5478,3.0133,5.1161,5.8261,2.6564,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4281,3in Ordnance,,0,1,5.5881,6.1666,6.268,5.515,6.3119,5.8686,87,78,0,20835,4,0</du>
+    <c>
+     <dc>10,John,J,Shimsky,0,5.7957,5.0656,2.2966,2.8622,3.164,5.2563,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.2458,20lb Parrott,,0,1,5.6018,6.3705,5.9304,5.8346,5.803,5.9001,82,78,0,20836,4,0</du>
+    <c>
+     <dc>15,Ransom,,Mints,0,5.2412,4.8538,5.2216,3.8085,2.9723,5.538,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

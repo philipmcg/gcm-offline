@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery B - 1st Rhode Island Artillery,5,1</do>
+   <c>
+    <dc>9,T,,Brown,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.082,12lb Napoleon,,0,1,4.1379,3.6165,3.596,4.3542,3.7266,4.4223,79,35,0,20113,144,0</du>
+    <c>
+     <dc>10,William,,Stafford,0,5.2339,2.8476,5.7172,3.9823,3.4528,3.3894,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.3838,12lb Napoleon,,0,1,3.8467,3.6202,3.7247,4.252,3.5551,4.2905,79,36,0,20114,144,0</du>
+    <c>
+     <dc>16,John,,Kingcade,0,5.3726,4.4288,2.8894,5.7576,3.4916,5.9117,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.215,12lb Napoleon,,0,1,3.6567,3.5455,3.654,3.5376,4.213,4.2964,79,36,0,20115,144,0</du>
+    <c>
+     <dc>10,John,W,Ryner,0,5.6742,5.3784,3.468,2.3407,5.6818,3.0917,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1221,12lb Napoleon,,0,1,4.0464,4.1348,4.0735,4.2655,4.1532,4.4963,79,34,0,20116,144,0</du>
+    <c>
+     <dc>15,George,,Dunsmere,0,4.2523,5.2204,3.4129,4.4941,4.1838,3.363,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6911,12lb Napoleon,,0,1,3.8871,3.799,4.3737,4.1948,4.1391,3.7639,79,36,0,20117,144,0</du>
+    <c>
+     <dc>10,William,,Smith,0,3.7893,5.312,2.8054,5.9382,3.6125,2.9726,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4306,12lb Napoleon,,0,1,3.9639,3.9267,4.2929,4.3121,3.8214,3.595,79,34,0,20118,144,0</du>
+    <c>
+     <dc>15,William,O,Brooks,0,5.4903,3.3466,2.9329,5.3969,3.2369,4.7197,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Harrow's Brigade,5,1</do>
+   <c>
+    <dc>4,William,,Harrow,0,2,2,3,3,2,3,(10-1)</dc>
+   </c>
+   <u>
+    <du>480,0,3.1377,19th Maine,,0,0,1.1964,1.4275,0.8688,0.9729,0.6772,1.4435,45,9,0,20078,143,122</du>
+    <c>
+     <dc>6,Christian,S,Stone,0,4.8933,2.5787,3.79,4.0588,4.2534,2.5744,</dc>
+    </c>
+   </u>
+   <u>
+    <du>269,0,5.1731,15th Massachusetts,,0,0,0.9184,0.5108,1.326,1.0144,0.8663,1.3938,30,12,0,20079,143,118</du>
+    <c>
+     <dc>6,Alexander,,Shaw,0,3.2887,2.4103,3.4833,3.5316,3.3462,3.4145,</dc>
+    </c>
+   </u>
+   <u>
+    <du>366,0,8.0248,1st Minnesota,,0,0,1.1518,1.2108,0.7444,0.5584,0.541,1.4558,31,13,0,20080,143,139</du>
+    <c>
+     <dc>8,Abraham,W,Perkins,0,3.5823,5.4421,3.6075,3.8334,5.1446,3.917,</dc>
+    </c>
+   </u>
+   <u>
+    <du>371,0,6.469,82nd New York,,0,0,0.7001,0.6269,0.5842,1.0895,0.6533,0.9386,31,6,0,20081,143,130</du>
+    <c>
+     <dc>8,Ransom,,Paar,0,5.5904,4.1417,4.4453,2.6,4.84,2.9119,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

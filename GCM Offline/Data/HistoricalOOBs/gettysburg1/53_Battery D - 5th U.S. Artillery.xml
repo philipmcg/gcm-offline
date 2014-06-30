@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery D - 5th U.S. Artillery,5,1</do>
+   <c>
+    <dc>8,Charles,E,Hazlett,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.762,10lb Parrott,,0,1,4.7968,5.0582,4.8095,4.5363,4.9736,5.2727,71,39,0,20249,144,0</du>
+    <c>
+     <dc>15,George,S,Patterson,0,5.0542,5.003,5.3823,3.0736,2.3274,2.3801,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8211,10lb Parrott,,0,1,4.5491,5.0932,4.6401,4.7783,5.2374,4.8187,71,38,0,20250,144,0</du>
+    <c>
+     <dc>15,Chauncey,P,Watson,0,5.2109,4.5818,4.3419,3.221,4.1748,4.0584,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.2909,10lb Parrott,,0,1,4.8634,4.8991,5.0413,4.674,4.6942,5.4476,71,39,0,20251,144,0</du>
+    <c>
+     <dc>10,John,C,Hatz,0,2.0137,5.4181,5.1138,5.0113,3.2574,2.9045,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9863,10lb Parrott,,0,1,5.2077,5.1528,5.0795,5.4057,5.4579,4.8056,71,39,0,20252,144,0</du>
+    <c>
+     <dc>16,John,N,Lehman,0,2.5567,4.9163,4.2414,2.2895,3.837,4.9862,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9152,10lb Parrott,,0,1,4.6674,4.8354,4.9764,4.5979,4.651,5.0822,71,38,0,20253,144,0</du>
+    <c>
+     <dc>15,Louis,E,Worth,0,2.1648,4.0563,4.9576,2.0838,2.8733,5.3293,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1618,10lb Parrott,,0,1,5.115,5.0393,4.8074,5.0689,5.2595,5.1802,71,39,0,20254,144,0</du>
+    <c>
+     <dc>16,William,P,Hoover,0,5.7084,5.4017,3.1405,5.5845,5.9668,3.4037,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

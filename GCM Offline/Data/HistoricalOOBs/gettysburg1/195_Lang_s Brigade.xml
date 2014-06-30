@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Lang's Brigade,5,2</do>
+   <c>
+    <dc>5,David,,Lang,0,1,4,3,2,3,2,(6-3)</dc>
+   </c>
+   <u>
+    <du>273,0,4.3344,2nd Florida,,0,0,0.9542,0.5328,0.6099,0.9304,1.0367,1.1638,37,47,0,20924,2,0</du>
+    <c>
+     <dc>6,John,,Lyons,0,2.7319,4.4984,5.0238,5.765,4.272,3.5977,</dc>
+    </c>
+   </u>
+   <u>
+    <du>356,0,2.2935,5th Florida,,0,0,1.3045,0.6682,1.2323,1.0317,0.6466,0.8925,28,48,0,20925,2,0</du>
+    <c>
+     <dc>5,James,M,Smith,0,2.8887,4.8407,2.0144,2.1456,3.9131,4.6161,</dc>
+    </c>
+   </u>
+   <u>
+    <du>202,0,2.1356,8th Florida,,0,0,1.1642,0.8651,0.7443,1.2596,1.0017,0.7109,5,52,0,20926,2,0</du>
+    <c>
+     <dc>8,Charles,,Boles,0,3.2608,3.7411,5.5644,3.7292,3.2044,4.2026,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

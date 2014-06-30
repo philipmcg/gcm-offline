@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Lewis Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,John,W,Lewis,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.129,12lb Napoleon,,0,1,1.7026,1.9068,1.6791,2.4874,2.3611,2.2556,78,75,0,20968,4,0</du>
+    <c>
+     <dc>15,Thomas,M,Chandler,0,3.0521,2.27,3.3797,5.8817,5.067,5.6247,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.6351,3in Ordnance,,0,1,2.1357,2.4462,2.0355,1.9719,2.1706,1.7705,87,76,0,20969,4,0</du>
+    <c>
+     <dc>16,Ruben,D,Cockran,0,3.8712,2.9761,5.2659,5.1156,2.2814,2.274,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,0.9043,12lb Napoleon,,0,1,2.1627,2.1794,1.9878,2.3351,2.2005,2.3469,78,75,0,20970,4,0</du>
+    <c>
+     <dc>10,Eli,H,Blevins,0,3.5258,2.4231,2.0823,5.4325,2.2267,5.2439,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6674,3in Ordnance,,0,1,2.192,2.1552,2.2454,2.3561,2.4704,2.4157,87,77,0,20971,4,0</du>
+    <c>
+     <dc>15,Joshua,,Wemmer,0,5.9489,3.9143,3.5849,2.8707,5.08,2.3561,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

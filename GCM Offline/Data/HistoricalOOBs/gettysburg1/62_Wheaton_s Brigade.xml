@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Wheaton's Brigade,5,1</do>
+   <c>
+    <dc>4,Frank,,Wheaton,0,3,4,3,3,3,2,(9-4)</dc>
+   </c>
+   <u>
+    <du>267,0,4.3852,62nd New York,,0,0,0.6975,0.5281,0.6297,0.5666,1.4769,0.9474,6,6,0,20290,143,130</du>
+    <c>
+     <dc>6,John,T,Mckinzie,0,5.9815,4.6877,5.522,5.1618,4.8519,5.5883,</dc>
+    </c>
+   </u>
+   <u>
+    <du>276,0,4.0669,93rd Pennsylvania,,0,0,1.3348,0.9965,0.5657,0.8292,1.0652,0.8715,31,9,0,20291,143,132</du>
+    <c>
+     <dc>8,James,E,Querry,0,3.2669,4.3987,3.3661,2.9292,2.4758,4.3549,</dc>
+    </c>
+   </u>
+   <u>
+    <du>406,0,3.0379,98th Pennsylvania,,0,0,0.6789,1.0735,1.363,1.0665,0.6759,1.1609,45,12,0,20292,143,132</du>
+    <c>
+     <dc>6,Moses,F,Wissinger,0,3.4874,3.7577,4.068,3.0632,5.4063,3.4747,</dc>
+    </c>
+   </u>
+   <u>
+    <du>123,0,4.3552,102nd Pennsylvania,,0,0,0.8361,1.4058,1.3555,1.4963,1.0559,0.5842,31,13,0,20293,143,132</du>
+    <c>
+     <dc>9,Benjamin,J,Gamble,0,4.091,4.7269,5.3964,3.846,5.2333,4.4744,</dc>
+    </c>
+   </u>
+   <u>
+    <du>507,0,2.2883,139th Pennsylvania,,0,0,1.441,1.4862,1.4217,1.4816,1.217,1.4891,40,6,0,20294,143,132</du>
+    <c>
+     <dc>5,Joseph,,Marr,0,3.8659,5.8838,3.4232,3.3352,5.8297,4.8597,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

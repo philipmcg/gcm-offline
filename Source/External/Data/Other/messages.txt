@@ -1,0 +1,15 @@
+~messages
+id	text
+REGT_ILL_DYSENTERY	{regtdesignation} lost {text} men from dysentery.
+regt_ill	{regtdesignation} lost {text} men from disease.
+brigade_trade	{text} replaced by {text}.
+regt_lost	{regtdesignation} transferred out of division.
+playerturn	Division rested.
+refitted	Division refitted.
+cdr_dismiss_desert	{cdr_brief} requested to dismiss {cdr_brief} from command of the {regtdesignation}.  The request was granted, but {text} men deserted the regiment.
+cdr_dismiss_refused	{cdr_brief} requested to dismiss {cdr_brief} from command of the {regtdesignation}.  The request was refused.
+cdr_dismiss_transfer	{cdr_brief} requested to dismiss {cdr_brief} from command of the {regtdesignation}.  The request was refused, and the {regtdesignation} was transferred out of the division.
+cdr_dismiss_success	{cdr_brief} was dismissed from command of the {regtdesignation}.
+regt_transfer_success	{regtdesignation} was transferred from {text} to {text}.
+regt_transfer_desert	{regtdesignation} was transferred from {text} to {text}.  {text} troops deserted.
+regt_transfer_refused	{cdr_brief} was denied his request to transfer {regtdesignation} from {text}.

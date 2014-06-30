@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Scales's Brigade,5,2</do>
+   <c>
+    <dc>4,Alfred,M,Scales,0,3,2,3,3,2,5,(8-4)</dc>
+   </c>
+   <u>
+    <du>262,0,6.0946,13th North Carolina,,0,0,1.2557,1.4216,1.3744,0.6117,1.4078,0.7791,41,49,0,20985,2,0</du>
+    <c>
+     <dc>7,Frank,A,Bridges,0,5.0642,5.3256,5.6557,3.5753,3.5531,5.5184,</dc>
+    </c>
+   </u>
+   <u>
+    <du>356,0,5.0568,16th North Carolina,,0,0,1.4487,0.9418,1.361,1.095,1.4972,0.9313,5,51,0,20986,2,0</du>
+    <c>
+     <dc>6,William,R,Kennedy,0,4.2834,4.4614,2.147,4.3746,3.7541,2.3584,</dc>
+    </c>
+   </u>
+   <u>
+    <du>299,0,5.4238,22nd North Carolina,,0,0,1.189,1.3535,0.5138,0.768,0.5158,1.152,41,47,0,20987,2,0</du>
+    <c>
+     <dc>8,John,G,Murphy,0,2.9601,5.0798,4.3874,5.0404,4.5862,3.0334,</dc>
+    </c>
+   </u>
+   <u>
+    <du>346,0,4.3896,34th North Carolina,,0,0,1.3995,1.342,1.0679,0.9593,0.5985,1.0156,5,48,0,20988,2,0</du>
+    <c>
+     <dc>6,Daniel,E,Jenkins,0,4.0499,2.151,5.3798,3.1765,2.123,5.3461,</dc>
+    </c>
+   </u>
+   <u>
+    <du>245,0,4.0682,38th North Carolina,,0,0,0.6702,0.7303,0.8091,1.3108,0.7672,0.9953,31,51,0,20989,2,0</du>
+    <c>
+     <dc>7,John,M,May,0,2.6657,2.532,3.9402,5.9768,4.6748,4.3825,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>3rd Battery - New York Artillery,5,1</do>
+   <c>
+    <dc>8,William,A,Harn,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.4826,10lb Parrott,,0,1,6.0117,6.0553,5.9968,5.8591,5.579,5.5898,71,37,0,20307,144,0</du>
+    <c>
+     <dc>15,Daniel,D,Jennings,0,2.7591,4.6009,5.9368,5.9105,4.7963,4.0322,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.543,10lb Parrott,,0,1,5.8338,6.3854,5.904,5.7971,6.1802,6.3817,71,37,0,20308,144,0</du>
+    <c>
+     <dc>15,William,L,McGohan,0,2.8152,5.8281,3.0347,2.2739,5.3712,5.1664,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.6612,10lb Parrott,,0,1,6.069,5.9731,5.9171,6.0395,5.9745,5.8217,71,39,0,20309,144,0</du>
+    <c>
+     <dc>15,Samuel,R,Hazard,0,5.0375,3.4594,2.9474,4.4144,5.5693,4.3382,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4671,10lb Parrott,,0,1,6.0273,6.3728,6.3469,6.4586,6.4612,6.2706,71,39,0,20310,144,0</du>
+    <c>
+     <dc>16,Joseph,S,Thomas,0,4.6021,2.1311,4.352,2.6845,5.6112,5.9976,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7487,10lb Parrott,,0,1,6.1632,6.2793,6.124,6.0593,6.1917,5.5531,71,39,0,20311,144,0</du>
+    <c>
+     <dc>10,John,H,Oakes,0,2.3109,3.0432,4.6666,5.2738,5.9086,2.2502,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.455,10lb Parrott,,0,1,6.4688,5.9362,5.9885,5.761,5.9746,6.0519,71,38,0,20312,144,0</du>
+    <c>
+     <dc>15,John,E,Kirby,0,2.4697,5.8814,5.6414,2.4226,5.1227,2.6536,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

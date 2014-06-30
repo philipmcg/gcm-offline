@@ -1,0 +1,10 @@
+~battle_types,id,name,ddir,adir,
+meet,Meeting Engagement,n,s
+attack,Attack,e,w
+
+~stances,id,displayname,name
+1,O,Orders
+2,D,Defend
+3,P,Probe
+4,S,Support
+5,W,Withdraw

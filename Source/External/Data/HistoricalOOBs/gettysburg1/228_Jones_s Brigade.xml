@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jones's Brigade,5,2</do>
+   <c>
+    <dc>4,William,E,Jones,0,6,3,3,3,3,4,(7-5)</dc>
+   </c>
+   <u>
+    <du>598,0,4.0749,6th Virginia Cavalry,,0,2,0.9569,1.1034,0.8944,1.2226,0.6229,0.9644,19,56,0,21072,3,0</du>
+    <c>
+     <dc>5,James,W,Eckols,0,4.1674,3.9067,4.2883,2.8055,3.3041,5.8403,</dc>
+    </c>
+   </u>
+   <u>
+    <du>416,0,5.2231,7th Virginia Cavalry,,0,2,1.1006,0.9068,1.1676,0.98,0.5747,1.2906,10,57,0,21073,3,0</du>
+    <c>
+     <dc>6,Green,M,Lock,0,4.0967,4.678,3.6092,3.6087,4.5152,5.3382,</dc>
+    </c>
+   </u>
+   <u>
+    <du>415,0,5.3369,11th Virginia Cavalry,,0,2,1.4724,1.0296,0.8974,1.1145,0.8394,0.7283,10,58,0,21074,3,0</du>
+    <c>
+     <dc>7,James,M,Gulley,0,3.3226,3.8593,4.0036,5.6066,4.2945,2.4852,</dc>
+    </c>
+   </u>
+   <u>
+    <du>262,0,1.2811,35th Virginia Cavalry,,0,2,1.4096,0.9711,0.7923,0.6545,0.5511,0.5214,52,56,0,21075,3,0</du>
+    <c>
+     <dc>6,Alfred,,Poe,0,3.1968,3.4072,2.5067,4.2457,4.502,4.269,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery E - 4th U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,Samuel,S,Elder,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.2479,3in Ordnance,,0,1,4.9676,4.616,4.7435,5.1546,5.0847,5.1068,88,37,0,20496,144,0</du>
+    <c>
+     <dc>10,Johnston,M,Gurman,0,3.037,3.4792,5.9311,3.1585,2.3785,5.2944,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7823,3in Ordnance,,0,1,4.7763,5.3539,5.0707,5.0293,5.0172,4.6615,88,39,0,20497,144,0</du>
+    <c>
+     <dc>16,Oscar,A,Hunter,0,2.765,3.7496,2.2578,2.5169,4.1061,3.4454,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6419,3in Ordnance,,0,1,4.9894,4.973,4.718,4.6851,4.6733,4.9151,88,38,0,20498,144,0</du>
+    <c>
+     <dc>10,William,L,Gibson,0,3.8969,3.3975,3.6014,5.8449,5.8959,4.6907,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6204,3in Ordnance,,0,1,4.9503,5.457,4.5943,4.8745,5.2947,5.2497,88,37,0,20499,144,0</du>
+    <c>
+     <dc>16,Edward,J,Detwiler,0,4.4311,2.1834,2.1126,3.9528,4.5885,4.9767,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

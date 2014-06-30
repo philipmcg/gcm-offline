@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Wright's Brigade,5,2</do>
+   <c>
+    <dc>4,Ambrose,R,Wright,0,5,4,3,3,4,5,(3-3)</dc>
+   </c>
+   <u>
+    <du>483,0,6.4435,3rd Georgia,,0,0,0.7413,0.7107,0.5164,1.1035,1.4649,0.8355,6,48,0,20916,2,0</du>
+    <c>
+     <dc>6,John,,Weaver,0,4.1764,2.0174,4.779,5.7393,3.8173,5.3005,</dc>
+    </c>
+   </u>
+   <u>
+    <du>440,0,4.1747,22nd Georgia,,0,0,0.9433,1.0934,1.4235,1.2339,1.1305,1.4057,31,52,0,20917,2,0</du>
+    <c>
+     <dc>7,Elijah,L,Sydnor,0,3.4279,2.6647,4.0911,3.5997,2.4458,3.317,</dc>
+    </c>
+   </u>
+   <u>
+    <du>434,0,4.2149,48th Georgia,,0,0,0.6046,1.2695,0.6197,1.1513,0.7051,0.8133,5,51,0,20918,2,0</du>
+    <c>
+     <dc>5,Meredith,C,Falin,0,3.994,5.1,5.7209,3.2347,4.5898,4.2607,</dc>
+    </c>
+   </u>
+   <u>
+    <du>199,0,4.2962,2nd Georgia Battalion,,0,0,1.1857,1.2214,1.1763,1.4015,1.156,0.9483,28,49,0,20919,2,0</du>
+    <c>
+     <dc>9,John,J,Cobb,0,5.339,3.0753,3.6459,3.6476,4.6175,5.8348,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Armistead's Brigade,5,2</do>
+   <c>
+    <dc>4,Lewis,A,Armistead,0,5,5,4,5,4,4,(8-0)</dc>
+   </c>
+   <u>
+    <du>289,0,4.2686,9th Virginia,,0,0,0.9421,1.086,0.6888,0.7927,0.7346,0.8216,28,47,0,20667,2,0</du>
+    <c>
+     <dc>5,James,F,Fitz,0,3.0233,5.8078,4.3133,5.274,3.4923,4.8311,</dc>
+    </c>
+   </u>
+   <u>
+    <du>463,0,5.3653,14th Virginia,,0,0,1.4393,1.3588,1.4129,1.4031,0.5656,0.5718,5,48,0,20668,2,0</du>
+    <c>
+     <dc>6,Jackson,C,Thompson,0,5.3439,4.015,3.8007,3.7814,4.0171,2.008,</dc>
+    </c>
+   </u>
+   <u>
+    <du>393,0,5.1248,38th Virginia,,0,0,1.2936,0.5657,0.7351,0.7639,1.3443,0.7558,41,49,0,20669,2,0</du>
+    <c>
+     <dc>6,Robert,R,Lunday,0,4.7329,2.1409,3.6413,3.4544,3.1224,5.2207,</dc>
+    </c>
+   </u>
+   <u>
+    <du>476,0,4.4079,53rd Virginia,,0,0,1.2547,0.574,0.6036,0.5315,1.4429,0.9858,5,51,0,20670,2,0</du>
+    <c>
+     <dc>6,William,,Robertson,0,2.9445,4.3868,4.6853,4.4137,4.8391,4.7215,</dc>
+    </c>
+   </u>
+   <u>
+    <du>519,0,4.385,57th Virginia,,0,0,0.9302,1.1587,1.4219,0.8605,0.5797,0.7577,5,52,0,20671,2,0</du>
+    <c>
+     <dc>5,Thomas,H,Seymer,0,2.3269,2.9618,3.1251,3.9832,4.7711,5.5352,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

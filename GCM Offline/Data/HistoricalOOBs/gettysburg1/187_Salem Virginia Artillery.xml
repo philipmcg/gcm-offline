@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Salem Virginia Artillery,5,2</do>
+   <c>
+    <dc>9,Charles,B,Griffin,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.2738,12lb Napoleon,,0,1,2.4921,2.4549,2.0629,2.0272,2.0542,2.2199,78,73,0,20891,4,0</du>
+    <c>
+     <dc>16,Clement,T,Kerksey,0,4.6375,2.4488,4.255,5.2741,2.1301,4.7863,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.8656,3in Ordnance,,0,1,1.5298,2.3684,2.4176,1.7731,1.6083,1.972,87,77,0,20892,4,0</du>
+    <c>
+     <dc>16,Isaac,P,Dixon,0,5.2009,5.8473,2.6345,3.8862,4.5796,4.3943,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.1902,12lb Napoleon,,0,1,2.1175,2.0969,2.0391,2.1209,2.1764,1.5576,78,73,0,20893,4,0</du>
+    <c>
+     <dc>15,William,,Montgomery,0,3.6001,2.7691,4.6823,2.8936,3.5662,2.8131,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.7711,3in Ordnance,,0,1,1.5456,1.915,2.1636,1.8989,1.9045,2.243,87,76,0,20894,4,0</du>
+    <c>
+     <dc>16,William,P,Hebert,0,3.7332,3.601,3.3523,3.7022,4.2567,4.4578,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Merritt's Brigade,5,1</do>
+   <c>
+    <dc>4,Wesley,,Merritt,0,3,4,3,3,3,5,(4-6)</dc>
+   </c>
+   <u>
+    <du>273,0,5.1025,6th Pennsylvania Cavalry,,0,2,0.9467,0.705,1.1612,0.9389,1.4967,1.4867,44,20,0,20451,144,131</du>
+    <c>
+     <dc>5,Leonard,,Slaughter,0,4.6142,5.5565,2.8409,3.3307,5.4518,3.0177,</dc>
+    </c>
+   </u>
+   <u>
+    <du>400,0,5.2242,1st U.S. Cavalry,,0,2,1.1704,0.7603,1.4259,0.9133,0.8894,1.1006,44,17,0,20452,144,138</du>
+    <c>
+     <dc>5,John,J,Ritenour,0,5.6678,3.2969,5.2921,3.6548,3.3034,5.6119,</dc>
+    </c>
+   </u>
+   <u>
+    <du>447,0,5.193,2nd U.S. Cavalry,,0,2,1.3575,1.3133,0.9524,1.0428,0.8191,1.1406,44,19,0,20453,144,138</du>
+    <c>
+     <dc>6,George,E,Hartranft,0,3.2508,4.6006,5.5708,3.8894,4.91,5.9487,</dc>
+    </c>
+   </u>
+   <u>
+    <du>340,0,4.4799,5th U.S. Cavalry,,0,2,1.1223,1.319,1.0732,1.3402,0.5665,0.6371,44,20,0,20454,144,138</du>
+    <c>
+     <dc>6,George,M,Johnson,0,4.324,4.4869,4.5168,5.106,2.6296,4.2591,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

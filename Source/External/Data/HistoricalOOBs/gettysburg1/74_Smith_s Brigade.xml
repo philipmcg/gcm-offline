@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Smith's Brigade,5,1</do>
+   <c>
+    <dc>5,Orland,,Smith,0,3,2,2,2,2,2,(3-5)</dc>
+   </c>
+   <u>
+    <du>537,0,1.4187,33rd Massachusetts,,0,0,0.6055,1.138,1.2863,0.9376,0.8459,0.5904,5,9,0,20355,143,118</du>
+    <c>
+     <dc>7,Frederick,W,Crawford,0,3.4706,3.5331,4.5593,5.0205,2.5607,3.2908,</dc>
+    </c>
+   </u>
+   <u>
+    <du>528,0,2.4696,136th New York,,0,0,0.8101,0.8884,0.8175,0.8908,1.0842,1.0399,5,12,0,20356,143,130</du>
+    <c>
+     <dc>5,Charles,W,Staeley,0,5.6889,5.6814,3.741,4.1411,5.5635,2.8305,</dc>
+    </c>
+   </u>
+   <u>
+    <du>365,0,5.2752,55th Ohio,,0,0,0.957,0.5406,1.2863,1.3143,0.5836,0.9634,5,13,0,20357,143,139</du>
+    <c>
+     <dc>6,Ira,P,Feasel,0,2.4628,5.9866,3.3052,2.499,2.1887,2.0936,</dc>
+    </c>
+   </u>
+   <u>
+    <du>374,0,4.0382,73rd Ohio,,0,0,0.5621,1.3444,1.1073,0.654,1.3498,1.307,5,6,0,20358,143,139</du>
+    <c>
+     <dc>8,Christopher,B,Patterson,0,3.1206,4.2033,2.688,5.3042,5.5397,4.8471,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

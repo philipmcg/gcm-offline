@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Day's Brigade,5,1</do>
+   <c>
+    <dc>5,Hannibal,,Day,0,2,3,3,4,3,3,(8-3)</dc>
+   </c>
+   <u>
+    <du>334,0,5.3593,3rd U.S. Infantry,,0,0,0.9691,1.4335,0.9081,1.0609,1.4612,1.3799,45,6,0,20210,143,139</du>
+    <c>
+     <dc>5,Charles,,Folly,0,4.0416,3.2037,5.8369,5.7044,2.4208,5.0517,</dc>
+    </c>
+   </u>
+   <u>
+    <du>199,0,5.3192,4th U.S. Infantry,,0,0,0.6657,1.4183,0.8392,0.6023,0.9751,1.1247,45,9,0,20211,143,139</du>
+    <c>
+     <dc>9,John,J,Hickock,0,3.7477,5.3383,5.3951,4.7382,4.2224,4.9677,</dc>
+    </c>
+   </u>
+   <u>
+    <du>174,0,5.1275,6th U.S. Infantry,,0,0,0.9469,1.3415,1.2381,1.3371,1.4343,0.5824,45,12,0,20212,143,139</du>
+    <c>
+     <dc>7,Norman,L,Porter,0,5.4932,5.3589,4.2435,5.9695,3.7577,5.0828,</dc>
+    </c>
+   </u>
+   <u>
+    <du>459,0,5.2711,12th U.S. Infantry,,0,0,0.8216,0.8836,0.771,1.2176,1.2791,1.0064,45,13,0,20213,143,139</du>
+    <c>
+     <dc>6,James,,Newton,0,4.9661,2.1601,5.224,2.1536,4.084,2.5304,</dc>
+    </c>
+   </u>
+   <u>
+    <du>558,0,5.2879,14th U.S. Infantry,,0,0,0.5098,0.8665,0.5103,0.9137,0.9241,1.0795,45,6,0,20214,143,139</du>
+    <c>
+     <dc>5,Oscar,,Web,0,3.2313,5.2331,5.7345,2.9156,2.115,2.2391,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,63 @@
+~brushes,name	color
+region_mouseover	22ffffff
+region_enter	4400ff00
+region_canenter	2200ff00
+region_canrailenter	2280ff00
+region_noenter	44ff0000
+division_mouseover	88ffffff
+region_selected	22ffffff
+division_selected	aaffff00
+division_1	004080
+division_2	6E6E6E
+next_battle	77ff0000
+div_displayname	ffffff
+reg_displayname	80ffffff
+reg_mapname	80ffffff
+red	ff0000
+white	ffffff
+stance	99ff99
+yellow	ffff00
+shadow	80000000
+no_supply	ff0000
+med_supply	8040ff40
+low_supply	a08000
+tooltip	ffffff
+div_tt	B7AD93
+div_ttl	C9C2AF
+div_ttd	A79D83
+print	301000
+
+~colors,name,color
+side1,004080
+side2,6E6E6E
+
+~fonts,name,family,size
+reg_displayname,verdana,8
+div_displayname,verdana,8
+reg_map,verdana,6
+normal,verdana,8
+print,georgia,8
+
+~buttons,id,text,enabled,
+reorganize,Reorganize,1
+finished_moves,Finish Moves,1
+process_moves,Process Moves,1
+next_battle,Next Battle,0
+finished_battle,Finish Battle,0
+finished_turn,End Turn,0
+undo,Undo,1
+reload,Reload,1
+close,Close,1
+
+~division_menu,id,text,tooltip,
+view_oob,View Order Of Battle,View this division order of battle online.
+stance_1,Stance: Orders,This division will follow its move order regardless of enemy activity.
+stance_2,Stance: Defend,This division will stay on the defensive if attacked before it moves.
+stance_3,Stance: Probe,This division will stay back if its destination is occupied by the enemy.
+stance_4,Stance: Support,This division will only move if there are already friendly troops at its destination.
+stance_5,Stance: Withdraw,This division will only move if it is attacked.
+
+
+~region_menu,id,text,tooltip,
+view_scn_meet,View Meeting Engagement Scenario,
+view_scn_attack,View Attack Scenario,

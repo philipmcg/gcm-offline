@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Brooke's Brigade,5,1</do>
+   <c>
+    <dc>5,John,R,Brooke,0,2,3,5,2,5,4,(9-1)</dc>
+   </c>
+   <u>
+    <du>92,0,3.4712,27th Connecticut,,0,0,0.5228,1.2912,1.217,1.3315,1.4626,1.4281,27,6,0,20073,143,110</du>
+    <c>
+     <dc>9,Nathaniel,L,Cummins,0,5.2823,3.1147,5.5504,4.3183,5.4889,4.54,</dc>
+    </c>
+   </u>
+   <u>
+    <du>264,0,4.2913,2nd Deleware,,0,0,0.6963,1.3318,1.0412,1.0703,1.1194,1.3792,45,9,0,20074,143,112</du>
+    <c>
+     <dc>6,James,F,Barker,0,3.7865,5.1219,4.7097,4.7055,3.8623,3.5727,</dc>
+    </c>
+   </u>
+   <u>
+    <du>232,0,4.0244,64th New York,,0,0,0.8134,0.9257,1.4826,0.6823,0.7007,0.6197,6,12,0,20075,143,130</du>
+    <c>
+     <dc>7,Isaiah,A,Barry,0,5.9306,3.4575,2.9593,3.9188,3.2801,2.5225,</dc>
+    </c>
+   </u>
+   <u>
+    <du>158,0,4.3797,53rd Pennsylvania,,0,0,0.8243,1.1639,0.6183,0.9674,1.0796,1.0654,45,13,0,20076,143,132</du>
+    <c>
+     <dc>9,George,F,Thomas,0,2.3872,2.7198,5.3951,2.8122,3.8871,2.7759,</dc>
+    </c>
+   </u>
+   <u>
+    <du>230,0,2.2771,145th Pennsylvania,,0,0,0.7911,1.1934,1.2102,0.6802,0.6654,0.7899,41,6,0,20077,143,132</du>
+    <c>
+     <dc>8,John,,Weed,0,4.6243,4.9323,3.8721,4.4764,3.0502,4.5702,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

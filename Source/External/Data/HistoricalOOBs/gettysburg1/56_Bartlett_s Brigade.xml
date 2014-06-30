@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Bartlett's Brigade,5,1</do>
+   <c>
+    <dc>4,Joseph,J,Bartlett,0,3,5,6,5,5,4,(3-4)</dc>
+   </c>
+   <u>
+    <du>342,0,4.271,5th Maine,,0,0,1.1229,0.9637,0.7956,0.656,1.2386,1.049,45,12,0,20263,143,122</du>
+    <c>
+     <dc>5,John,G,Boardman,0,4.4118,5.7698,5.9467,4.3068,5.8136,5.8008,</dc>
+    </c>
+   </u>
+   <u>
+    <du>470,0,4.1206,121st New York,,0,0,0.6422,1.1861,0.6669,0.8279,1.2987,0.8308,5,13,0,20264,143,130</du>
+    <c>
+     <dc>6,James,W,Croninger,0,2.3232,2.5209,2.1976,3.8009,2.422,2.1455,</dc>
+    </c>
+   </u>
+   <u>
+    <du>358,0,4.109,95th Pennsylvania,,0,0,1.0398,0.7364,0.7995,1.2528,0.6628,0.9483,45,7,0,20265,143,132</du>
+    <c>
+     <dc>7,Allen,,Bradshaw,0,5.0593,5.2625,4.6453,3.5552,3.8865,3.6562,</dc>
+    </c>
+   </u>
+   <u>
+    <du>358,0,5.4412,96th Pennsylvania,,0,0,1.3821,1.3168,1.3545,0.5473,1.4278,1.4677,28,9,0,20266,143,132</du>
+    <c>
+     <dc>7,James,S,Ide,0,3.8921,5.3985,4.7235,5.1004,5.9463,3.1501,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

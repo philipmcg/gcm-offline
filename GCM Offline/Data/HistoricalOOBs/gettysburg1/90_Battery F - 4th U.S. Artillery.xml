@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery F - 4th U.S. Artillery,5,1</do>
+   <c>
+    <dc>10,Sylvanus,T,Rugg,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.1365,12lb Napoleon,,0,1,5.4817,4.7608,5.3878,4.5163,5.479,5.4044,79,36,0,20433,144,0</du>
+    <c>
+     <dc>15,James,J,Morgan,0,5.1942,2.8756,2.3824,5.2468,4.5711,3.7815,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.2108,12lb Napoleon,,0,1,4.7275,4.7067,5.3771,5.282,5.1735,4.9236,79,35,0,20434,144,0</du>
+    <c>
+     <dc>15,William,W,Fulkerson,0,2.6003,5.9011,3.8249,4.7666,5.1823,5.1443,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8638,12lb Napoleon,,0,1,4.9173,5.4038,4.5994,4.7049,4.9851,4.9847,79,36,0,20435,144,0</du>
+    <c>
+     <dc>10,Augustus,A,Goodman,0,3.1593,5.731,4.3807,5.7552,3.0794,2.8195,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0172,12lb Napoleon,,0,1,4.9641,4.7081,4.7741,4.7313,4.5743,4.8923,79,35,0,20436,144,0</du>
+    <c>
+     <dc>16,William,B,Schenck,0,4.8734,5.0282,3.7564,5.5625,3.5867,2.413,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2323,12lb Napoleon,,0,1,5.307,5.2604,4.8054,5.4804,5.2958,5.1665,79,36,0,20437,144,0</du>
+    <c>
+     <dc>10,Levi,H,Shattuck,0,3.9974,4.7132,4.0064,2.5068,5.6762,2.9818,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1543,12lb Napoleon,,0,1,4.7441,4.6551,4.691,5.0992,4.6277,4.6998,79,36,0,20438,144,0</du>
+    <c>
+     <dc>15,Jacob,,McGuire,0,2.5853,5.3694,5.0581,2.8238,5.6134,4.0869,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Webb's Brigade,5,1</do>
+   <c>
+    <dc>4,Alexander,S,Webb,0,4,4,4,3,4,4,(0-2)</dc>
+   </c>
+   <u>
+    <du>317,0,5.2586,69th Pennsylvania,,0,0,0.7454,1.0908,1.4262,1.1822,1.4378,0.8166,30,9,0,20082,143,132</du>
+    <c>
+     <dc>6,Benjamin,H,Dodson,0,4.3018,5.4067,4.7219,4.8322,3.4975,2.938,</dc>
+    </c>
+   </u>
+   <u>
+    <du>293,0,4.0609,71st Pennsylvania,,0,0,1.3476,1.2807,0.8497,1.4639,0.5264,1.0113,45,12,0,20083,143,132</du>
+    <c>
+     <dc>7,William,,Bottoms,0,4.7666,5.7765,3.3696,4.9276,3.0051,3.8145,</dc>
+    </c>
+   </u>
+   <u>
+    <du>418,0,5.4026,72nd Pennsylvania,,0,0,1.3311,0.7487,1.1325,0.6457,0.6383,0.8149,27,6,0,20084,143,132</du>
+    <c>
+     <dc>5,John,T,Shipp,0,4.5676,5.1583,4.3031,4.3799,4.026,4.5634,</dc>
+    </c>
+   </u>
+   <u>
+    <du>313,0,5.0982,106th Pennsylvania,,0,0,0.7462,1.1917,0.6848,0.6697,1.4542,0.9969,31,6,0,20085,143,132</du>
+    <c>
+     <dc>7,Samuel,S,Williams,0,2.0954,5.2094,5.7567,3.064,3.1234,3.6364,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Crenshaw Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,William,,Crenshaw,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.8381,12lb Napoleon,,0,1,5.7748,5.9638,5.7825,5.8122,5.7908,6.3716,78,75,0,21027,4,0</du>
+    <c>
+     <dc>10,James,H,Camp,0,3.0818,5.4089,3.8617,2.0206,2.9112,3.0853,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6666,12lb Howitzer,,0,1,6.1758,5.6149,6.1705,5.9557,6.1082,6.1535,75,73,0,21028,4,0</du>
+    <c>
+     <dc>16,John,B,Duncan,0,5.2306,4.0758,5.8378,3.8775,4.6753,2.7962,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5341,12lb Napoleon,,0,1,5.8464,5.5676,6.4928,5.7382,6.4647,5.9698,78,73,0,21029,4,0</du>
+    <c>
+     <dc>16,Newton,,Rentz,0,2.9524,3.742,2.3946,2.8319,5.8337,5.0449,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0676,12lb Howitzer,,0,1,6.4292,6.4715,6.1038,6.4707,6.0281,5.8934,75,75,0,21030,4,0</du>
+    <c>
+     <dc>15,Frank,H,Edwards,0,3.779,5.8016,2.7762,2.8307,4.7437,3.7187,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

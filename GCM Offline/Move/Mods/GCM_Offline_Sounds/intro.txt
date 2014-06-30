@@ -1,0 +1,7 @@
+$Intro 
+
+<FONT=DefaultMedium,L,100,255,100>GCM Sounds
+
+<FONT=DefaultMedium,L,255,255,255>
+
+Sounds by Jon Bailey "Squid"

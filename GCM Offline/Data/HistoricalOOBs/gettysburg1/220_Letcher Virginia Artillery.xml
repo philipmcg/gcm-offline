@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Letcher Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,Thomas,A,Brander,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.9387,12lb Napoleon,,0,1,4.8894,4.538,4.563,4.6658,4.7195,4.7304,78,74,0,21035,4,0</du>
+    <c>
+     <dc>10,Dick,,Long,0,4.6826,3.121,4.3283,2.8488,5.5853,2.3265,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1321,10lb Parrott,,0,1,4.941,5.2172,4.9337,4.8501,5.3831,4.5803,70,76,0,21036,4,0</du>
+    <c>
+     <dc>15,Joseph,D,Graves,0,4.8149,3.621,5.5542,4.7238,5.441,3.5339,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7776,12lb Napoleon,,0,1,4.8733,4.9594,5.4801,5.4638,5.0887,5.3939,78,75,0,21037,4,0</du>
+    <c>
+     <dc>10,Fred,R,Stinsen,0,3.1462,5.8863,2.8973,4.2392,3.8444,2.0541,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2025,10lb Parrott,,0,1,4.7015,5.2917,5.0251,4.5413,5.3789,5.0676,70,76,0,21038,4,0</du>
+    <c>
+     <dc>15,Henry,,Raulinson,0,5.016,5.8236,4.2185,5.7671,3.7239,3.906,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

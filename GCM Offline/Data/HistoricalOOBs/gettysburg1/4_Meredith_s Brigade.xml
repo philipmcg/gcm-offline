@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Meredith's Brigade,5,1</do>
+   <c>
+    <dc>4,Solomon,,Meredith,0,3,1,1,2,2,2,(0-0)</dc>
+   </c>
+   <u>
+    <du>343,0,6.2834,19th Indiana,,0,0,0.7994,1.2587,1.3673,1.2716,1.1641,0.6827,45,8,0,20000,143,116</du>
+    <c>
+     <dc>7,Jacob,Q,McVeigh,0,2.5388,3.2519,3.8454,2.3896,5.7671,5.0843,</dc>
+    </c>
+   </u>
+   <u>
+    <du>540,0,5.1726,24th Michigan,,0,0,0.5276,1.0082,0.5584,1.2482,1.4171,1.4564,45,8,0,20001,143,124</du>
+    <c>
+     <dc>5,Dwight,,Nichols,0,2.6946,2.265,3.0925,5.3334,5.5405,2.0677,</dc>
+    </c>
+   </u>
+   <u>
+    <du>336,0,7.1131,2nd Wisconsin,,0,0,1.163,0.6042,0.9563,1.0999,0.6646,1.4191,6,8,0,20002,143,139</du>
+    <c>
+     <dc>8,Joseph,G,Robie,0,4.8767,3.4476,5.9735,5.499,3.0749,5.9532,</dc>
+    </c>
+   </u>
+   <u>
+    <du>381,0,6.0186,6th Wisconsin,,0,0,1.3867,1.1951,0.9933,1.4833,0.8764,1.0771,45,8,0,20003,143,139</du>
+    <c>
+     <dc>8,John,H,Edes,0,4.2769,5.5565,4.0141,5.1919,5.152,5.7033,</dc>
+    </c>
+   </u>
+   <u>
+    <du>402,0,6.1709,7th Wisconsin,,0,0,1.1922,1.0796,0.9087,1.3022,1.033,0.8276,6,8,0,20004,143,139</du>
+    <c>
+     <dc>6,James,H,Reed,0,5.8343,2.2379,5.5452,2.8181,2.0209,3.233,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

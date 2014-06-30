@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Mahone's Brigade,5,2</do>
+   <c>
+    <dc>4,William,,Mahone,0,5,4,4,2,2,1,(2-3)</dc>
+   </c>
+   <u>
+    <du>321,0,5.4294,6th Virginia,,0,0,0.504,1.3628,0.953,0.6305,0.6282,0.7571,28,47,0,20911,2,0</du>
+    <c>
+     <dc>5,James,G,Fulton,0,5.9282,4.592,4.7464,4.9917,3.517,3.3123,</dc>
+    </c>
+   </u>
+   <u>
+    <du>385,0,5.4033,12th Virginia,,0,0,1.1246,0.6096,1.4734,1.4442,1.3661,1.0789,5,47,0,20912,2,0</du>
+    <c>
+     <dc>6,William,J,Phillips,0,3.818,5.1942,3.4507,2.9318,2.6316,2.3991,</dc>
+    </c>
+   </u>
+   <u>
+    <du>302,0,5.3391,16th Virginia,,0,0,1.0808,0.7683,0.8307,1.1665,1.1976,1.4094,5,47,0,20913,2,0</du>
+    <c>
+     <dc>5,William,B,Bacot,0,5.5794,2.1371,2.8223,3.5062,3.3959,5.6273,</dc>
+    </c>
+   </u>
+   <u>
+    <du>309,0,4.3347,41st Virginia,,0,0,0.9426,0.6409,0.801,1.1118,1.4014,1.0722,41,47,0,20914,2,0</du>
+    <c>
+     <dc>6,Joel,D,Smyley,0,2.0764,2.1042,2.8923,3.6826,2.9132,5.4446,</dc>
+    </c>
+   </u>
+   <u>
+    <du>393,0,1.1685,61st Virginia,,0,0,1.1178,0.5106,0.8342,0.762,0.8142,1.185,6,47,0,20915,2,0</du>
+    <c>
+     <dc>6,Samuel,A,Busby,0,3.4256,5.7429,3.6313,2.2547,2.0265,2.1095,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

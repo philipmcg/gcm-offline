@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Davis's Brigade,5,2</do>
+   <c>
+    <dc>4,Joseph,R,Davis,0,3,2,2,2,2,2,(1-4)</dc>
+   </c>
+   <u>
+    <du>536,0,5.0735,2nd Mississippi,,0,0,0.7011,1.0208,0.8494,1.051,0.9217,0.5562,40,49,0,20953,2,0</du>
+    <c>
+     <dc>5,James,W,Conklin,0,2.0229,5.2076,2.2403,2.2383,4.6698,3.6085,</dc>
+    </c>
+   </u>
+   <u>
+    <du>640,0,5.2889,11th Mississippi,,0,0,0.6387,0.971,1.1482,0.8484,1.4315,1.4762,5,52,0,20954,2,0</du>
+    <c>
+     <dc>5,Samuel,H,Roberson,0,4.7812,2.9339,4.7377,2.2649,2.2197,5.3178,</dc>
+    </c>
+   </u>
+   <u>
+    <du>622,0,4.0399,42nd Mississippi,,0,0,0.5596,0.7733,1.099,0.7792,0.9584,0.5789,40,47,0,20955,2,0</du>
+    <c>
+     <dc>5,John,K,Rich,0,3.362,4.0604,4.5295,2.0995,3.3814,2.4051,</dc>
+    </c>
+   </u>
+   <u>
+    <du>690,0,4.4486,55th North Carolina,,0,0,1.0551,1.2587,1.4292,1.4123,0.989,0.5179,5,51,0,20956,2,0</du>
+    <c>
+     <dc>7,James,,Bishop,0,3.9733,4.8617,2.532,2.3953,2.9263,5.8615,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

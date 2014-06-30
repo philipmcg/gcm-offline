@@ -1,0 +1,6 @@
+~supply_speeds
+id,name
+fast	Fast (stock)
+normal	Normal
+slow	Slow
+slowest	Slowest

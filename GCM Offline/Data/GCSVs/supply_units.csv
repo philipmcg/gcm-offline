@@ -1,0 +1,7 @@
+~supply_units
+id,name
+fast	Fast
+medium	Medium
+slow	Slow
+slowest	Slowest
+immobile	Fixed

@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Burbank's Brigade,5,1</do>
+   <c>
+    <dc>5,Sidney,,Burbank,0,2,3,3,5,3,3,(9-3)</dc>
+   </c>
+   <u>
+    <du>225,0,5.4634,2nd U.S. Infantry,,0,0,1.4208,0.7165,0.7404,0.7121,0.9902,1.0845,45,9,0,20215,143,139</du>
+    <c>
+     <dc>8,Harrison,N,Emory,0,3.8768,4.5744,3.4576,5.9657,2.3867,2.6077,</dc>
+    </c>
+   </u>
+   <u>
+    <du>137,0,4.4974,7th U.S. Infantry,,0,0,1.4004,0.8758,1.1966,1.141,0.7552,1.0935,45,12,0,20216,143,139</du>
+    <c>
+     <dc>8,Daniel,,Ball,0,3.2379,3.9327,4.3393,5.7,2.2913,5.5967,</dc>
+    </c>
+   </u>
+   <u>
+    <du>112,0,5.4955,10th U.S. Infantry,,0,0,1.3641,0.7642,1.1706,0.7123,0.9038,1.3135,45,13,0,20217,143,139</du>
+    <c>
+     <dc>7,Isaac,,Hogan,0,5.1185,4.7018,4.4132,3.6813,4.3686,3.1422,</dc>
+    </c>
+   </u>
+   <u>
+    <du>319,0,5.3899,11th U.S. Infantry,,0,0,0.5476,1.0596,1.2464,1.1007,1.3985,0.7227,28,6,0,20218,143,139</du>
+    <c>
+     <dc>5,Oscar,J,Green,0,4.2656,4.136,3.6063,2.2232,2.2045,5.1427,</dc>
+    </c>
+   </u>
+   <u>
+    <du>292,0,5.2953,17th U.S. Infantry,,0,0,0.8299,1.0854,0.8173,0.5488,0.5369,0.5686,45,9,0,20219,143,139</du>
+    <c>
+     <dc>8,Isaiah,W,Hichel,0,5.3814,5.9922,3.6414,3.4093,4.7389,3.2232,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

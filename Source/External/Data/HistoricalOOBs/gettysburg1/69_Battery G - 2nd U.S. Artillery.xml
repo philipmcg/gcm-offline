@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery G - 2nd U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,John,H,Butler,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.8452,12lb Napoleon,,0,1,5.1861,4.5994,4.7683,4.7625,4.579,5.1717,79,35,0,20331,144,0</du>
+    <c>
+     <dc>15,Benjamin,W,Nero,0,5.3526,3.3641,5.971,2.0113,5.9972,2.4375,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0863,12lb Napoleon,,0,1,5.362,5.2869,5.364,4.7397,5.4513,5.3607,79,35,0,20332,144,0</du>
+    <c>
+     <dc>16,Jacob,,Chester,0,3.1309,5.6441,4.0331,5.5934,3.9982,4.3034,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.3067,12lb Napoleon,,0,1,5.1416,5.1338,4.611,4.9545,5.1717,5.2699,79,36,0,20333,144,0</du>
+    <c>
+     <dc>15,George,W,Sterling,0,2.9705,3.6744,2.9512,5.136,4.8032,5.1039,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9717,12lb Napoleon,,0,1,4.5222,4.6317,4.5154,4.7072,5.134,5.0395,79,36,0,20334,144,0</du>
+    <c>
+     <dc>15,David,,Griffith,0,4.2839,4.5518,4.7881,2.8123,3.9899,4.0076,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7091,12lb Napoleon,,0,1,5.2276,5.338,4.9162,4.8432,5.3492,5.3678,79,34,0,20335,144,0</du>
+    <c>
+     <dc>15,Henry,B,Millikin,0,4.1318,5.8889,2.6456,3.1254,2.5661,2.7834,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.3039,12lb Napoleon,,0,1,5.326,5.0321,4.5418,5.0422,4.837,4.669,79,34,0,20336,144,0</du>
+    <c>
+     <dc>16,Thomas,B,Banks,0,2.7178,5.3735,5.2616,2.3926,3.9529,4.6152,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

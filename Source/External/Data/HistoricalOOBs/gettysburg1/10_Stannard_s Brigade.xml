@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Stannard's Brigade,5,1</do>
+   <c>
+    <dc>4,George,J,Stannard,0,1,5,5,5,5,5,(2-1)</dc>
+   </c>
+   <u>
+    <du>686,0,1.0547,13th Vermont,,0,0,0.8268,0.6479,1.014,0.9932,1.3888,1.3836,45,6,0,20029,143,136</du>
+    <c>
+     <dc>7,William,L,Hill ,0,3.4518,4.2326,4.5101,5.6818,3.2429,5.4793,</dc>
+    </c>
+   </u>
+   <u>
+    <du>697,0,1.3235,14th Vermont,,0,0,0.8093,0.8399,0.5206,0.739,1.1714,1.1154,6,9,0,20030,143,136</du>
+    <c>
+     <dc>6,Ralph,,Hedger,0,4.6138,2.3373,4.3905,4.3702,5.6217,5.7786,</dc>
+    </c>
+   </u>
+   <u>
+    <du>712,0,1.134,16th Vermont,,0,0,0.8673,0.7944,0.9513,0.6922,0.6426,0.872,45,12,0,20031,143,136</du>
+    <c>
+     <dc>5,Charles,,Ackerman,0,3.1855,3.9825,3.1935,3.6159,4.6891,2.5084,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

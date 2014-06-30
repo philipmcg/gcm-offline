@@ -1,0 +1,51 @@
+Name,ID,File,MinDist,MaxDist,Loop,Volume,Music,,,
+,idstring,sounds/path,[1/10000],[1/10000],[0/1],[-10000/0],[0/1],,,
+,Name,"User defined name, not used by the program, cannot be blank",,,,,,,,
+,ID,"id of this sound, used in other csv files to reference this sound",,,,,,,,
+,File,"the file name of this sound, sounds are stored in the sounds folder",,,,,,,,
+,MinDist,"this is in yards, sounds closer are played at full volume",,,,,,,,
+,MaxDist,"this is in yards, sounds gradually get softer until you reach max, then they are not heard",,,,,,,,
+,Loop,"0 says that this is not a looping sound, it plays then stops, 1 means that it loops forever",,,,,,,,
+,Volume,"(-10000) is not heard at all, 0 plays at the recorded volume, directsound does not support amplification",,,,,,,,
+,Music,should the game use this wav file as a music selection while the units are road marching,,,,,,,,
+
+
+,,GUI SOUNDS,,,,,,,,
+Toolbar Advance 2,SFX_UI_Advance2,Gb_NSDAdvance2.wav,100,1000,0,0,0,,,-400
+Toolbar Aattackmarch,SFX_UI_ Attackmarch_2,Gb_NSDAttackmarch_2.wav,100,1000,0,0,0,,,-500
+Toolbar Attackmarch,SFX_UI_ Attackmarch,Gb_NSDAttackmarch.wav,100,1000,0,0,0,,,-400
+Toolbar Double Time,SFX_UI_Doubletime,Gb_NSDDoubletime.wav,100,1000,0,0,0,,,-500
+Toolbar Double TimeReg,SFX_UI_DoubletimeReg,Gb_NSDDoubletimeReg.wav,100,1000,0,0,0,,,-500
+Toolbar CavalryGallop,SFX_UI_CavalryGallop,Gb_NSDCavalryGallop.wav,100,1000,0,0,0,,,-100
+Toolbar Assembly,SFX_UI_Assembly,Gb_NSDAssembly.wav,100,1000,0,0,0,,,-300
+Toolbar Advance,SFX_UI_Advance,Gb_NSDAdvance.wav,100,1000,0,0,0,,,-300
+Toolbar CavalryHalt,SFX_UI_CavalryHalt,Gb_NSDCavalryHalt.wav,100,1000,0,0,0,,,-300
+Toolbar CavalryMount,SFX_UI_CavalryMount,Gb_NSDCavalryMount.wav,100,1000,0,0,0,,,-300
+Toolbar CavalrySkirmish,SFX_UI_CavalrySkirmish,Gb_NSDCavalrySkirmish.wav,100,1000,0,0,0,,,-300
+Toolbar Fallback,SFX_UI_Fallback,Gb_NSDFallback.wav,100,1000,0,0,0,,,-300
+Toolbar FallbackVocal,SFX_UI_FallbackVocal,Gb_NSDFallbackVocal.wav,100,1000,0,0,0,,,-300
+Toolbar Retreat,SFX_UI_Retreat,Gb_NSDRetreat.wav,100,1000,0,0,0,,,-300
+Toolbar RetreatVocal,SFX_UI_RetreatVocal,Gb_NSDRetreatVocal.wav,100,1000,0,0,0,,,-300
+Toolbar Stop,SFX_UI_Stop,Gb_NSDStop.wav,100,1000,0,0,0,,,-300
+Toolbar StopVocal,SFX_UI_StopVocal,Gb_NSDStopVocal.wav,100,1000,0,0,0,,,-300
+Toolbar BootsAndSaddles,SFX_UI_BootsAndSaddles,Gb_NSDCavBootsAndSaddles.wav,100,1000,0,0,0,,,-500
+Toolbar BattleLineReg,SFX_UI_BattleLineReg,Gb_NSDBattleLineReg.wav,100,1000,0,0,0,,,-600
+Toolbar Button,SFX_UI_Button,Gb_NSDButton.wav,100,100,0,0,0,,,-500
+Toolbar ButtonClick,SFX_UI_ButtonClick,Gb_NSDButton1.wav,100,100,0,0,0,,,-500
+Toolbar Click,SFX_UI_Click,Gb_NSDClick.wav,100,100,0,0,0,,,-500
+Toolbar Combat,SFX_UI_Combat,Gb_NSDCombat.wav,100,100,0,0,0,,,-500
+Toolbar WheelLeft,SFX_UI_WheelLeft,Gb_NSDWLeft.wav,100,100,0,0,0,,,-500
+Toolbar WheelRight,SFX_UI_WheelRight,Gb_NSDWRight.wav,100,100,0,0,0,,,-500
+Toolbar AboutFace,SFX_UI_AboutFace,Gb_NSDAboutFace.wav,100,1000,0,0,0,,,-500
+Toolbar FixBayonet,SFX_UI_FixBayonet,Gb_NSDFixBayonet.wav,100,1000,0,0,0,,,-700
+Toolbar FixBayonet,SFX_UI_FixBayonetNV,Gb_NSDFixBayonetNV.wav,100,1000,0,0,0,,,-500
+Toolbar Charge,SFX_UI_Charge,Gb_NSDCharge.wav,100,1000,0,0,0,,,-700
+Toolbar Yank Charge,SFX_UI_YankCharge,Gb_NSDChargeYank.wav,100,1000,0,-300,0,,,-700
+Toolbar Cavalry Charge,SFX_UI_CavalryCharge,Bu_NSDCCharge.wav,100,1000,0,0,0,,,-700
+Toolbar BattleLine,SFX_UI_BattleLine,Gb_NSDBattleLine.wav,100,1000,0,0,0,,,-900
+Toolbar FlankLeft,SFX_UI_FlankLeft,Gb_NSDFlankLeft.wav,100,1000,0,0,0,,,-800
+Toolbar FlankRight,SFX_UI_FlankRight,Gb_NSDFlankRight.wav,100,1000,0,0,0,,,-800
+Toolbar Skirmish,SFX_UI_Skirmish,Gb_NSDSkirmish.wav,100,1000,0,0,0,,,-800
+Toolbar LieDown,SFX_UI_LieDown,Gb_NSDLieDown.wav,100,1000,0,0,0,,,-1000
+Toolbar RiseUpBugle,SFX_UI_RiseUpBugle,Gb_NSDRiseUpBugle.wav,100,1000,0,0,0,,,-1000
+Toolbar RiseUp,SFX_UI_RiseUp,Gb_NSDRiseUp.wav,100,1000,0,0,0,,,-1500

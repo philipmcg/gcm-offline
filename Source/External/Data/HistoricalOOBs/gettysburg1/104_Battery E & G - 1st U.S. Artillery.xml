@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery E &amp; G - 1st U.S. Artillery,5,1</do>
+   <c>
+    <dc>8,Alanson,M,Randol,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.5128,3in Ordnance,,0,1,4.9577,5.2904,5.1452,5.3076,5.0219,4.8143,88,38,0,20500,144,0</du>
+    <c>
+     <dc>15,Daniel,A,Myers,0,4.3689,2.1919,2.4561,2.0812,5.6275,2.1949,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8818,3in Ordnance,,0,1,4.5211,5.2019,5.1782,5.0976,4.8844,5.2942,88,38,0,20501,144,0</du>
+    <c>
+     <dc>16,John,A,Birnhower,0,5.2403,4.6902,4.8318,3.8842,2.057,4.4963,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6308,3in Ordnance,,0,1,5.2483,4.63,4.971,5.3446,4.5987,5.0551,88,39,0,20502,144,0</du>
+    <c>
+     <dc>10,Benjamin,H,Fox,0,5.7311,3.7156,5.7887,3.4333,2.4096,4.3609,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2769,3in Ordnance,,0,1,4.9565,4.5042,4.6553,4.5051,4.9623,4.6028,88,37,0,20503,144,0</du>
+    <c>
+     <dc>16,Thomas,C,McCook,0,4.3173,2.3409,2.9352,3.8992,2.3622,4.4365,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

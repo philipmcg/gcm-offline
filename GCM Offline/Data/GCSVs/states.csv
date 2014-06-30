@@ -1,0 +1,38 @@
+~states			
+abbr	name	side	freq
+u_ny	New York	1	150
+u_pa	Pennsylvania	1	150
+u_oh	Ohio	1	100
+u_ma	Massachusetts	1	62
+u_wi	Wisconsin	1	53
+u_il	Illinois	1	50
+u_in	Indiana	1	50
+u_ia	Iowa	1	50
+u_nj	New Jersey	1	40
+u_me	Maine	1	32
+u_ct	Connecticut	1	30
+u_ky	Kentucky	1	30
+u_mi	Michigan	1	30
+u_nh	New Hampshire	1	18
+u_vt	Vermont	1	17
+u_wv	West Virginia	1	17
+u_md	Maryland	1	13
+u_ri	Rhode Island	1	12
+u_mn	Minnesota	1	11
+u_ks	Kansas	1	10
+u_de	Delaware	1	9
+			
+			
+c_nc	North Carolina	2	70
+c_al	Alabama	2	65
+c_tn	Tennessee	2	63
+c_ga	Georgia	2	63
+c_va	Virginia	2	60
+c_ms	Mississippi	2	50
+c_ar	Arkansas	2	38
+c_la	Louisiana	2	32
+c_sc	South Carolina	2	30
+c_fl	Florida	2	11
+c_ky	Kentucky	2	10
+c_tx	Texas	2	10
+c_md	Maryland	2	4

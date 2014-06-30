@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Cutler's Brigade,5,1</do>
+   <c>
+    <dc>4,Lysander,,Cutler,0,3,4,4,4,2,3,(2-0)</dc>
+   </c>
+   <u>
+    <du>475,0,4.1247,7th Indiana,,0,0,0.6135,1.2998,1.0021,1.3821,0.5202,1.4072,5,6,0,20005,143,116</du>
+    <c>
+     <dc>7,Dominick,V,Lee,0,3.6929,2.3779,5.5605,2.231,4.2499,2.3622,</dc>
+    </c>
+   </u>
+   <u>
+    <du>413,0,5.2101,76th New York,,0,0,0.9134,0.6063,0.6027,1.0853,1.2655,1.0882,28,9,0,20006,143,130</du>
+    <c>
+     <dc>5,John,V,Herbert,0,3.9898,3.3907,4.7048,3.5595,3.0636,4.1598,</dc>
+    </c>
+   </u>
+   <u>
+    <du>353,0,5.1594,84th New York,,0,0,0.6354,1.0622,1.4299,1.4608,0.5076,1.0818,45,7,0,20007,143,130</du>
+    <c>
+     <dc>8,Isaac,J,Miller,0,2.5871,5.8151,4.4324,4.6129,5.1292,5.4064,</dc>
+    </c>
+   </u>
+   <u>
+    <du>272,0,5.0032,95th New York,,0,0,0.8432,0.53,0.9936,0.5506,1.0721,1.1157,26,13,0,20008,143,130</du>
+    <c>
+     <dc>8,Joseph,G,West,0,5.3285,3.6583,3.3439,4.9117,5.4778,3.249,</dc>
+    </c>
+   </u>
+   <u>
+    <du>418,0,1.483,147th New York,,0,0,0.5964,0.5195,1.1029,0.6643,1.3637,1.3786,5,6,0,20009,143,130</du>
+    <c>
+     <dc>7,Henry,B,Graves,0,5.8274,5.7971,3.306,3.0643,3.2466,3.8205,</dc>
+    </c>
+   </u>
+   <u>
+    <du>283,0,4.3685,56th Pennsylvania,,0,0,0.6743,1.114,0.7632,0.8789,0.6118,0.922,45,9,0,20010,143,132</du>
+    <c>
+     <dc>6,Fritz,,Malseed,0,2.2988,2.625,4.3858,5.979,3.3446,4.2275,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

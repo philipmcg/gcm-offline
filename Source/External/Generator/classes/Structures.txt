@@ -1,0 +1,99 @@
+
+namespace = SceShared
+
+using
+ System.Xml.Serialization
+
+
+auth_request
+  string username
+  string password
+
+auth_result
+  bool error
+  string error_message
+  Guid user_id
+  PlayerInfo player_info
+
+player_info
+  int id
+  string name
+
+create_game
+  string name
+  Guid host_user_id
+  int host_player_id
+  int num_factions
+
+start_game
+  int game_id
+
+game_info
+  int game_id
+  string game_name
+  int chat_room_id
+  int message_room_id
+  int host_player_id
+  bool started
+  int turn
+  List<GamePlayerInfo> players
+  int num_factions
+
+game_info_brief
+  int game_id
+  string game_name
+
+game_player_info
+  PlayerInfo player_info
+  int faction_id
+  int turn_watched
+
+submit_chat
+  int room_id
+  string username
+  string message
+
+chat_entry
+  string username
+  string message
+
+poll_chat
+  int room
+  int last_chat_id
+
+poll_chat_result
+  ChatEntry[] chats
+  int last_chat_id
+
+set_player_faction
+  int player_id
+  int game_id
+  int faction_id
+
+finish_turn
+  int player_id
+  int game_id
+  int faction_id
+  int turn
+
+pass_control_to_player
+  int current_player_id
+  int dest_player_id
+  int game_id
+  int faction_id
+
+get_active_player
+  int game_id
+  int faction_id
+
+return_active_player
+  int player_id
+  int current_turn
+  bool playing
+  bool ready_to_run_turn
+
+player_watched_turn
+  int player_id
+  int turn
+  int game_id
+  

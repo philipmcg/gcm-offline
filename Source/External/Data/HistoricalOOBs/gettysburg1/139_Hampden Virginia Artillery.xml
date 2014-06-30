@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Hampden Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,William,H,Caskie,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.9298,12lb Napoleon,,0,1,5.1638,5.2916,4.8622,5.1744,5.4076,5.1681,78,73,0,20683,4,0</du>
+    <c>
+     <dc>10,Joel,S,Brown,0,2.3872,5.0549,5.9167,2.5313,5.7952,5.3292,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5217,3in Ordnance,,0,1,4.6573,5.2508,4.842,4.6556,4.7659,5.2532,87,76,0,20684,4,0</du>
+    <c>
+     <dc>16,John,D,Mobley,0,5.4976,2.1159,2.6625,2.9532,4.7582,5.8604,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9603,12lb Napoleon,,0,1,4.9049,5.3992,4.9581,4.5148,4.5641,5.4946,78,75,0,20685,4,0</du>
+    <c>
+     <dc>16,Noah,B,Pettus,0,5.3009,4.0018,4.1528,3.025,4.7477,3.9946,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4091,10lb Parrott,,0,1,5.4343,5.37,5.3587,4.7133,4.8642,5.4455,70,76,0,20686,4,0</du>
+    <c>
+     <dc>15,Ebenezer,K,Dillard,0,2.5683,2.8789,2.5128,3.4766,3.3281,3.2789,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Company C - Sumter GA Artillery,5,2</do>
+   <c>
+    <dc>8,John,T,Wingfield,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.9162,10lb Parrott,,0,1,2.6212,2.7188,3.4029,3.0064,2.9475,3.4473,70,78,0,20939,4,0</du>
+    <c>
+     <dc>10,Joseph,H,Hayden,0,3.7011,2.0015,3.114,2.2296,2.4039,4.5068,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.3827,10lb Parrott,,0,1,2.8478,3.2839,3.4405,2.8735,3.4968,3.3877,70,77,0,20940,4,0</du>
+    <c>
+     <dc>15,Daniel,L,Self,0,3.1965,5.8777,4.0477,4.4939,4.2005,4.668,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7279,10lb Parrott,,0,1,3.0425,3.1536,3.0115,2.5773,3.3751,2.7021,70,77,0,20941,4,0</du>
+    <c>
+     <dc>10,John,W,Foy,0,2.9998,5.7063,4.5549,4.8524,5.2838,4.1097,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4899,10lb Parrott,,0,1,2.6387,3.1155,3.4935,2.9096,3.2679,3.042,70,77,0,20942,4,0</du>
+    <c>
+     <dc>16,Albert,L,Moses,0,4.162,4.8112,4.5601,3.6207,2.487,4.1144,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.1661,10lb Parrott,,0,1,2.5305,2.5903,2.5922,3.2514,2.8363,3.4572,70,78,0,20943,4,0</du>
+    <c>
+     <dc>10,Evander,C,Dolive,0,3.7258,4.7152,5.0763,3.5849,5.3949,5.6234,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery C - 1st Rhode Island Artillery,5,1</do>
+   <c>
+    <dc>8,Richard,,Waterman,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.8735,3in Ordnance,,0,1,5.1756,4.8055,5.1381,4.8132,4.9142,4.8541,88,38,0,20313,144,0</du>
+    <c>
+     <dc>15,John,A,Ruple,0,5.9833,4.1211,5.7538,3.584,3.6505,2.444,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2016,3in Ordnance,,0,1,4.6838,4.6827,5.4137,5.0092,4.6778,4.9964,88,38,0,20314,144,0</du>
+    <c>
+     <dc>15,John,,Sager,0,3.1752,2.1259,4.0888,2.4774,4.743,4.5582,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8774,3in Ordnance,,0,1,4.5882,5.304,5.0347,4.858,4.6786,4.7091,88,37,0,20315,144,0</du>
+    <c>
+     <dc>10,Charles,J,Hannah,0,3.3262,4.2767,5.7389,4.3101,5.5536,4.4883,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0695,3in Ordnance,,0,1,5.3364,5.3442,5.4832,5.4901,5.3275,5.1526,88,39,0,20316,144,0</du>
+    <c>
+     <dc>15,John,T,Hutchison,0,4.6744,3.0014,4.5896,5.7231,4.9691,2.3582,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8102,3in Ordnance,,0,1,4.6081,4.8202,5.3759,5.0997,5.2315,5.4963,88,39,0,20317,144,0</du>
+    <c>
+     <dc>15,William,,Bigelow,0,5.8768,2.8279,4.9723,2.4379,3.3864,3.1333,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6637,3in Ordnance,,0,1,4.6397,4.6874,5.1173,5.3287,5.1878,4.8455,88,38,0,20318,144,0</du>
+    <c>
+     <dc>15,Aaron,S,Matthews,0,3.0833,2.924,3.3398,2.1057,3.2907,2.754,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

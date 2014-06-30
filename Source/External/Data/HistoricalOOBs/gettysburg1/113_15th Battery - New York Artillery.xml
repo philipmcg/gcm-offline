@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>15th Battery - New York Artillery,5,1</do>
+   <c>
+    <dc>8,Patrick,,Hart,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.9575,12lb Napoleon,,0,1,1.1824,0.9358,1.3021,1.4133,1.126,0.9359,79,35,0,20554,144,0</du>
+    <c>
+     <dc>10,James,C,Shank,0,2.4548,4.3471,2.5793,2.6812,4.2666,3.5835,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.0794,12lb Napoleon,,0,1,0.9213,1.0034,1.2921,1.1605,0.5872,1.1568,79,36,0,20555,144,0</du>
+    <c>
+     <dc>16,Willis,,Francis,0,4.5874,4.6405,2.891,3.6782,3.0619,3.1456,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,0.9111,12lb Napoleon,,0,1,0.597,0.7032,0.6472,1.2324,0.5765,0.8226,79,35,0,20556,144,0</du>
+    <c>
+     <dc>15,Joshua,A,Keller,0,2.5227,2.4212,5.1802,3.5506,3.6729,3.6621,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.1553,12lb Napoleon,,0,1,1.395,1.2287,1.4526,1.2136,1.2817,0.6931,79,35,0,20557,144,0</du>
+    <c>
+     <dc>15,William,,Stock,0,3.3968,5.9824,5.0852,4.151,2.8356,2.9437,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

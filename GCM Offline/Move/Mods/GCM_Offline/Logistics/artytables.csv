@@ -1,0 +1,55 @@
+Name,ArtyTableID,Experience,Calculated,Stress,Adjusted
+,,,,,
+,Name,Not used, for designer only, but must be filled in for the row to be read by the code,
+,ArtyTableID,This is the bore type of the gun, used in the artillery.csv to reference these tables,,
+,Experience,The experience level of the gun crew using the cannon, must be the same number of values as in unitattributes.csv experience,,
+,Calculated,indicates values calculated from results of NSSA cannon target contests,,,
+,,group diameter at 100 yards,,,
+,Stress,Combat Stress Factor Adjustment, increase in group size to to the less than ideal conditions of firing in combat,,
+,Estimated,indicates values estimated from historical reports,,,
+,,group diameter at 100 yards,,,
+,Notes,Group diameter - circular diameter of a 10 shot group at the range of 100 yards,,,
+,,,,,
+Rifled Guns,IDS_RIFLED,0,3.3,1.5,4.4
+e.g. 3 in Ordance,IDS_RIFLED,1,3.2,1.5,4.4
+Rifled Guns,IDS_RIFLED,2,3.1,1.5,4.4
+Rifled Guns,IDS_RIFLED,3,3,1.5,4.4
+Rifled Guns,IDS_RIFLED,4,2.9,1.5,4.4
+Rifled Guns,IDS_RIFLED,5,2.8,1.5,4.4
+Rifled Guns,IDS_RIFLED,6,2.7,1.5,4.4
+Rifled Guns,IDS_RIFLED,7,2.6,1.5,4.4
+Rifled Guns,IDS_RIFLED,8,2.5,1.5,4.4
+Rifled Guns,IDS_RIFLED,9,2.4,1.5,4.4
+,,,,,
+Long Smoothbore,IDS_LONGSMOOTHBORE,0,3.5,1.5,4.4
+e.g. 12 lb Napoleon,IDS_LONGSMOOTHBORE,1,3.4,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,2,3.3,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,3,3.2,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,4,3.1,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,5,3,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,6,2.9,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,7,2.8,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,8,2.7,1.5,4.4
+Long Smoothbore,IDS_LONGSMOOTHBORE,9,2.6,1.5,4.4
+,,,,,
+Short Smoothbore,IDS_SHORTSMOOTHBORE,0,3.8,1.5,4.4
+e.g. 12 lb Howitzer,IDS_SHORTSMOOTHBORE,1,3.7,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,2,3.6,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,3,3.5,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,4,3.4,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,5,3.3,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,6,3.2,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,7,3.1,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,8,3,1.5,4.4
+Short Smoothbore,IDS_SHORTSMOOTHBORE,9,2.9,1.5,4.4
+,,,,,
+Whitworth Gun,IDS_WHITWORTH,0,1.7,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,1,1.6,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,2,1.5,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,3,1.4,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,4,1.3,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,5,1.2,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,6,1.1,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,7,1,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,8,0.9,1.5,4.4
+Whitworth Gun,IDS_WHITWORTH,9,0.8,1.5,4.4

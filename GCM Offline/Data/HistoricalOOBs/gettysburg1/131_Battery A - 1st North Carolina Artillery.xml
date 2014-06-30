@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery A - 1st North Carolina Artillery,5,2</do>
+   <c>
+    <dc>8,Basil,C,Manly,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.7111,12lb Napoleon,,0,1,6.4171,5.8698,5.8119,5.776,5.7526,5.9431,78,73,0,20646,4,0</du>
+    <c>
+     <dc>10,Adison,P,Malloy,0,4.1593,2.6259,3.4926,4.4299,5.7251,2.5376,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1921,3in Ordnance,,0,1,5.6812,6.1136,6.0542,6.0279,6.246,5.5311,87,76,0,20647,4,0</du>
+    <c>
+     <dc>15,Charles,,Graham,0,4.4839,3.1804,2.6891,4.1135,3.6921,4.5102,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0468,12lb Napoleon,,0,1,6.0273,5.6961,5.7986,5.958,5.9062,5.843,78,75,0,20648,4,0</du>
+    <c>
+     <dc>10,Charlton,G,Adams,0,2.6649,3.685,3.3248,4.1697,5.2803,2.7557,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.9961,3in Ordnance,,0,1,5.9404,5.7974,5.8255,5.7322,5.9028,6.3587,87,77,0,20649,4,0</du>
+    <c>
+     <dc>16,Frances,J,Hyde,0,2.2193,2.2053,2.6637,4.8537,4.2812,3.1944,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

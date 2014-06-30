@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Gilsa's Brigade,5,1</do>
+   <c>
+    <dc>5,Leopold,,Gilsa,0,4,2,2,2,4,2,(3-7)</dc>
+   </c>
+   <u>
+    <du>247,0,4.283,41st New York,,0,0,1.0469,0.8451,1.3711,1.4675,1.2755,0.8439,5,9,0,20343,143,130</du>
+    <c>
+     <dc>7,Peter,W,Wentzel,0,3.8636,5.0547,2.5991,4.323,2.1873,4.6196,</dc>
+    </c>
+   </u>
+   <u>
+    <du>216,0,4.2222,54th New York,,0,0,1.2406,0.8417,1.3241,1.4186,0.9531,0.8067,5,12,0,20344,143,130</du>
+    <c>
+     <dc>5,Alvin,M,Corselius,0,3.6899,3.1356,4.5795,4.3412,2.3081,3.1921,</dc>
+    </c>
+   </u>
+   <u>
+    <du>262,0,4.0185,68th New York,,0,0,1.436,1.0604,1.1257,0.5875,0.7761,1.2471,45,13,0,20345,143,130</du>
+    <c>
+     <dc>6,Oscar,L,Fisher,0,2.5388,3.7788,5.8089,5.9933,4.5482,2.0978,</dc>
+    </c>
+   </u>
+   <u>
+    <du>543,0,1.2798,153rd Pennsylvania,,0,0,1.4395,0.6232,1.4047,0.8328,1.0893,0.6857,6,6,0,20346,143,132</du>
+    <c>
+     <dc>5,Abraham,H,Hessley,0,2.0181,5.7566,4.3987,4.4373,5.8118,4.3378,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

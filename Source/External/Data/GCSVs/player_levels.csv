@@ -1,0 +1,22 @@
+~player_levels								
+id	points	men	regts	guns	rank	rank_full	allowed_regts	allowed_guns
+1	0	1800	4	0	Pvt	Private	5	6
+2	10	1900	4	0	Cpl	Corporal	6	7
+3	60	2000	4	4	Sgt	Sergeant	7	8
+4	120	2100	4	4	1st Sgt	First Sergeant	7	8
+5	170	2200	5	4	Ord Sgt	Ordnance Sergeant	8	9
+6	200	2300	5	4	QM Sgt	Quartermaster Sergeant	8	9
+7	230	2400	5	4	Sgt Maj	Sergeant Major	9	10
+8	300	2500	5	6	2Lt	Second Lieutenant	10	11
+9	400	3000	6	6	1Lt	First Lieutenant	11	12
+10	500	4000	8	8	Capt	Captain	12	13
+11	600	4250	9	10	Maj	Major	13	14
+12	700	4500	10	10	Lt Col	Lieutenant Colonel	14	15
+13	800	4750	11	12	Col	Colonel	15	16
+14	1000	5000	12	12	Brig Gen	Brigadier General	16	17
+15	1300	5200	13	14	Maj Gen	Major General	17	18
+16	1600	5300	14	14	Maj Gen	Major General	17	18
+17	1900	5400	15	16	Maj Gen	Major General	18	19
+18	2200	5600	16	16	Lt Gen	Lieutenant General	18	19
+19	2500	5800	17	18	Lt Gen	Lieutenant General	19	20
+20	3000	6000	18	18	General	General	19	20

@@ -1,0 +1,6 @@
+$Intro <FONT=HelpHeader,C,8,12,24>GCM Battle With Objectives
+ 
+<FONT=HelpText,L,195,4,39>Ending Time:<FONT=HelpText,L,8,12,24>  12:00:00
+ 
+<FONT=HelpText,L,195,4,39>Mission:<FONT=HelpText,L,8,12,24>  Hold more objectives than the enemy when the game ends.
+ 

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Lee's Brigade,5,2</do>
+   <c>
+    <dc>4,Fitzhugh,,Lee,0,6,4,5,5,5,4,(3-5)</dc>
+   </c>
+   <u>
+    <du>344,0,1.2946,1st Maryland Cavalry Battalion,,0,2,0.9211,1.0833,1.4013,0.7566,0.9713,1.0796,18,56,0,21053,3,0</du>
+    <c>
+     <dc>6,Jim,H,Finleyson,0,5.0453,5.7581,5.1335,5.3397,4.2772,4.5551,</dc>
+    </c>
+   </u>
+   <u>
+    <du>345,0,4.0569,1st Virginia Cavalry,,0,2,1.3532,1.3687,1.342,0.5157,0.7152,1.4057,19,57,0,21054,3,0</du>
+    <c>
+     <dc>6,Tazewell,M,Murphy,0,3.5138,2.8259,3.7959,2.445,5.8268,2.4419,</dc>
+    </c>
+   </u>
+   <u>
+    <du>424,0,5.3369,2nd Virginia Cavalry,,0,2,0.9824,1.3564,0.7575,0.7697,0.5222,0.577,10,59,0,21055,3,0</du>
+    <c>
+     <dc>6,Thomas,D,Pike,0,2.2603,4.9171,4.7683,4.5707,4.4365,2.4816,</dc>
+    </c>
+   </u>
+   <u>
+    <du>238,0,4.4143,3rd Virginia Cavalry,,0,2,1.2747,1.2974,1.2079,0.7879,1.0352,1.0659,25,59,0,21056,3,0</du>
+    <c>
+     <dc>7,Henry,F,Bishop,0,2.2152,5.0492,3.8026,5.9754,3.0029,3.492,</dc>
+    </c>
+   </u>
+   <u>
+    <du>590,0,4.2555,4th Virginia Cavalry,,0,2,0.8048,1.1733,1.3715,1.3585,0.7821,0.5378,44,59,0,21057,3,0</du>
+    <c>
+     <dc>5,Joel,P,Hardy,0,4.9842,5.1202,4.1712,2.1179,3.9602,3.9635,</dc>
+    </c>
+   </u>
+   <u>
+    <du>174,0,2.264,5th Virginia Cavalry,,0,2,0.7802,1.0203,0.566,1.4285,1.2144,0.6971,10,57,0,21058,3,0</du>
+    <c>
+     <dc>8,George,D,Moody,0,4.5953,3.6905,2.9804,2.2483,2.9896,5.1411,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

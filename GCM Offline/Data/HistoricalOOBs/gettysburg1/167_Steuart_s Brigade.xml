@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Steuart's Brigade,5,2</do>
+   <c>
+    <dc>4,George,H,Steuart,0,4,4,4,4,4,3,(0-2)</dc>
+   </c>
+   <u>
+    <du>440,0,2.135,1st Maryland Battalion,,0,0,0.9234,0.593,0.7514,0.7243,0.5256,1.2308,5,47,0,20799,2,0</du>
+    <c>
+     <dc>6,Lewis,R,Jennings,0,5.0605,5.2024,2.6821,4.2379,2.4734,5.8519,</dc>
+    </c>
+   </u>
+   <u>
+    <du>415,0,4.4694,1st North Carolina,,0,0,0.9817,0.7531,0.5709,0.8942,0.5619,0.8799,31,52,0,20800,2,0</du>
+    <c>
+     <dc>6,Carter,P,Nelson,0,3.4247,3.4646,4.6124,5.049,2.9358,2.128,</dc>
+    </c>
+   </u>
+   <u>
+    <du>594,0,6.1754,3rd North Carolina,,0,0,1.0043,1.1169,0.7421,0.5882,0.5188,1.083,41,47,0,20801,2,0</du>
+    <c>
+     <dc>6,Doc,M,Andrews,0,5.9029,2.5134,2.8271,3.6799,4.8596,3.6601,</dc>
+    </c>
+   </u>
+   <u>
+    <du>309,0,6.3984,10th Virginia,,0,0,1.2687,1.0604,1.1664,0.6134,1.1472,1.0482,5,49,0,20802,2,0</du>
+    <c>
+     <dc>6,Walter,,Prater,0,2.8111,2.6624,4.6023,4.7276,5.9799,5.3879,</dc>
+    </c>
+   </u>
+   <u>
+    <du>282,0,6.0173,23rd Virginia,,0,0,1.3977,0.5984,0.9756,1.2318,0.7802,1.3298,37,48,0,20803,2,0</du>
+    <c>
+     <dc>8,Caleb,,Kelly,0,4.7289,3.1758,5.0427,2.113,5.5321,3.9495,</dc>
+    </c>
+   </u>
+   <u>
+    <du>296,0,6.3592,37th Virginia,,0,0,1.0601,1.0322,1.4255,0.8345,1.2147,1.4642,5,52,0,20804,2,0</du>
+    <c>
+     <dc>8,Eli,,Blakeney,0,2.4076,4.8919,5.6862,5.0759,4.9518,2.7632,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

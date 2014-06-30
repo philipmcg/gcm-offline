@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jenkins's Brigade,5,2</do>
+   <c>
+    <dc>4,Albert,G,Jenkins,0,1,1,2,0,3,0,(4-5)</dc>
+   </c>
+   <u>
+    <du>297,0,1.4203,14th Virginia Cavalry,,0,2,1.0213,1.0708,0.5355,0.6281,1.4869,1.163,44,56,0,21059,3,0</du>
+    <c>
+     <dc>8,Thomas,B,Moon,0,4.0933,5.3647,3.077,2.306,4.4715,3.8599,</dc>
+    </c>
+   </u>
+   <u>
+    <du>297,0,1.267,16th Virginia Cavalry,,0,2,0.9853,0.5765,1.0946,1.2068,0.9241,0.7377,51,59,0,21060,3,0</du>
+    <c>
+     <dc>8,Joseph,,Waters,0,4.1303,4.0339,3.0538,3.8989,4.8952,4.399,</dc>
+    </c>
+   </u>
+   <u>
+    <du>272,0,1.2126,17th Virginia Cavalry,,0,2,1.2305,0.8568,1.0276,0.9894,1.4517,0.9453,44,58,0,21061,3,0</du>
+    <c>
+     <dc>5,Matthew,,Bragg,0,3.9422,3.3748,2.3587,5.0113,2.999,5.1574,</dc>
+    </c>
+   </u>
+   <u>
+    <du>198,0,1.3961,34th Virginia Cavalry,,0,2,0.7118,0.9721,0.8346,0.6813,0.5115,0.7655,37,56,0,21062,3,0</du>
+    <c>
+     <dc>9,Albert,L,Dailey,0,2.407,5.3869,3.3465,4.5607,2.259,2.4348,</dc>
+    </c>
+   </u>
+   <u>
+    <du>147,0,0.0899,36th Virginia Cavalry,,0,2,0.5528,1.0484,0.7955,1.1285,0.8475,1.2229,51,59,0,21063,3,0</du>
+    <c>
+     <dc>8,James,J,Huffman,0,2.9104,5.7822,5.7635,4.2305,2.7584,5.3838,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

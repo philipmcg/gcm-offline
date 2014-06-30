@@ -1,0 +1,38 @@
+$Msg_01 FONT=MsgFont,L,20,20,20>HDQTRS, 2nd Brigade (Devin)  <FONT=MsgFont,R,20,20,20>McPherson's Ridge
+9:45 a.m., July 1st, 1863.
+<FONT=MsgFont,L,20,20,20>General Buford,
+        My scouts have reported the movement of large bodies of enemy troops to the northeast.  As planned, I am moving part of my command north of Gettysburg.  The rest will follow.  Our infantry is approaching from the south.
+ 
+<FONT=MsgFont,R,20,20,20>Colonel Thomas Devin
+Officer Commanding
+Second Brigade, First Division, Cavalry Corps, Army of the Potomac
+//
+//
+//
+//
+$EndMajorFail <FONT=EndFont,L,0,0,0>Near Gettysburg, Pennsylvania, our forces met the enemy in battle and suffered a major defeat.  Reports are just arriving by telegram to this office, but an anonymous source was quoted as saying, "An inquiry will be forthcoming, as certain officers should be removed from command immediately."  The flower of our youth has died on the field of battle.  A retreat is probable.  We must be prepared for the worst.  Heavy casualty lists are to follow...
+//
+//
+//
+$EndMinorFail <FONT=EndFont,L,0,0,0>Near Gettysburg, Pennsylvania, our forces met the enemy in battle and suffered a minor defeat.  Reports are just arriving by telegram to this office as the fight continues.  A retreat is possible.  We must be prepared for the worst.  Casualty lists are to follow...
+//
+//
+//
+$EndDraw <FONT=EndFont,L,0,0,0>A battle in Pennsylvania was fought in the vicinity of Gettysburg today.  Reports are just arriving by telegram to this office as the fight continues, but victory or defeat is still unknown.  We wish good fortune to the troops on that faraway field, and as always we must be prepared for the worst.  Casualty lists are to follow...
+//
+//
+//
+$EndMinorSuccess <FONT=EndFont,L,0,0,0>Near Gettysburg, Pennsylvania, our forces met the enemy in battle and achieved a minor victory.  Reports are just arriving by telegram to this office as the fight continues, but there is a long road to march before we see the end to this struggle.  Casualty lists are to follow...
+//
+//
+//
+$EndMajorSuccess <FONT=EndFont,L,0,0,0>Near Gettysburg, Pennsylvania, our forces met the enemy in battle and achieved a major victory.  Reports are just arriving by telegram to this office as the fight continues, but there is a long road to march before we see the end to this struggle.  Casualty lists are to follow...
+//
+//
+//
+$EndKilled <FONT=EndFont,L,0,0,0>Today our side lost another valiant officer.
+ 
+Who are we going to get to fill all these positions left vacant by officers that wandered too close to the enemy's fire?  This reporter does not know.
+//
+//
+//

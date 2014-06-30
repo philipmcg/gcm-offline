@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Krzyzanowski's Brigade,5,1</do>
+   <c>
+    <dc>5,Wladimir,B,Krzyzanowski,0,2,3,4,2,2,3,(6-5)</dc>
+   </c>
+   <u>
+    <du>222,0,4.389,58th New York,,0,0,0.6619,1.1648,0.5792,0.9622,0.9182,0.7571,5,12,0,20364,143,130</du>
+    <c>
+     <dc>5,George,B,Hobson,0,4.1408,5.8698,5.9039,3.2332,5.419,5.1923,</dc>
+    </c>
+   </u>
+   <u>
+    <du>295,0,2.2107,119th New York,,0,0,0.8707,1.3792,1.0746,1.1884,0.7514,0.5388,5,13,0,20365,143,130</du>
+    <c>
+     <dc>7,Horatio,,Cummings,0,5.2409,5.0344,4.0844,5.341,3.0906,4.1188,</dc>
+    </c>
+   </u>
+   <u>
+    <du>347,0,3.1091,82nd Ohio,,0,0,0.593,0.8091,1.2011,0.574,1.1248,1.1197,28,6,0,20366,143,139</du>
+    <c>
+     <dc>6,Frederick,,Wigle,0,4.7656,5.5532,2.628,4.4286,2.5659,4.4524,</dc>
+    </c>
+   </u>
+   <u>
+    <du>236,0,4.2095,75th Pennsylvania,,0,0,1.2451,1.1861,1.0823,0.5771,0.5902,1.4515,45,9,0,20367,143,132</du>
+    <c>
+     <dc>8,William,B,Robison,0,2.5743,2.7133,2.6974,3.1402,2.9265,4.771,</dc>
+    </c>
+   </u>
+   <u>
+    <du>488,0,4.3341,26th Wisconsin,,0,0,0.7623,1.3593,0.7593,0.7041,1.1437,1.1011,5,12,0,20368,143,139</du>
+    <c>
+     <dc>6,William,B,Ray,0,3.0876,2.4063,3.0474,3.2459,2.3336,4.0061,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

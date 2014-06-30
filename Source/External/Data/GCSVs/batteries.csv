@@ -1,0 +1,25 @@
+~batteries
+batt	name	side
+b_pa	Pennsylvania	1
+b_us	U.S.	1
+b_ct	Connecticut	1
+b_mi	Michigan	1
+b_nh	New Hampshire	1
+b_wv	West Virginia	1
+b_me	Maine	1
+b_oh	Ohio	1
+b_ma	Massachusetts	1
+b_ri	Rhode Island	1
+b_ny	New York	1
+		
+		
+		
+		
+b_ms	Mississippi	2
+b_al	Alabama	2
+b_md	Maryland	2
+b_nc	North Carolina	2
+b_sc	South Carolina	2
+b_ga	Georgia	2
+b_la	Louisiana	2
+b_va	Virginia	2

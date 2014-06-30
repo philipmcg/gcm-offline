@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{748860D0-3158-4918-B836-9AA701B16EC2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GcmShared</RootNamespace>
+    <AssemblyName>GcmShared</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FSharp.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Programs\C#\MaybeSeven\Library1\bin\Debug\FSharp.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ninject, Version=2.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.6.0.12051, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Programs\C#\SCEWeb\SCE\bin\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Battle\Battle.cs" />
+    <Compile Include="Battle\BattleOptions.cs" />
+    <Compile Include="Battle\BattleReport.cs" />
+    <Compile Include="Battle\MapInfo.cs" />
+    <Compile Include="Battle\MapLocations.cs" />
+    <Compile Include="Battle\RandomCreator.cs" />
+    <Compile Include="Battle\Objectives.cs" />
+    <Compile Include="Battle\ScenarioFiles.cs" />
+    <Compile Include="Battle\XmlConstruct.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="Data.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="GcmSharedStructures.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Balancer.cs" />
+    <Compile Include="NewMilitary\BattleMaker\BattleMaker.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\OrganizerPersistent.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\RandomBattleMaker.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\OrganizerRandom.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\PersistentBattleMaker.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\HistoricalBattleMaker.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\RandomDivisionGenerator.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Loader.cs" />
+    <Compile Include="NewMilitary\BattleMaker\LocationMaker.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Mil.cs" />
+    <Compile Include="NewMilitary\BattleMaker\MilitaryExtensions.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Implementations\OrganizerHistorical.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Preparer.cs" />
+    <Compile Include="NewMilitary\BattleMaker\Writer.cs" />
+    <Compile Include="NewMilitary\OOBWriter.cs" />
+    <Compile Include="Paths.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Replay\ProcessReplay.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Military\Military.csproj">
+      <Project>{9127198B-14EE-4620-AAFB-3859B6BBCB10}</Project>
+      <Name>Military</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{5C5C7559-89D5-4A90-878E-F4E3EEA7B69A}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GcmShared.Fs\GcmShared.Fs.fsproj">
+      <Project>{04025657-A6A1-4461-A028-90433526F933}</Project>
+      <Name>GcmShared.Fs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

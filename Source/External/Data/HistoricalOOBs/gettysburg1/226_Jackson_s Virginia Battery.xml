@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jackson's Virginia Battery,5,2</do>
+   <c>
+    <dc>8,Thomas,E,Jackson,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,0.3853,12lb Howitzer,,0,1,-0.13,0.3452,-0.119,0.2376,0.006,-0.2187,75,75,0,21064,4,0</du>
+    <c>
+     <dc>15,John,B,Elam,0,3.5493,4.734,4.7211,3.8473,5.5923,4.8943,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,0.0029,3in Ordnance,,0,1,-0.3023,-0.1739,0.055,-0.2639,0.3349,0.3739,87,76,0,21065,4,0</du>
+    <c>
+     <dc>16,Robert,M,Paul,0,3.8187,5.1475,4.5935,4.2181,3.2251,2.8833,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.6214,12lb Howitzer,,0,1,-0.0211,-0.1402,0.461,-0.346,0.2552,-0.2238,75,74,0,21066,4,0</du>
+    <c>
+     <dc>10,William,H,Glass,0,3.2743,2.3397,2.8232,2.0905,5.8585,2.9998,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.6048,3in Ordnance,,0,1,-0.2795,-0.3756,0.1618,0.3225,-0.399,-0.4322,87,78,0,21067,4,0</du>
+    <c>
+     <dc>16,James,W,Maynor,0,4.0608,4.699,4.2473,3.4401,4.798,2.5123,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

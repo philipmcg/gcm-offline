@@ -1,0 +1,30 @@
+~game_options,,,,,,,
+id,caption,list,text,value,default,active,gametype
+opt_s_map,Map,maps,optionname,id,Gburg,1,random
+opt_s_time_limit,Battle Length,time_limits,name,time,90,1,custom_settings
+opt_s_supply,Supply Wagons,supply_options,name,id,by_division,1,custom_objective_settings
+opt_s_supply_formation,Supply Wagon Speed,supply_speeds,name,id,fast,0,custom_objective_settings
+opt_s_supply_unit,Supply Wagon Speed,supply_units,name,id,fast,1,custom_objective_settings
+opt_s_gametype,Order Of Battle,opt_gametypes,name,id,random,1,custom_settings
+opt_s_start_location_spread,Army Starting Locations,start_location_spread,name,id,21,1,custom_settings
+opt_s_map_width,Map Area Used,map_sizes,name,id,100,1,custom_settings
+opt_s_objective_area,Objectives area,objective_areas,name,id,80,1,custom_objective_settings
+opt_s_num_objectives,Number of Objectives,num_objectives,name,num,5,1,custom_settings
+opt_s_objective_length,Objective Type,objective_lengths,name,length,0,1,custom_objective_settings
+opt_s_objective_time_buffer,No Objectives in Last,objective_time_buffer,name,id,20,0,custom_objective_settings
+opt_s_objective_holders,Objective Holders,objective_holders,name,id,holders_wagons,1,custom_objective_settings
+opt_s_objective_men_to_hold,Men to hold Objective,objective_men_to_hold,name,id,0,1,custom_objective_settings
+opt_s_objective_available_time,Objectives Last For,objective_available_time,name,id,200,0,custom_objective_settings
+opt_s_objective_points,Objective Points,objective_points,name,id,2000,0,custom_objective_settings
+opt_s_objective_point_percentages,Objective Points,objective_point_percentages,name,id,30,1,custom_objective_settings
+opt_s_objective_radius,Objective Radius,objective_radius,name,id,100,1,custom_objective_settings
+opt_s_objective_distribution,Objective Distribution,objective_distribution,name,id,even,0,custom_objective_settings
+opt_s_objective_distance_from_edge,Objectives area,objective_distance_from_edge,name,id,15,0,custom_objective_settings
+opt_s_bid_team_1,US Bid for Defense,bid_percentages,name,id,100,1,scenario
+opt_s_bid_team_2,CS Bid for Defense,bid_percentages,name,id,100,1,scenario
+opt_s_balance,Auto Balance,balance,name,id,1,0,none
+opt_s_ranked,Ranked,ranked_options,name,id,1,1,none
+opt_s_cavalry,Cavalry,cavalry_options,name,id,0,0,none
+opt_s_cavalry_regts_per_side,Max Cavalry regiments per side,cavalry_regts_per_side_options,name,id,0,1,none
+opt_s_cavalry_divs_per_side,Cavalry distributed among,cavalry_divs_per_side_options,name,id,1,1,none
+opt_s_battle_size_limit,Battle Size Limit,battle_size_limits,name,id,50000,1,custom_settings

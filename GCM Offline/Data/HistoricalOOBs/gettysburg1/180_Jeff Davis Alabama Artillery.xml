@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jeff Davis Alabama Artillery,5,2</do>
+   <c>
+    <dc>8,WJ,,Reese,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.8931,3in Ordnance,,0,1,4.8344,4.7288,5.3221,5.0815,5.0818,5.094,87,77,0,20859,4,0</du>
+    <c>
+     <dc>10,John,,Mosteller,0,2.2166,3.3464,5.4623,2.3081,2.0557,5.289,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7659,3in Ordnance,,0,1,5.0405,4.7246,5.1199,5.0827,5.2774,5.464,87,77,0,20860,4,0</du>
+    <c>
+     <dc>16,Samuel,,Taylor,0,5.1301,3.7164,5.9836,5.8936,3.0043,5.1528,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7661,3in Ordnance,,0,1,4.9296,4.5118,4.5088,5.0608,5.4841,5.4293,87,78,0,20861,4,0</du>
+    <c>
+     <dc>10,John,,Moon,0,3.3204,4.5983,5.2862,2.0225,4.4985,3.4982,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4047,3in Ordnance,,0,1,4.6459,5.1733,4.8023,5.0602,5.3201,4.5214,87,77,0,20862,4,0</du>
+    <c>
+     <dc>15,William,C,Yeary,0,2.1428,2.9004,3.1418,5.1935,5.9173,5.7514,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

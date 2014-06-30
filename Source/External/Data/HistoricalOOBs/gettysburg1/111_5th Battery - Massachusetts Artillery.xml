@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>5th Battery - Massachusetts Artillery,5,1</do>
+   <c>
+    <dc>8,Charles,A,Phillips,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.6495,3in Ordnance,,0,1,3.6658,4.4948,4.3191,3.9048,3.8306,4.0069,88,37,0,20542,144,0</du>
+    <c>
+     <dc>10,Perry,E,Hufty,0,3.5137,3.8144,4.4852,4.8454,2.6115,3.997,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5124,3in Ordnance,,0,1,4.1001,4.0246,4.4595,3.6948,4.1451,3.5416,88,38,0,20543,144,0</du>
+    <c>
+     <dc>16,James,R,Maffit,0,3.4937,4.1495,3.7964,5.6952,4.0792,2.9579,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7914,3in Ordnance,,0,1,3.5553,4.0642,4.4033,3.6108,3.6667,4.3068,88,39,0,20544,144,0</du>
+    <c>
+     <dc>15,John,,Taylor,0,4.2491,5.915,4.2396,2.6242,4.9644,4.5134,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.2211,3in Ordnance,,0,1,4.179,4.4051,4.3461,4.0515,4.1853,4.1709,88,39,0,20545,144,0</du>
+    <c>
+     <dc>16,David,J,Hunter,0,4.743,2.4585,4.7385,3.8614,2.8522,3.7103,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6472,3in Ordnance,,0,1,3.7722,4.409,3.6668,4.4666,4.256,4.3187,88,38,0,20546,144,0</du>
+    <c>
+     <dc>15,William,E,Branen,0,3.2857,5.5005,2.4114,5.4894,4.0415,3.5822,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5137,3in Ordnance,,0,1,4.1813,3.8699,4.3125,4.4788,3.5281,4.3619,88,39,0,20547,144,0</du>
+    <c>
+     <dc>15,Stephen,,Vial,0,5.3754,3.5313,3.2849,3.4086,5.2714,4.0038,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

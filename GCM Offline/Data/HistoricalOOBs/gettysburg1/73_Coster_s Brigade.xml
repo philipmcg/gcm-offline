@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Coster's Brigade,5,1</do>
+   <c>
+    <dc>5,Charles,L,Coster,0,0,2,2,2,2,2,(2-5)</dc>
+   </c>
+   <u>
+    <du>440,0,1.1615,134th New York,,0,0,0.6414,1.1549,0.9791,0.6959,1.0577,1.215,30,9,0,20351,143,130</du>
+    <c>
+     <dc>6,William,F,Rogers,0,5.874,5.0333,3.4279,2.7789,3.0914,4.0483,</dc>
+    </c>
+   </u>
+   <u>
+    <du>270,0,2.385,154th New York,,0,0,0.544,1.2782,1.2707,0.738,1.3561,1.2115,5,12,0,20352,143,130</du>
+    <c>
+     <dc>8,Edward,,Ripple,0,5.0907,4.6862,4.5315,3.2239,2.3064,5.5232,</dc>
+    </c>
+   </u>
+   <u>
+    <du>317,0,4.0017,27th Pennsylvania,,0,0,0.9865,0.5571,1.2442,0.9982,0.8304,1.3672,31,13,0,20353,143,132</du>
+    <c>
+     <dc>6,Charles,,Lambie,0,3.5509,4.2589,2.7764,4.2467,2.0953,4.084,</dc>
+    </c>
+   </u>
+   <u>
+    <du>325,0,5.4221,73rd Pennsylvania,,0,0,0.8925,1.0674,1.3264,1.3528,1.4797,0.5297,27,6,0,20354,143,132</du>
+    <c>
+     <dc>6,George,A,Cherey,0,3.555,3.1059,4.392,3.4423,3.4749,3.4795,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

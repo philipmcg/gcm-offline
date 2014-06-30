@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Fredericksburg Virginia Artillery,5,2</do>
+   <c>
+    <dc>8,Edward,A,Marye,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.1181,12lb Napoleon,,0,1,6.2414,6.4052,6.4821,6.1605,6.4568,6.1842,78,74,0,21031,4,0</du>
+    <c>
+     <dc>10,Phillip,H,Livingston,0,5.6215,4.7097,2.5334,2.9981,4.0029,2.5611,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0857,3in Ordnance,,0,1,5.5278,5.8171,5.5621,6.151,6.4161,5.9471,87,77,0,21032,4,0</du>
+    <c>
+     <dc>16,William,F,Roark,0,2.2567,3.8247,2.131,4.5341,2.0189,2.1923,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2099,12lb Napoleon,,0,1,5.6486,5.559,5.8603,5.7379,6.1083,6.1853,78,74,0,21033,4,0</du>
+    <c>
+     <dc>10,Mathew,,Holbrook,0,2.9083,4.7821,5.3131,2.0662,2.81,3.2858,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1075,3in Ordnance,,0,1,5.9335,5.9021,6.0476,5.7609,6.3627,6.3039,87,78,0,21034,4,0</du>
+    <c>
+     <dc>16,Littleton,W,Carver,0,3.5832,4.4691,3.1841,2.4183,2.6998,5.1908,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

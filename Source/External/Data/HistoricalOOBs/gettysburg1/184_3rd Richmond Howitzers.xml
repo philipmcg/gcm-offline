@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>3rd Richmond Howitzers,5,2</do>
+   <c>
+    <dc>8,Benjamin,H,Jr,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.3771,3in Ordnance,,0,1,5.4082,4.9274,5.4804,4.8568,5.4429,4.6667,87,76,0,20879,4,0</du>
+    <c>
+     <dc>15,Henry,G,West,0,2.9371,2.3164,2.6793,5.2544,2.1152,5.8214,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4958,3in Ordnance,,0,1,5.4251,5.1031,4.987,4.7805,4.6498,5.1725,87,78,0,20880,4,0</du>
+    <c>
+     <dc>16,Joseph,,Laners,0,3.5097,3.4039,5.0371,3.633,3.5042,5.2948,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6075,3in Ordnance,,0,1,4.8818,4.7871,5.3085,5.0968,4.9257,5.0765,87,78,0,20881,4,0</du>
+    <c>
+     <dc>15,William,C,Looney,0,2.8559,3.0781,4.4926,3.7723,5.4074,4.874,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1195,3in Ordnance,,0,1,5.3913,5.2689,4.7727,4.7395,4.5084,5.1727,87,77,0,20882,4,0</du>
+    <c>
+     <dc>16,Abner,P,Hicks,0,4.3072,4.9906,3.9867,5.8484,4.6867,2.8578,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

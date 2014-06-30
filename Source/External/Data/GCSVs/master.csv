@@ -1,0 +1,434 @@
+~balance
+id,name
+1,Yes
+0,No
+
+~objective_lengths	
+length	name
+0	Points every minute
+1	Points every minute (visible at start)
+10	Hold 10 minutes
+12	Hold 12 minutes
+14	Hold 14 minutes
+16	Hold 16 minutes
+18	Hold 18 minutes
+20	Hold 20 minutes
+22	Hold 22 minutes
+25	Hold 25 minutes
+30	Hold 30 minutes
+35	Hold 35 minutes
+40	Hold 40 minutes
+50	Hold 50 minutes
+60	Hold 60 minutes
+90	Hold 90 minutes
+240	Hold 4 hours
+
+
+~start_location_spread
+id,name
+1	Least scattered (by corps)
+11	10% scattered (by corps)
+21	20% scattered (by corps)
+31	30% scattered (by corps)
+41	40% scattered (by corps)
+51	50% scattered (by corps)
+61	60% scattered (by corps)
+71	Most scattered (by corps)
+0	Least scattered
+10	10% scattered
+20	20% scattered
+30	30% scattered
+40	40% scattered
+50	50% scattered
+60	60% scattered
+70	Most scattered
+
+~battle_size_limits
+id,name
+30000,30000 Troops
+40000,40000 Troops
+50000,50000 Troops
+60000,60000 Troops
+70000,70000 Troops
+80000,80000 Troops
+90000,90000 Troops
+100000,100000 Troops
+1000000,No Limit
+
+~objective_distance_from_edge
+id,name
+0	Up to map edge
+5	90% of map area
+10	80% of map area
+15	70% of map area
+20	60% of map area
+25	50% of map area
+30	40% of map area
+35	30% of map area
+40	20% of map area
+45	10% of map area
+
+
+~objective_point_percentages
+name,id	
+2%	2
+5%	4
+10%	10
+15%	15
+20%	20
+25%	25
+30%	30
+40%	40
+50%	50
+60%	60
+80%	80
+100%	100
+150%	150
+200%	200
+300%	300
+400%	400
+500%	500
+
+
+~objective_points
+name,id
+10 Points,10
+100 Points,100
+250 Points,250
+500 Points,500
+600 Points,600
+800 Points,800
+1000 Points,1000
+1200 Points,1200
+1500 Points,1500
+2000 Points,2000
+3000 Points,3000
+4000 Points,4000
+5000 Points,5000
+10000 Points,10000
+100000 Points,100000
+
+~objective_distribution
+name,id
+Completely Random,random
+Even Distribution,even
+
+~objective_radius
+name,id
+10 Yards,10
+50 Yards,50
+100 Yards,100
+200 Yards,200
+250 Yards,250
+300 Yards,300
+400 Yards,400
+500 Yards,500
+600 Yards,600
+800 Yards,800
+1000 Yards,1000
+1200 Yards,1200
+1500 Yards,1500
+2000 Yards,2000
+2500 Yards,2500
+3000 Yards,3000
+
+~objective_holders
+name,id
+None,none
+Objective Holders,holders
+Objective Holders with Wagons,holders_wagons
+Objective Holders with Guns,holders_guns
+
+~objective_men_to_hold
+name,id
+0 Men (use objective holders),0
+10 Men,10
+50 Men,50
+100 Men,100
+200 Men,200
+500 Men,500
+1000 Men,1000
+
+~objective_time_buffer
+name,id
+10 Percent,p10
+25 Percent,p25
+40 Percent,p40
+50 Percent,p50
+60 Percent,p60
+75 Percent,p75
+All visible,p100
+10 Minutes,0
+20 Minutes,10
+30 Minutes,20
+40 Minutes,30
+50 Minutes,40
+60 Minutes,50
+90 Minutes,80
+4 Hours,230
+
+~objective_available_time,name,id
+Permanent,600
+10-40 Minutes,10
+20-50 Minutes,20
+30-60 Minutes,30
+40-70 Minutes,40
+50-80 Minutes,50
+60-90 Minutes,60
+4 Hours,240
+
+~time_limits
+name	time
+10 Minutes	10
+20 Minutes	20
+30 Minutes	30
+40 Minutes	40
+50 Minutes	50
+60 Minutes	60
+70 Minutes	70
+80 Minutes	80
+90 Minutes	90
+120 Minutes	120
+150 Minutes	150
+3 Hours	180
+4 Hours	240
+
+~num_objectives
+name	num
+1 Objective	1
+3 Objectives	3
+5 Objectives	5
+7 Objectives	7
+9 Objectives	9
+11 Objectives	11
+13 Objectives	13
+15 Objectives	15
+17 Objectives	17
+21 Objectives	21
+25 Objectives	25
+31 Objectives	31
+35 Objectives	35
+41 Objectives	41
+
+~bugle_calls
+name
+Bu_NSDCHalt
+Bu_NSDHalt
+Bu_NSDWRight
+Bu_NSDWLeft
+Bu_NSDRiseUp
+Bu_NSDRetreat
+Bu_NSDResupply
+Bu_NSDLieDown
+Bu_NSDISkirmish
+Bu_NSDICharge
+Bu_NSDDoubleTime
+Bu_NSDCSkirmish
+Bu_NSDCRetreat
+Bu_NSDCGallop
+Bu_NSDCCharge
+Bu_NSDCBootNsat
+Bu_NSDCAssem
+
+~bid_percentages
+name,id	
+70%	70
+71%	71
+72%	72
+73%	73
+74%	74
+75%	75
+76%	76
+77%	77
+78%	78
+79%	79
+80%	80
+81%	81
+82%	82
+83%	83
+84%	84
+85%	85
+86%	86
+87%	87
+88%	88
+89%	89
+90%	90
+91%	91
+92%	92
+93%	93
+94%	94
+95%	95
+96%	96
+97%	97
+98%	98
+99%	99
+100%	100
+101%	101
+102%	102
+103%	103
+104%	104
+105%	105
+106%	106
+107%	107
+108%	108
+109%	109
+110%	110
+
+
+~directions
+name	x	z
+s	1	0
+sse	0.92	0.38
+se	0.71	0.71
+ese	0.38	0.92
+e	0	1
+ene	-0.38	0.92
+ne	-0.71	0.71
+nne	-0.92	0.38
+n	-1	0
+nnw	-0.92	-0.38
+nw	-0.71	-0.71
+wnw	-0.38	-0.92
+w	0	-1
+wsw	0.38	-0.92
+sw	0.71	-0.71
+ssw	0.92	-0.38
+
+
+~ranked_options
+name,id
+No,0
+Ranked,1
+
+~cavalry_options
+name,id
+Allowed,1
+No Cavalry,0
+
+~cavalry_regts_per_side_options
+id,name
+0,No Cavalry
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+8,8
+10,10
+15,15
+20,20
+20000,No limit
+
+~cavalry_divs_per_side_options
+id,name
+1,At most 1 division per side
+2,Up to 2 divisions per side
+3,Up to 3 divisions per side
+4,Up to 4 divisions per side
+5,Up to 5 divisions per side
+6,Up to 6 divisions per side
+8,Up to 8 divisions per side
+100,All divisions can have cavalry
+
+// online campaign options
+~campaign_battle_types
+name,id
+Default,0
+Custom,1
+
+~campaign_division_selection
+name,id
+Random,0
+Custom,1
+
+
+~objective_areas,id	percent_side	multiplier	miles_side2	miles_side	square_miles	name
+10	10	1638	0.3	0.3	0.1	0.3 miles across
+20	20	3277	0.5	0.5	0.3	0.5 miles across
+30	30	4915	0.8	0.8	0.6	0.8 miles across
+40	40	6554	1	1	1	1 miles across
+50	50	8192	1.3	1.3	1.6	1.3 miles across
+60	60	9830	1.5	1.5	2.3	1.5 miles across
+70	70	11469	1.8	1.8	3.1	1.8 miles across
+80	80	13107	2	2	4	2 miles across
+90	90	14746	2.3	2.3	5.1	2.3 miles across
+100	100	16384	2.5	2.5	6.3	2.5 miles across
+110	110	18022	2.8	2.8	7.6	2.8 miles across
+120	120	19661	3	3	9	3 miles across
+130	130	21299	3.3	3.3	10.6	3.3 miles across
+140	140	22938	3.5	3.5	12.3	3.5 miles across
+150	150	24576	3.8	3.8	14.1	3.8 miles across
+160	160	26214	4	4	16	4 miles across
+170	170	27853	4.3	4.3	18.1	4.3 miles across
+180	180	29491	4.5	4.5	20.3	4.5 miles across
+190	190	31130	4.8	4.8	22.6	4.8 miles across
+200	200	32768	5	5	25	5 miles across
+
+
+// player settings
+~ps_gun_limits	
+id	name
+0	0 Guns
+2	2 Guns
+4	4 Guns
+6	6 Guns
+8	8 Guns
+10	10 Guns
+12	12 Guns
+14	14 Guns
+16	16 Guns
+24	24 Guns
+36	36 Guns
+48	48 Guns
+60	60 Guns
+
+~ps_regt_limits	
+id	name
+0	0 Regiments
+1	1 Regiments
+2	2 Regiments
+3	3 Regiments
+4	4 Regiments
+5	5 Regiments
+6	6 Regiments
+7	7 Regiments
+8	8 Regiments
+9	9 Regiments
+10	10 Regiments
+11	11 Regiments
+12	12 Regiments
+13	13 Regiments
+14	14 Regiments
+15	15 Regiments
+16	16 Regiments
+17	17 Regiments
+18	18 Regiments
+19	19 Regiments
+20	20 Regiments
+
+~ps_army_command
+id,name
+10,Yes
+5,Only if no one else says 'yes'
+0,No
+
+~ps_cavalry
+id,name
+10,Yes
+5,Only if no one else says 'yes'
+0,No
+
+~ps_side_preference
+id,name
+0,No Preference
+1,Union
+2,Confederate
+
+~player_settings_in_launcher
+id,key,caption,list,text,value,default,active
+opt_ps_campaign_regts_limit,CampaignRegtsLimit,Campaign regiments limit,ps_regt_limits,name,id,0,1
+opt_ps_campaign_guns_limit,CampaignGunsLimit,Campaign guns limit,ps_gun_limits,name,id,0,1
+opt_ps_pref_high_command,PrefHighCommand,Prefer army/corps command,ps_army_command,name,id,0,1
+opt_ps_preferred_faction,PreferredFaction,Preferred side,ps_side_preference,name,id,0,1
+opt_ps_pref_cavalry,PrefCavalry,Prefer cavalry,ps_cavalry,name,id,0,1

@@ -1,0 +1,11 @@
+
+namespace = GE
+
+using
+ System.Xml.Serialization
+ Utilities
+
+hex_order
+  int original_terrain_id
+  int new_terrain_id
+

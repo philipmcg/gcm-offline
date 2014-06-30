@@ -1,0 +1,7 @@
+~campaign_options
+id	caption	list	active
+opt_cmp_player1	US Player	player1	1
+opt_cmp_player2	CS Player	player2	1
+opt_cmp_gamemaster	Game Master	gamemaster	1
+opt_cmp_setup	Campaign Setup	campaign_setups	1
+

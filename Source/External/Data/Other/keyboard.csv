@@ -1,0 +1,125 @@
+Name,Key,Func,,,,,
+,keycode,command,,,,,
+
+,Name,"Not used, for designer only, but must be filled in for the row to be read by the code",,,,,
+,Key,Keyboard character or special character string,,,,,
+,Func,"Game command function script, see gui.csv for examples",,,,,
+,Notes,"Keys are only active in game, some keys cannot be used, the list is below",,,,,
+,,mousewheel,,,,,
+,,mousebuttons,,,,,
+,,Some keys require special character strings for this file to be used correctly,,,,,
+,,ESC,CTRL,CAPS,NUMPAD0,GREYSTAR,END
+,,MINUS,DQUOTE,F1,NUMPAD1,GREYMINUS,INSERT
+,,EQUALS,RQUOTA,F2,NUMPAD2,GREYPLUS,DEL
+,,BACKSPACE,LSHIFT,F3,NUMPAD3,GREYSLASH,
+,,TAB,BSLASH,F4,NUMPAD4,GREYDOT,
+,,LBRACE,COMMA,F5,NUMPAD5,ARROWUP,
+,,RBRACE,DOT,F6,NUMPAD6,ARROWDOWN
+,,,SLASH,F7,NUMPAD7,ARROWLEFT
+,,,RSHIFT,F8,NUMPAD8,ARROWRIGHT
+,,,ALT,F9,NUMPAD9,PGUP
+,,,SPACE,F10,NUMLOCK,PGDN
+,,,,F11,SCRLOCK,HOME
+,,,,F12,,
+
+,, GCM Hotkeys:
+,,1 - Take Command (of selected unit only)
+,,2 - Next Unit
+,,3 - Select Leader of current unit
+,,4 - Wheel left
+,,5 - Wheel right
+,,6 - Advance
+,,7 - Fall back
+,,F - Halt
+,,R - Run
+,,Y - Walk (stop running)
+,,H - Use roads
+,,J - Short Retreat
+,,X - Wheel all the way around (this is not like the about face button -- it is like clicking "Wheel right" 16 times)
+,,C - Lie down
+,,V - Stand up
+,,L - Chat
+,,I - Chat to team only
+,,K - Dump Game Database (gamedb)
+,,9,0 - Artillery use solid and target infantry (this is two keys, hit both when battery commander is selected)
+,,F2 - Artillery manual target (alternate between hitting 2 and F2 while a gun is selected, to quickly manual target with the entire battery)
+
+
+
+
+Help,F1,loadscreen:InGameHelp,,,,
+Highlights,F3,loadscreen:Highlights,,,,
+
+Forward,W,moveforward,,,,
+Backward,S,movebackward,,,,
+SlideLeft,A,moveleft,,,,
+SlideRight,D,moveright
+RotateLeft,Q,rotateleft
+RotateRight,E,rotateright
+Up,SPACE,moveup
+Down,LSHIFT,movedown
+
+Leader,ARROWUP,rankup
+Prev Sib,ARROWLEFT,rankprev
+Next Sib,ARROWRIGHT,ranknext
+Subordinate,ARROWDOWN,rankdown
+
+Save,GREYPLUS,loadscreen:InGameSave
+Load,GREYSLASH,loadscreen:InGameLoad
+Speed Up,EQUALS,speedup
+Slow,MINUS,speeddown
+
+Menu,ESC,loadscreen:InGameMenu
+
+
+Courier,C,loadscreen:SendCourier
+Map,M,loadscreen:Map
+
+Goto,G,gotosel
+Dead,O,dumpdead
+Pause,P,pause
+Trees,T,toggletrees
+Hud,U,togglehud
+Chat,L,chat
+Zoom,Z,zoom
+TeamChat,I,teamchat
+
+
+FireAtTheTroops,9,Aartyfiretroops
+UseSolid,0,Asetammo:Solid
+
+TC On,1,takecommand
+Next Unit,2,ranknext
+Select Leader,3,rankup
+ManualTarget,F2,Atarget,,,,
+advance,6,Aadvance
+fallback,7,Afallback
+
+WheelLeft2,4,wheelleft:22.5
+WheelRight2,5,wheelright:22.5
+WheelLeft,COMMA,wheelleft:22.5
+WheelRight,DOT,wheelright:22.5
+Scen,K,dumpgamedb
+Run,R,Arun
+Walk,Y,Awalk
+Stop,F,Astop
+Roads,H,Aforcepath
+GetAway,J,Agetaway
+Map Move,N,AMmoveto
+
+Aonlylaydown,V,Aonlylaydown
+Aonlyriseup,B,Aonlyriseup
+
+WheelAbout,X,wheelleft:180
+
+Combat Grp,NUMPAD9,setgroup:0,,,,,
+Move Grp,NUMPAD6,setgroup:1,,,,,
+Orders Grp,NUMPAD3,setgroup:2,,,,,
+,,,,,,,
+TC On,NUMPAD1,Atcommon,,,,,
+TC Off,NUMPAD2,Atcommoff,,,,,
+TC Subordinate Officers,NUMPAD0,tcofficers,,,,,
+Advance,NUMPAD4,moveformfwd:300:0,,,,,
+All Advance,NUMPAD5,Amoveformfwd:300:0,,,,,
+Advance to Def,NUMPAD7,movefwd:300:1,,,,,
+All Advance to Def,NUMPAD8,Amovefwd:300:1,,,,,

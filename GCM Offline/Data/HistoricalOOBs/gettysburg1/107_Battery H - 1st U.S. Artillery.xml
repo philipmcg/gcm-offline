@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery H - 1st U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,Chandler,P,Eakin,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.7412,12lb Napoleon,,0,1,5.2112,4.866,4.7183,5.1008,5.2786,4.5513,79,36,0,20518,144,0</du>
+    <c>
+     <dc>10,Jacob,E,McMaster,0,2.0414,4.6734,4.1785,5.3979,2.0159,5.3573,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8723,12lb Napoleon,,0,1,4.5145,5.2066,4.8096,4.5944,4.7293,5.1777,79,34,0,20519,144,0</du>
+    <c>
+     <dc>16,William,,Jamison,0,2.8357,3.6364,3.5582,3.6217,4.1312,5.308,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.9126,12lb Napoleon,,0,1,4.5706,4.5941,4.6718,4.691,4.6038,5.3431,79,36,0,20520,144,0</du>
+    <c>
+     <dc>10,Stephen,W,Winters,0,2.4377,4.8275,4.2116,3.9136,5.4839,3.218,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0555,12lb Napoleon,,0,1,5.0218,4.6696,5.0104,4.6751,4.9575,4.841,79,34,0,20521,144,0</du>
+    <c>
+     <dc>15,William,,McCrilis,0,4.2514,3.1488,5.9992,2.9733,2.2088,3.6348,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.781,12lb Napoleon,,0,1,5.4166,5.1654,4.8891,5.0897,4.6063,4.6926,79,36,0,20522,144,0</du>
+    <c>
+     <dc>10,William,,Creasy,0,5.5654,4.3709,2.0427,4.6641,3.7813,4.2842,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1274,12lb Napoleon,,0,1,5.4564,5.2338,4.6223,4.776,5.1407,4.5134,79,35,0,20523,144,0</du>
+    <c>
+     <dc>15,William,M,Kimball,0,4.5843,4.5498,4.9805,3.5025,3.2018,5.5204,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

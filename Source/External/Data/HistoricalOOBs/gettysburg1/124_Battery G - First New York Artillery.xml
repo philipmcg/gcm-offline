@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery G - First New York Artillery,5,1</do>
+   <c>
+    <dc>8,Nelson,,Ames,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.9713,12lb Napoleon,,0,1,4.2501,3.5075,4.016,4.3086,4.085,3.7243,79,35,0,20614,144,0</du>
+    <c>
+     <dc>10,Walter,,Monroe,0,5.6162,5.3158,3.6792,5.5825,3.4576,2.9958,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5733,12lb Napoleon,,0,1,3.5642,4.0342,4.4535,3.8589,3.5199,4.392,79,34,0,20615,144,0</du>
+    <c>
+     <dc>15,John,,Lawhead,0,3.3372,5.9262,5.9422,3.0365,4.1567,2.9829,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6172,12lb Napoleon,,0,1,3.836,3.6755,4.4563,3.5614,3.5341,3.9869,79,36,0,20616,144,0</du>
+    <c>
+     <dc>15,Michael,W,Bressler,0,3.5093,3.3068,2.5487,3.7307,3.7224,4.1776,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5776,12lb Napoleon,,0,1,3.6798,3.7778,4.4796,4.2917,3.9047,4.2705,79,36,0,20617,144,0</du>
+    <c>
+     <dc>15,Francis,E,Wilkinson,0,5.9306,2.2344,5.6331,3.6612,4.1226,2.1253,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.1334,12lb Napoleon,,0,1,3.7439,3.7259,4.126,3.6008,4.2044,3.5104,79,34,0,20618,144,0</du>
+    <c>
+     <dc>10,Lewis,M,Holman,0,2.4718,3.3289,3.567,4.6095,5.353,4.2082,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8337,12lb Napoleon,,0,1,4.1819,3.6084,3.5805,3.9257,3.6168,3.7535,79,36,0,20619,144,0</du>
+    <c>
+     <dc>16,George,C,Rayner,0,3.4222,5.1855,3.1317,4.6603,2.1815,2.7166,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

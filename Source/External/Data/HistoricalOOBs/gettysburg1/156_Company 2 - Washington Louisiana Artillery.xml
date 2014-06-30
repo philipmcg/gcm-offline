@@ -1,0 +1,33 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Company 2 - Washington Louisiana Artillery,5,2</do>
+   <c>
+    <dc>8,John,B,Richardson,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.6219,12lb Napoleon,,0,1,6.6878,7.4288,7.0107,6.592,7.3742,6.5714,78,74,0,20757,4,0</du>
+    <c>
+     <dc>10,Edward,,Thompson,0,5.3235,4.3923,5.4394,4.7013,4.0506,2.7825,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7188,12lb Howitzer,,0,1,7.0088,7.0448,7.3553,6.7053,7.4754,6.9136,75,74,0,20758,4,0</du>
+    <c>
+     <dc>16,David,W,Baker,0,2.8339,2.2966,5.8701,2.8834,5.3317,2.0166,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,5.0366,12lb Napoleon,,0,1,6.6976,6.613,7.2239,7.4167,7.0193,6.9679,78,74,0,20759,4,0</du>
+    <c>
+     <dc>10,Ananias,R,Lomax,0,2.9596,5.9171,3.0944,3.7322,3.1253,5.9756,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

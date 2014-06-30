@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery E - 1st Rhode Island Artillery,5,1</do>
+   <c>
+    <dc>9,John,K,Bucklyn,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.2878,12lb Napoleon,,0,1,6.0265,5.5675,5.617,5.7675,6.4609,5.568,79,34,0,20186,144,0</du>
+    <c>
+     <dc>10,Samuel,,Armstrong,0,3.5653,4.3216,5.1326,4.1489,3.0184,4.7352,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7083,12lb Napoleon,,0,1,5.963,5.7216,5.6797,5.5054,5.5922,6.3476,79,34,0,20187,144,0</du>
+    <c>
+     <dc>16,Jonathan,G,Lamburtus,0,4.27,3.0014,5.5671,5.375,2.4429,5.1467,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4271,12lb Napoleon,,0,1,6.4261,5.9378,6.0451,5.5489,6.1415,5.5386,79,36,0,20188,144,0</du>
+    <c>
+     <dc>15,Daniel,,Johnston,0,2.3732,2.6448,2.0918,5.8746,4.5334,4.8253,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4829,12lb Napoleon,,0,1,6.2091,5.958,5.8199,6.2208,5.5687,6.0154,79,34,0,20189,144,0</du>
+    <c>
+     <dc>16,James,,Mckinney,0,3.0078,4.6926,4.8649,4.4025,4.0182,5.1333,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1282,12lb Napoleon,,0,1,5.7665,5.6854,5.8639,6.2613,6.4938,5.7084,79,34,0,20190,144,0</du>
+    <c>
+     <dc>10,Abraham,H,Hics,0,5.4828,3.8878,3.1818,5.3642,5.5558,4.4751,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4494,12lb Napoleon,,0,1,5.9951,5.6433,6.2886,5.9208,5.5624,6.0828,79,36,0,20191,144,0</du>
+    <c>
+     <dc>16,John,A,Liberney,0,3.4443,5.8162,4.9291,4.4918,2.5511,5.6477,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

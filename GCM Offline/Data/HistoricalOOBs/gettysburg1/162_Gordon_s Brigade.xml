@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Gordon's Brigade,5,2</do>
+   <c>
+    <dc>4,John,B,Gordon,0,5,6,5,6,6,5,(9-5)</dc>
+   </c>
+   <u>
+    <du>347,0,5.4302,13th Georgia,,0,0,1.0116,0.6015,0.6619,1.2869,1.2557,0.8401,5,51,0,20777,2,0</du>
+    <c>
+     <dc>6,William,A,Showalter,0,3.7104,2.4009,2.478,3.2842,4.6237,5.5333,</dc>
+    </c>
+   </u>
+   <u>
+    <du>350,0,4.2494,26th Georgia,,0,0,1.2847,0.61,1.1897,1.2892,0.7868,1.1146,5,52,0,20778,2,0</du>
+    <c>
+     <dc>7,Frank,R,Thrash,0,2.7894,5.4486,4.5468,3.0886,4.9819,5.2665,</dc>
+    </c>
+   </u>
+   <u>
+    <du>283,0,3.3627,31st Georgia,,0,0,0.9013,0.7787,1.367,0.8382,0.7994,0.9334,5,47,0,20779,2,0</du>
+    <c>
+     <dc>7,Moses,B,Adams,0,3.9631,2.1784,5.2548,4.0171,5.6335,3.9954,</dc>
+    </c>
+   </u>
+   <u>
+    <du>377,0,4.0905,38th Georgia,,0,0,0.6791,0.9458,1.4247,1.3742,1.0124,0.535,41,49,0,20780,2,0</du>
+    <c>
+     <dc>6,James,,Hampton,0,2.1956,2.7229,2.0051,3.6626,3.7332,5.0979,</dc>
+    </c>
+   </u>
+   <u>
+    <du>333,0,5.1992,60th Georgia,,0,0,0.8257,0.7687,0.6864,0.7377,0.8539,0.862,28,48,0,20781,2,0</du>
+    <c>
+     <dc>7,John,J,Tyler,0,3.1057,3.5469,2.3617,4.334,2.7379,2.928,</dc>
+    </c>
+   </u>
+   <u>
+    <du>321,0,5.3364,61st Georgia,,0,0,0.8165,1.4828,1.2277,1.3899,0.8699,0.8435,5,49,0,20782,2,0</du>
+    <c>
+     <dc>6,James,,Ferrill,0,2.3202,3.0887,2.8499,5.6457,3.0934,4.727,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

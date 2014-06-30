@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery E &amp; L - 1st New York Artillery,5,1</do>
+   <c>
+    <dc>8,Gilbert,H,Reynolds,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.1264,3in Ordnance,,0,1,4.5669,4.8525,4.9884,5.3038,4.5299,5.3868,88,37,0,20044,144,0</du>
+    <c>
+     <dc>15,Christian,,Sharrer,0,2.9665,2.903,5.2127,5.4522,4.3114,2.4863,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.2593,3in Ordnance,,0,1,5.434,4.766,4.8525,5.3517,4.7757,4.7273,88,38,0,20045,144,0</du>
+    <c>
+     <dc>16,Frank,T,Smith,0,4.0745,2.1901,2.147,2.3463,5.2174,2.6894,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7075,3in Ordnance,,0,1,4.7036,5.0085,4.6592,4.7665,4.8027,5.3566,88,37,0,20046,144,0</du>
+    <c>
+     <dc>10,Daniel,,Hughes,0,3.3341,5.1847,4.9244,2.0702,4.8544,3.6275,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8246,3in Ordnance,,0,1,4.7003,5.0665,4.5699,4.9903,4.7148,4.7101,88,37,0,20047,144,0</du>
+    <c>
+     <dc>16,Joseph,W,Mclaren,0,4.5871,4.6604,2.6862,3.9216,4.4385,3.293,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6346,3in Ordnance,,0,1,5.1354,4.9766,4.8095,4.9687,4.6135,5.0964,88,37,0,20048,144,0</du>
+    <c>
+     <dc>15,Thomas,H,Bishop,0,3.8611,3.1004,3.3999,5.2674,2.2966,2.8794,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.9276,3in Ordnance,,0,1,5.1919,4.591,5.3529,4.7215,5.087,4.836,88,38,0,20049,144,0</du>
+    <c>
+     <dc>16,John,W,Gardner,0,3.3382,4.9073,5.9726,4.5171,5.4972,3.6109,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

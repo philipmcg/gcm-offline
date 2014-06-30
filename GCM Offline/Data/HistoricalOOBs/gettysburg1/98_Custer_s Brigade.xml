@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Custer's Brigade,5,1</do>
+   <c>
+    <dc>4,George,A,Custer,0,2,4,3,6,6,6,(9-6)</dc>
+   </c>
+   <u>
+    <du>468,0,5.1786,1st Michigan Cavalry,,0,2,1.3791,0.507,1.0919,1.179,1.0366,1.3363,44,17,0,20468,144,123</du>
+    <c>
+     <dc>6,Theodore,J,Hood,0,5.0781,4.4275,2.6991,2.8625,4.6914,4.1675,</dc>
+    </c>
+   </u>
+   <u>
+    <du>695,0,2.4182,5th Michigan Cavalry,,0,2,0.5695,1.4165,0.6138,1.4172,1.078,0.5247,53,17,0,20469,144,123</du>
+    <c>
+     <dc>5,John,L,Irvin,0,4.4362,2.4311,2.8427,4.3358,3.9119,3.6257,</dc>
+    </c>
+   </u>
+   <u>
+    <du>512,0,1.4058,6th Michigan Cavalry,,0,2,0.5255,1.0485,1.007,0.9681,0.8006,1.2472,53,17,0,20470,144,123</du>
+    <c>
+     <dc>5,William,H,Shelton,0,3.5858,4.4322,5.8249,2.181,5.8491,4.4764,</dc>
+    </c>
+   </u>
+   <u>
+    <du>421,0,1.1387,7th Michigan Cavalry,,0,2,1.1982,0.6359,1.0706,1.4305,1.4282,0.6991,10,17,0,20471,144,123</du>
+    <c>
+     <dc>7,August,A,Mattier,0,3.1983,4.9582,2.1784,5.264,2.2066,2.8981,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Jr's Brigade,5,2</do>
+   <c>
+    <dc>5,John,R,Jr,0,1,4,3,3,3,3,(6-5)</dc>
+   </c>
+   <u>
+    <du>169,0,4.0223,2nd North Carolina Cavalry,,0,2,0.9792,1.3904,0.8963,1.2407,1.2158,1.3809,10,57,0,21068,3,0</du>
+    <c>
+     <dc>8,Daniel,W,Hollis,0,4.967,3.7671,2.0591,5.0927,3.6335,4.0969,</dc>
+    </c>
+   </u>
+   <u>
+    <du>534,0,3.3469,9th Virginia Cavalry,,0,2,1.2611,1.3747,0.6689,0.5658,1.2798,0.6403,10,58,0,21069,3,0</du>
+    <c>
+     <dc>5,Robert,R,Martin,0,2.6036,5.1741,2.7858,4.1359,4.6357,2.654,</dc>
+    </c>
+   </u>
+   <u>
+    <du>266,0,3.3703,10th Virginia Cavalry,,0,2,1.3337,1.3106,1.4927,0.6333,1.1904,0.5607,18,58,0,21070,3,0</du>
+    <c>
+     <dc>6,Thomas,E,Corcoran,0,4.3949,5.9631,2.5399,2.0314,2.4504,4.6501,</dc>
+    </c>
+   </u>
+   <u>
+    <du>332,0,2.0398,13th Virginia Cavalry,,0,2,0.6346,0.9078,0.9706,0.5534,1.1366,1.4107,10,58,0,21071,3,0</du>
+    <c>
+     <dc>6,Jesse,,Compton,0,4.9567,2.7016,2.3904,5.8717,3.249,3.8651,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

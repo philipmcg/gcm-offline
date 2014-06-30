@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Wofford's Brigade,5,2</do>
+   <c>
+    <dc>4,William,T,Wofford,0,3,4,4,4,4,6,(5-0)</dc>
+   </c>
+   <u>
+    <du>337,0,4.4823,16th Georgia,,0,0,0.633,0.7205,0.7079,1.4066,0.7347,1.4708,31,52,0,20640,2,0</du>
+    <c>
+     <dc>6,Robinson,F,Gaines,0,3.9004,5.0435,5.1336,4.3836,4.8849,3.6358,</dc>
+    </c>
+   </u>
+   <u>
+    <du>337,0,6.4605,18th Georgia,,0,0,1.0105,0.6629,0.9706,0.6667,0.5219,1.2812,31,47,0,20641,2,0</du>
+    <c>
+     <dc>6,Matthew,Y,Davenport,0,4.924,5.9216,5.8088,3.2222,5.0542,5.3593,</dc>
+    </c>
+   </u>
+   <u>
+    <du>337,0,4.0947,24th Georgia,,0,0,0.576,0.9128,0.7503,1.0962,1.1122,0.642,31,48,0,20642,2,0</du>
+    <c>
+     <dc>6,James,,Cleek,0,5.0855,5.2394,2.1847,2.1152,3.7032,3.4798,</dc>
+    </c>
+   </u>
+   <u>
+    <du>242,0,4.3195,Cobb's Georgia Legion,,0,0,0.5846,1.0831,0.939,0.6631,0.8375,1.3158,31,49,0,20643,2,0</du>
+    <c>
+     <dc>5,Nathan,H,Carew,0,5.6059,2.0871,5.8389,4.4998,2.9952,3.141,</dc>
+    </c>
+   </u>
+   <u>
+    <du>306,0,3.1631,Phillip's Georgia Legion,,0,0,1.1212,0.9994,1.1588,0.9881,0.5031,0.8356,31,51,0,20644,2,0</du>
+    <c>
+     <dc>6,George,L,Pilcher,0,4.8929,4.5367,3.6557,4.3405,4.8391,5.1338,</dc>
+    </c>
+   </u>
+   <u>
+    <du>263,0,3.24,3rd Georgia Sharpshooter Battalion,,0,0,0.8539,1.2144,0.8367,0.7192,0.5118,0.6879,31,52,0,20645,2,0</du>
+    <c>
+     <dc>8,Dan,H,Strange,0,5.3848,4.8993,2.5472,5.8325,5.6611,4.6498,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

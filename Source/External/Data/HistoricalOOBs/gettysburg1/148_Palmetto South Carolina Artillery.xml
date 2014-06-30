@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Palmetto South Carolina Artillery,5,2</do>
+   <c>
+    <dc>8,Hugh,R,Garden,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.1479,12lb Napoleon,,0,1,1.5119,2.4473,1.6971,2.0744,2.4936,2.0241,78,74,0,20722,4,0</du>
+    <c>
+     <dc>10,James,M,Harris,0,5.7037,2.6194,3.3334,3.2958,4.7819,5.8209,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.5145,10lb Parrott,,0,1,2.1357,1.6565,1.5376,1.9678,1.9764,2.2794,70,76,0,20723,4,0</du>
+    <c>
+     <dc>15,William,N,Street,0,3.6203,3.4797,4.2855,5.4486,5.4739,2.3898,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.829,12lb Napoleon,,0,1,1.5115,2.1971,1.9705,1.7101,1.9002,1.6358,78,75,0,20724,4,0</du>
+    <c>
+     <dc>15,James,W,Gilliland,0,4.4151,2.4923,5.1641,2.1125,5.4473,5.0756,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.226,10lb Parrott,,0,1,2.2906,1.7749,2.3138,2.4098,1.9611,1.9781,70,76,0,20725,4,0</du>
+    <c>
+     <dc>16,Jesse,W,Ward,0,4.4207,4.1237,3.5414,4.8613,4.3812,4.8285,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

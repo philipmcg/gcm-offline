@@ -1,0 +1,16 @@
+~mods
+name,enable
+GCM_Offline,1
+GCM_Offline_MapIcons,1
+GCM_Offline_Flags,1
+GCM_Offline_Menus,1
+GCM_Offline_Terrain4,1
+GCM_Offline_Sounds,1
+GCM_Minimaps,0
+MP_GCM,0
+GCM_Version,0
+GCM_Gameplay,0
+GCM_Gameplay2,0
+GCM_Terrain,0
+GCM_Terrain2,0
+GcmRandomVariants,0

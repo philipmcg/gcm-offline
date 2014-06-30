@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>1st Battery - New York Artillery,5,1</do>
+   <c>
+    <dc>8,Andrew,,Cowan,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.4895,3in Ordnance,,0,1,4.8019,4.6791,5.4927,5.4836,4.7621,4.8735,88,38,0,20301,144,0</du>
+    <c>
+     <dc>10,Lewis,G,Stabler,0,3.9693,4.8858,2.2506,2.3679,2.4749,4.2357,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.3368,3in Ordnance,,0,1,4.6883,4.7447,4.8446,4.9204,5.0685,5.2813,88,37,0,20302,144,0</du>
+    <c>
+     <dc>15,James,W,Henry,0,5.2928,5.1812,3.931,4.809,3.5743,3.0452,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7211,3in Ordnance,,0,1,5.1006,5.3275,5.1751,5.2932,5.0424,5.4241,88,37,0,20303,144,0</du>
+    <c>
+     <dc>15,Hosea,F,Rosecrans,0,3.0267,4.0355,4.5221,3.9061,2.4001,3.7948,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.427,3in Ordnance,,0,1,4.7184,4.8169,4.7866,5.2317,5.0987,4.6549,88,39,0,20304,144,0</du>
+    <c>
+     <dc>16,Erastus,J,Keys,0,5.8387,4.6375,3.1857,4.0237,4.5767,4.6214,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.5409,3in Ordnance,,0,1,5.3565,5.3731,5.0695,5.0542,4.7583,4.6174,88,39,0,20305,144,0</du>
+    <c>
+     <dc>10,Jonas,,Telford,0,5.3545,3.3353,2.9527,2.3848,4.1071,5.9905,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.138,3in Ordnance,,0,1,4.8602,5.0227,5.4092,4.5727,4.9733,4.9961,88,37,0,20306,144,0</du>
+    <c>
+     <dc>16,Joseph,D,Dougherty,0,3.0667,3.6982,3.7172,4.7986,4.7233,2.9236,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

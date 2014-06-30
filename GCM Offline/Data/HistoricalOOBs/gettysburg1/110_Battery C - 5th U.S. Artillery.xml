@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery C - 5th U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,Gulian,V,Weir,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.0693,12lb Napoleon,,0,1,4.9095,4.9788,4.9745,5.1196,4.519,5.0713,79,34,0,20536,144,0</du>
+    <c>
+     <dc>10,John,B,Toomey,0,3.1671,3.4229,2.2202,4.1624,3.7425,5.7103,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.0102,12lb Napoleon,,0,1,5.3413,4.7378,5.3287,4.5981,5.4551,5.3227,79,35,0,20537,144,0</du>
+    <c>
+     <dc>15,Adam,D,Stearns,0,4.0806,3.2436,5.1332,5.5448,2.2939,3.8658,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.6176,12lb Napoleon,,0,1,5.1386,4.8022,5.3975,5.279,5.441,4.7922,79,34,0,20538,144,0</du>
+    <c>
+     <dc>10,Henry,S,Jenkins,0,2.2794,2.4644,2.7636,2.9465,5.7609,2.2625,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.5883,12lb Napoleon,,0,1,4.9854,5.4013,5.4172,4.7997,5.0373,4.6409,79,34,0,20539,144,0</du>
+    <c>
+     <dc>15,John,,Schlabach,0,2.2484,5.8374,3.5917,5.9126,4.368,3.6233,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8318,12lb Napoleon,,0,1,5.3457,5.4073,4.9596,4.8281,4.8238,4.9703,79,35,0,20540,144,0</du>
+    <c>
+     <dc>10,George,,O`Connell,0,5.1172,3.1689,4.2444,3.985,5.1145,3.5446,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4352,12lb Napoleon,,0,1,5.1773,5.0707,4.5876,5.393,4.6776,5.0572,79,35,0,20541,144,0</du>
+    <c>
+     <dc>15,Thomas,M,Shrader,0,4.7781,3.3667,2.7847,3.6255,3.6703,5.0387,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

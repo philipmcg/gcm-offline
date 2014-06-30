@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>McGregor's Virginia Battery,5,2</do>
+   <c>
+    <dc>8,William,M,McGregor,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.9964,12lb Napoleon,,0,1,2.2311,1.9765,2.0214,1.6332,1.6352,2.3683,78,75,0,21087,4,0</du>
+    <c>
+     <dc>10,Warren,E,Stewart,0,4.9616,3.8143,3.1993,3.8447,5.4413,4.9844,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7756,3in Ordnance,,0,1,1.9816,2.2369,2.0461,1.9731,2.2371,1.5432,87,78,0,21088,4,0</du>
+    <c>
+     <dc>15,John,T,Watts,0,2.6919,3.0921,2.7965,3.6987,5.5833,3.118,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,0.7947,12lb Napoleon,,0,1,2.4699,1.6753,2.2059,2.2347,2.0393,1.6298,78,74,0,21089,4,0</du>
+    <c>
+     <dc>10,James,E,Smith,0,4.1996,2.7109,2.7927,5.2095,5.8192,2.3445,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.9285,3in Ordnance,,0,1,2.0241,1.6877,2.1583,2.1165,1.737,1.5618,87,76,0,21090,4,0</du>
+    <c>
+     <dc>15,Hiram,,Wade,0,2.1091,3.5602,2.5955,2.6169,2.0179,5.6502,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

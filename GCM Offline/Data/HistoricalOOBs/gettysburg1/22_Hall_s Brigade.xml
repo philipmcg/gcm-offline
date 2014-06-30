@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Hall's Brigade,5,1</do>
+   <c>
+    <dc>5,Norman,J,Hall,0,4,4,4,4,3,5,(1-2)</dc>
+   </c>
+   <u>
+    <du>188,0,4.4089,19th Massachusetts,,0,0,1.0155,0.5479,1.1909,1.2889,1.3363,1.0569,28,9,0,20086,143,118</du>
+    <c>
+     <dc>8,Edward,A,Rambaugh,0,4.5477,5.3665,5.1389,3.114,2.378,4.048,</dc>
+    </c>
+   </u>
+   <u>
+    <du>274,0,5.47,20th Massachusetts,,0,0,0.9252,1.2653,0.5255,0.536,1.2267,0.8812,5,12,0,20087,143,118</du>
+    <c>
+     <dc>7,Alfred,M,Hornbaker,0,2.556,3.2176,2.5953,4.7123,4.1999,2.7616,</dc>
+    </c>
+   </u>
+   <u>
+    <du>190,0,6.0878,7th Michigan,,0,0,0.8726,0.8682,0.5785,0.6074,1.1911,0.9315,45,13,0,20088,143,124</du>
+    <c>
+     <dc>8,Samuel,W,Chickey,0,3.95,5.243,5.7586,5.4348,4.3154,4.4941,</dc>
+    </c>
+   </u>
+   <u>
+    <du>225,0,4.4748,42nd New York,,0,0,0.789,0.7807,1.2078,1.2913,0.6328,1.3542,28,6,0,20089,143,130</du>
+    <c>
+     <dc>6,Henry,B,Wilson,0,3.8263,4.2441,4.0032,2.7942,4.8097,3.8572,</dc>
+    </c>
+   </u>
+   <u>
+    <du>176,0,2.2886,59th New York,,0,0,0.5577,0.8191,0.7303,0.5997,0.6769,1.1403,28,9,0,20090,143,130</du>
+    <c>
+     <dc>6,Levi,G,Moff,0,5.2774,4.4712,4.6031,5.825,4.7441,2.6321,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery D - 2nd U.S. Artillery,5,1</do>
+   <c>
+    <dc>9,Edward,B,Williston,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.2186,12lb Napoleon,,0,1,4.878,5.4994,4.5009,5.2652,5.4763,4.7258,79,35,0,20325,144,0</du>
+    <c>
+     <dc>10,Hamilton,P,Albright,0,2.6181,4.3975,2.4796,4.1992,5.14,2.7536,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.1746,12lb Napoleon,,0,1,5.4697,5.0462,4.5397,4.7063,5.3627,5.2868,79,36,0,20326,144,0</du>
+    <c>
+     <dc>15,Reuben,A,Cobby,0,3.238,5.6555,5.3726,2.2293,2.1823,3.3799,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.4601,12lb Napoleon,,0,1,4.5698,5.2254,4.8479,5.4316,5.3908,5.0745,79,35,0,20327,144,0</du>
+    <c>
+     <dc>10,David,S,Mitchell,0,3.6939,2.6659,2.438,2.0389,4.7507,4.069,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8466,12lb Napoleon,,0,1,5.0866,5.2625,4.7621,4.6806,5.3652,5.102,79,35,0,20328,144,0</du>
+    <c>
+     <dc>16,Eli,D,Dailey,0,4.5025,2.8453,5.0382,4.2895,4.6778,4.6754,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5461,12lb Napoleon,,0,1,5.3956,5.1487,5.1705,5.4459,4.6125,4.5885,79,36,0,20329,144,0</du>
+    <c>
+     <dc>15,James,V,Shephard,0,3.6997,2.5888,5.6618,2.7878,5.2152,4.9596,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8432,12lb Napoleon,,0,1,5.0385,5.4314,4.6102,4.5828,4.9932,4.9658,79,35,0,20330,144,0</du>
+    <c>
+     <dc>15,Levi,,Kinner,0,5.7358,2.6103,3.0637,4.6877,5.9214,2.2335,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

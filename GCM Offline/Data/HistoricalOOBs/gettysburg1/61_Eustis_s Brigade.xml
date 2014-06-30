@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Eustis's Brigade,5,1</do>
+   <c>
+    <dc>5,Henry,L,Eustis,0,4,4,3,3,3,3,(8-4)</dc>
+   </c>
+   <u>
+    <du>371,0,4.3125,7th Massachusetts,,0,0,1.0509,1.3708,0.724,0.8382,0.695,0.951,5,6,0,20286,143,118</du>
+    <c>
+     <dc>7,Mahlon,C,Limper,0,2.0965,2.7669,5.0498,3.2744,5.3308,2.1349,</dc>
+    </c>
+   </u>
+   <u>
+    <du>416,0,5.053,10th Massachusetts,,0,0,0.5824,0.5746,0.6687,1.0976,1.262,0.5011,28,9,0,20287,143,118</du>
+    <c>
+     <dc>6,Emanuel,G,Brown,0,3.6568,3.4292,3.9142,3.6109,4.4294,5.3708,</dc>
+    </c>
+   </u>
+   <u>
+    <du>639,0,3.2249,37th Massachusetts,,0,0,1.4853,1.4118,0.9749,0.595,1.0318,0.8518,45,12,0,20288,143,118</du>
+    <c>
+     <dc>5,Hiram,,Shillinger,0,2.1668,4.8302,4.0396,4.4074,4.8244,3.4811,</dc>
+    </c>
+   </u>
+   <u>
+    <du>402,0,4.3246,2nd Rhode Island,,0,0,1.0493,0.9927,1.1688,1.3891,1.0179,1.0813,45,13,0,20289,143,134</du>
+    <c>
+     <dc>6,Thomas,,Neisler,0,4.3365,3.0383,2.8298,2.3256,3.5058,3.0053,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Troup Georgia Artillery,5,2</do>
+   <c>
+    <dc>8,Henry,H,Carleton,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.6254,10lb Parrott,,0,1,4.8392,5.2484,5.3351,4.5959,5.4856,4.7998,70,78,0,20658,4,0</du>
+    <c>
+     <dc>10,Hiram,J,Bates,0,2.285,5.0742,4.8198,4.0689,2.3482,4.3176,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7792,12lb Howitzer,,0,1,5.455,4.5455,4.9553,4.6656,5.0358,4.6773,75,75,0,20659,4,0</du>
+    <c>
+     <dc>15,William,,Jarman,0,3.2837,2.0757,2.5767,5.0564,2.2659,3.1593,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8036,10lb Parrott,,0,1,4.5856,4.8417,4.593,5.145,5.407,4.6486,70,76,0,20660,4,0</du>
+    <c>
+     <dc>10,Thomas,B,McCluney,0,3.9781,5.7083,5.8992,2.2683,5.6411,4.3577,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7786,12lb Howitzer,,0,1,5.1771,5.3695,4.8694,5.157,4.8526,4.9702,75,74,0,20661,4,0</du>
+    <c>
+     <dc>15,John,,Moore,0,4.9241,4.9505,4.3521,4.9354,5.5176,4.5681,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

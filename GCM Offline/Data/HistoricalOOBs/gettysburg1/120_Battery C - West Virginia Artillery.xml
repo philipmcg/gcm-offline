@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery C - West Virginia Artillery,5,1</do>
+   <c>
+    <dc>8,Wallace,,Hill,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.2462,10lb Parrott,,0,1,3.953,3.9459,3.8215,3.5493,4.4202,4.3946,71,37,0,20594,144,0</du>
+    <c>
+     <dc>15,Edward,K,Prosser,0,5.1848,3.4975,4.5759,2.1932,5.8625,2.9003,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4669,10lb Parrott,,0,1,3.8731,3.9996,4.0418,4.4814,3.7808,3.9239,71,39,0,20595,144,0</du>
+    <c>
+     <dc>16,John,T,Meyers,0,4.7825,2.4858,4.2549,4.3653,3.1801,5.8103,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.5971,10lb Parrott,,0,1,3.5237,4.3988,4.3594,3.987,4.2725,3.965,71,37,0,20596,144,0</du>
+    <c>
+     <dc>10,Adam,,Mundshower,0,3.9327,3.0625,4.9006,4.1735,5.828,5.5379,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4421,10lb Parrott,,0,1,3.7241,4.4714,4.1328,4.3007,4.4779,4.344,71,37,0,20597,144,0</du>
+    <c>
+     <dc>15,Hiram,,Carter,0,5.3079,5.2066,2.1652,4.1261,5.0335,4.6267,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,13 @@
+<xml>
+<header_unit>tag,state,regt_num,reserve,active,total_k,total_mw,cur_w,cur_missing,w_exp,m_exp,total_missing,total_sent_home,total_kills,total_battles,muster_date,last_men,last_exp,t_recruits,start_men,recruit_limit,gun_missing</header_unit><header_org>name,player,state,num</header_org><header_commander>rank,first,middle,last,ability,command,control,leadership,style,experience</header_commander>
+<army>
+<info>0,0,0,0</info>
+<corps>
+<info>0,0,0,0</info>
+<division>
+<info>New Division,0,0,0</info>
+<commander>4,First,M,Last,4,4,4,4,4,4</commander>
+</division>
+</corps>
+</army>
+</xml>

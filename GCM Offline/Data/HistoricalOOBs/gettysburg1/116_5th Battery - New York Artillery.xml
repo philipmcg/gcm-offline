@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>5th Battery - New York Artillery,5,1</do>
+   <c>
+    <dc>8,Elijah,D,Taft,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.9424,20lb Parrott,,0,1,3.2393,3.4777,2.6087,2.9572,3.3602,3.1652,83,39,0,20570,144,0</du>
+    <c>
+     <dc>10,William,G,Gahagan,0,5.9592,4.4409,3.508,5.0213,4.5212,2.5879,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.3292,20lb Parrott,,0,1,2.7228,2.5094,3.339,2.9244,3.3236,2.8874,83,39,0,20571,144,0</du>
+    <c>
+     <dc>16,Isaac,M,Hite,0,5.2441,3.1477,4.4579,4.8338,2.0689,4.2137,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.4609,20lb Parrott,,0,1,2.7711,3.2837,2.7984,3.4689,3.019,3.4879,83,39,0,20572,144,0</du>
+    <c>
+     <dc>10,John,K,McCall,0,5.9544,2.2583,2.8956,5.5185,4.262,4.5712,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.8437,20lb Parrott,,0,1,3.2183,3.0795,3.2109,2.7744,3.1829,3.3053,83,37,0,20573,144,0</du>
+    <c>
+     <dc>16,Wesley,L,Blanc,0,5.1416,2.671,4.7185,2.837,5.4051,3.5523,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6739,20lb Parrott,,0,1,2.6352,3.1403,3.1523,2.9062,2.5892,3.0293,83,37,0,20574,144,0</du>
+    <c>
+     <dc>10,James,,Barney,0,2.8024,2.1518,5.2212,4.5729,4.8962,4.7928,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.9561,20lb Parrott,,0,1,3.0999,3.1714,2.7958,3.0025,2.8737,3.2333,83,37,0,20575,144,0</du>
+    <c>
+     <dc>16,Samuel,H,Powell,0,5.4736,4.1136,4.7317,5.2018,3.6051,2.0073,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

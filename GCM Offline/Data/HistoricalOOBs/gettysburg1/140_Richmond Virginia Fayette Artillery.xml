@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Richmond Virginia Fayette Artillery,5,2</do>
+   <c>
+    <dc>8,Miles,C,Macon,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.8195,12lb Napoleon,,0,1,5.053,5.0891,5.0572,5.4077,4.71,5.3877,78,74,0,20687,4,0</du>
+    <c>
+     <dc>10,Addison,W,Truss,0,3.2837,4.7863,2.2896,4.4375,3.8347,2.0449,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.5783,10lb Parrott,,0,1,4.756,4.6198,4.7589,5.1641,5.3472,5.0803,70,77,0,20688,4,0</du>
+    <c>
+     <dc>16,Matt,E,Smith,0,2.677,2.5313,3.2484,5.9244,2.1701,4.5746,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.8413,12lb Napoleon,,0,1,5.0934,5.4817,5.3582,4.7861,4.533,4.5899,78,75,0,20689,4,0</du>
+    <c>
+     <dc>15,James,A,McIntosh,0,2.9665,3.9213,3.5759,5.5528,2.0341,2.2154,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.7634,10lb Parrott,,0,1,4.6569,4.6781,5.4846,4.7678,4.5114,4.8128,70,77,0,20690,4,0</du>
+    <c>
+     <dc>16,Richard,E,Carr,0,4.6845,3.6716,3.3649,5.4116,2.2252,5.0763,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

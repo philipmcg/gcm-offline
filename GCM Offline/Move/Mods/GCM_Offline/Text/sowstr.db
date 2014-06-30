@@ -1,0 +1,42 @@
+IDS_Version___Version,Version: $gameversion,  GCM Offline,  6-28-2014
+IDS_GCM_TERRAIN_WOODS_30_20,Woods Cover-30% Move-20%
+IDS_Brigade,Brigade
+IDS_Corps,Corps
+IDS_Army,Army
+IDS_Battery,Battery
+IDS_Staff,Staff
+IDS_Division,Division
+IDS_ARSN_GCM_Musket_0,Rifled Musket
+IDS_ARSN_GCM_Musket_1,Rifled Musket
+IDS_ARSN_GCM_Musket_2,Rifled Musket
+IDS_ARSN_GCM_Musket_3,Rifled Musket
+IDS_ARSN_GCM_Musket_4,Rifled Musket
+IDS_ARSN_GCM_Musket_5,Rifled Musket
+IDS_ARSN_GCM_Musket_6,Rifled Musket
+IDS_ARSN_GCM_Musket_7,Rifled Musket
+IDS_ARSN_GCM_Musket_8,Rifled Musket
+IDS_ARSN_GCM_Musket_9,Rifled Musket
+IDS_ARSN_GCM_Musket_10,Rifled Musket
+IDS_ARSN_GCM_Musket_11,Rifled Musket
+IDS_ARSN_GCM_Musket_12,Rifled Musket
+IDS_ARSN_GCM_Carbine_0,Carbine
+IDS_ARSN_GCM_Carbine_1,Carbine
+IDS_ARSN_GCM_Carbine_2,Carbine
+IDS_ARSN_GCM_Carbine_3,Carbine
+IDS_ARSN_GCM_Carbine_4,Carbine
+IDS_ARSN_GCM_Carbine_5,Carbine
+IDS_ARSN_GCM_Carbine_6,Carbine
+IDS_ARSN_GCM_Carbine_7,Carbine
+IDS_ARSN_GCM_Carbine_8,Carbine
+IDS_ARSN_GCM_Carbine_9,Carbine
+IDS_ARSN_GCM_Carbine_10,Carbine
+IDS_ARSN_GCM_Carbine_11,Carbine
+IDS_ARSN_GCM_Carbine_12,Carbine
+IDS_MAP_ORCHARD2,Orchard
+IDS_MAP_ORCHARD3,Orchard
+IDS_MAP_ORCHARD4,Orchard
+IDS_MAP_FARM,Farm
+IDS_ARSN_MODEL_1861S_SPRINGFIELD_USA_2,Model 1861s Springfield (USA)
+IDS_ARSN_MODEL_1861S_SPRINGFIELD_USA_200,Model 1861s Springfield (USA)
+IDS_ARSN_MODEL_1861S_SPRINGFIELD_USA_2,Model 1861s Springfield (USA)
+IDS_ARSN_OBJECTIVE_GUN,Objective Holder

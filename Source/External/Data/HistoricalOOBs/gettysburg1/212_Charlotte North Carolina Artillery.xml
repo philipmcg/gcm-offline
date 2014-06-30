@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Charlotte North Carolina Artillery,5,2</do>
+   <c>
+    <dc>8,Joseph,,Graham,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.6568,12lb Napoleon,,0,1,5.26,4.5978,5.2631,5.254,4.7634,5.4755,78,75,0,20999,4,0</du>
+    <c>
+     <dc>10,John,B,Russell,0,4.8536,3.4794,2.914,2.9399,5.8251,2.2644,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.213,12lb Howitzer,,0,1,5.0577,4.6759,4.6559,5.1788,4.5568,4.9893,75,75,0,21000,4,0</du>
+    <c>
+     <dc>16,Joseph,R,Christian,0,2.8513,3.5502,3.6496,4.2499,5.2985,2.4156,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.811,12lb Napoleon,,0,1,5.01,5.2364,5.2084,5.1618,4.8433,4.7227,78,75,0,21001,4,0</du>
+    <c>
+     <dc>15,Jerry,B,Slaughter,0,5.1753,4.6209,4.8436,5.4066,4.4059,4.7987,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.6073,12lb Howitzer,,0,1,5.1451,5.2577,4.7572,5.4355,5.277,5.3793,75,73,0,21002,4,0</du>
+    <c>
+     <dc>15,Adam,W,Story,0,3.8709,4.1246,4.1152,3.6549,2.5975,5.0525,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

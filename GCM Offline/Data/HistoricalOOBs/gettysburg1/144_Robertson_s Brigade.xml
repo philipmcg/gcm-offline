@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Robertson's Brigade,5,2</do>
+   <c>
+    <dc>4,Jerome,B,Robertson,0,4,3,1,2,4,6,(4-1)</dc>
+   </c>
+   <u>
+    <du>522,0,4.353,3rd Arkansas,,0,0,1.4544,0.7984,0.6478,0.6704,1.0998,1.0071,6,48,0,20705,2,0</du>
+    <c>
+     <dc>5,Jonas,A,Kelsoe,0,4.8965,3.5249,5.6728,4.3171,4.0688,5.3586,</dc>
+    </c>
+   </u>
+   <u>
+    <du>467,0,6.3652,1st Texas,,0,0,0.6096,1.0562,0.6649,1.4481,1.443,1.4088,31,49,0,20706,2,0</du>
+    <c>
+     <dc>5,Nathaniel,,Slaughter,0,2.9957,5.4512,4.8401,3.7986,4.7555,3.6113,</dc>
+    </c>
+   </u>
+   <u>
+    <du>455,0,6.2991,4th Texas,,0,0,0.6557,1.1345,0.9021,1.496,0.7238,0.7949,41,51,0,20707,2,0</du>
+    <c>
+     <dc>5,James,T,Vinson,0,5.6629,4.0524,2.905,3.4844,3.5332,5.5552,</dc>
+    </c>
+   </u>
+   <u>
+    <du>449,0,5.3069,5th Texas,,0,0,0.8433,1.4682,0.988,1.3589,1.0836,0.5594,31,47,0,20708,2,0</du>
+    <c>
+     <dc>6,Lorenzo,,Pope,0,4.1158,3.9508,5.5687,4.1566,3.03,4.0958,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

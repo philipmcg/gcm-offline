@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>1st Maryland Battery,5,2</do>
+   <c>
+    <dc>8,William,F,Dement,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,4.2541,12lb Napoleon,,0,1,6.002,5.883,5.6651,6.1862,5.5507,5.9005,78,73,0,20821,4,0</du>
+    <c>
+     <dc>10,Jonothan,P,Mann,0,5.0923,2.1074,5.1635,5.8851,4.9648,4.2576,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,5.011,12lb Napoleon,,0,1,5.5634,5.9147,5.6657,5.8024,6.2682,5.5623,78,74,0,20822,4,0</du>
+    <c>
+     <dc>15,John,B,Morrison,0,2.8464,4.3212,3.1131,5.226,5.5153,2.9147,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,4.3324,12lb Napoleon,,0,1,5.8242,6.2055,5.587,6.0754,5.9195,5.6318,78,74,0,20823,4,0</du>
+    <c>
+     <dc>10,Mathew,B,Campbell,0,4.773,3.568,5.4569,2.1963,4.5604,2.6084,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4392,12lb Napoleon,,0,1,6.0008,6.1424,5.9841,5.6222,5.9383,6.2326,78,74,0,20824,4,0</du>
+    <c>
+     <dc>16,Francis,,Robertson,0,4.5439,5.5404,3.1936,5.0261,4.1333,4.7417,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

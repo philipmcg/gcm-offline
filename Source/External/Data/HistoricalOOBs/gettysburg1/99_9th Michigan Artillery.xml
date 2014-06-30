@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>9th Michigan Artillery,5,1</do>
+   <c>
+    <dc>8,Jabez,J,Daniels,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,1.435,3in Ordnance,,0,1,2.3805,2.2328,1.9316,2.3494,1.8338,1.8348,88,38,0,20472,144,0</du>
+    <c>
+     <dc>16,Gilbert,,Shoemacher,0,3.4831,2.0496,3.4637,2.8252,5.8977,3.0753,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.0848,3in Ordnance,,0,1,1.763,2.3936,2.4983,2.2656,2.2225,2.3713,88,37,0,20473,144,0</du>
+    <c>
+     <dc>16,Amos,W,Clark,0,5.3746,2.871,5.1937,2.1622,3.0683,3.7287,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.4318,3in Ordnance,,0,1,1.8573,2.2167,2.4553,2.1703,2.4114,2.4049,88,37,0,20474,144,0</du>
+    <c>
+     <dc>10,Fayette,F,Reed,0,4.5411,2.348,3.9114,3.1384,4.9339,5.8734,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.0996,3in Ordnance,,0,1,1.5094,2.2974,1.9565,2.278,2.1837,1.8361,88,37,0,20475,144,0</du>
+    <c>
+     <dc>15,John,,David,0,2.7908,4.6945,2.0977,5.5979,4.708,4.4472,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.9621,3in Ordnance,,0,1,1.6253,1.7589,1.7951,2.3385,2.3151,1.8137,88,37,0,20476,144,0</du>
+    <c>
+     <dc>10,Thomas,C,Poorbaugh,0,4.8847,2.4144,3.7458,2.2537,2.333,5.0819,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,1.8016,3in Ordnance,,0,1,2.0203,1.7518,2.3622,1.8372,2.0789,2.1859,88,38,0,20477,144,0</du>
+    <c>
+     <dc>16,Harvey,B,Shiply,0,5.6412,4.3456,4.9617,5.0047,3.2006,3.2121,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

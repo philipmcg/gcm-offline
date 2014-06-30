@@ -1,0 +1,51 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Battery D - 1st New York Artillery,5,1</do>
+   <c>
+    <dc>8,George,B,Winslow,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,2.3495,12lb Napoleon,,0,1,4.1832,4.0186,4.4617,3.7989,4.2171,3.5509,79,35,0,20174,144,0</du>
+    <c>
+     <dc>15,John,H,Staub,0,5.7831,4.7736,3.2975,5.1598,5.8906,3.4268,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.6841,12lb Napoleon,,0,1,4.4529,3.9067,3.7689,3.7062,4.2285,3.6281,79,35,0,20175,144,0</du>
+    <c>
+     <dc>16,Henry,F,Wampler,0,3.3368,3.6772,3.6152,2.7944,5.8947,2.6673,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.4,12lb Napoleon,,0,1,4.3172,3.7699,3.8744,4.2306,3.698,3.5847,79,35,0,20176,144,0</du>
+    <c>
+     <dc>15,Jefferson,W,Crum,0,2.2417,5.4285,4.2156,3.6894,3.676,4.1242,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.402,12lb Napoleon,,0,1,4.1124,3.7847,3.8161,4.4671,3.6127,4.4065,79,35,0,20177,144,0</du>
+    <c>
+     <dc>16,Cyrus,G,Freeman,0,4.6813,2.5404,3.8727,5.2048,3.3167,5.3471,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0966,12lb Napoleon,,0,1,4.005,3.9331,3.9889,3.9672,4.2089,3.5694,79,36,0,20178,144,0</du>
+    <c>
+     <dc>15,Benjamin,A,Harcum,0,4.4684,2.361,2.8918,2.2351,2.4379,5.7818,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0239,12lb Napoleon,,0,1,4.4083,3.5257,4.0403,4.4159,3.9823,4.1288,79,36,0,20179,144,0</du>
+    <c>
+     <dc>16,William,,Park,0,4.8733,3.4746,4.932,5.1214,5.8466,5.8387,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

@@ -1,0 +1,25 @@
+// Anything after two forward slashes is a comment.
+// Scenario info.  
+~scenario,type,name,author,map
+scenario,My Scenario,YourNameHere,4_PPT
+
+// Direction is in degrees, counterclockwise from East.  
+// So 0 = East, 90 = North, 180 = West, 270 = South.
+// For sides, 1 should always be defender.
+~sides,id,direction
+1,180,
+2,360,
+
+// Objectives
+~objectives,name,locx,locz,points
+Objective 1,66223,92575,5000
+
+// Army starting locations.  The index doesn't matter. 
+// Divisions will be placed on whatever spots are available for their side.
+// If there are more divisions than spots, multiple divisions will be placed
+// on the same spot. 
+~armies,side,index,locx,locz,
+1,whatever,66452,94637,
+1,whatever,66452,91637,
+2,whatever,65306,63931,
+2,whatever,65306,60931,

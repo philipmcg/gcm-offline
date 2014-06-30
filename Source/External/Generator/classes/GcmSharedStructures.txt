@@ -1,0 +1,348 @@
+
+namespace = GcmShared
+
+casing = no
+
+using
+ System.Xml.Serialization
+
+class-TeamSelection
+  int[] Team1
+  int[] Team2
+  double LevelsRatio
+
+ItemAttributeModel
+  int ItemID
+  string Attribute
+  string Value
+
+ItemAttributeList
+  ItemAttributeModel[] Values
+
+TeamPlayer
+  int Level
+  int PlayerID
+
+PlayerRankInfo
+  int PlayerID
+  string Name
+  int Level
+  int Points
+ 
+BattleListInfo
+  int BattleID
+  byte NumPlayers
+  byte Winner
+  byte Result
+  bool HasScreenshots
+  bool HasReplay
+  short LagPercent
+  short GameMinutes
+  string Map
+  int TotalTroops
+  DateTime? Date
+  
+
+CampaignListInfo
+  int CampaignID
+  int PlayerID
+  string PlayerName
+  int NumBattles
+  int Turn
+  string CampaignName
+  DateTime? LastBattleDate
+
+PlayerListInfo
+  int PlayerID
+  int Level
+  int Points
+  int Balance
+  string Name
+  int Div1
+  int Div2
+  DateTime? LastBattle
+  DateTime? LastLogin
+  Guid FilesVersion
+
+class-PlayerCacheInfo
+  int PlayerID
+  string Name
+  int Div1
+  int Div2
+  int PcSpecsTier
+
+PlayerIDModel
+  int PlayerID
+  string PlayerName
+
+SubmitScreenshotModel
+  int PlayerID
+  string PlayerName
+  string Caption
+  Guid Hash
+  int BattleID
+
+ScreenshotInfo
+  string PlayerName
+  string Hash
+  string Caption
+
+CreateDivisionModel
+  Name Name
+  string State
+  int FactionID
+  int PlayerID
+
+GcmAuthRequest
+  string Username
+  string Password
+  int Version
+
+AuthResult
+  bool Error
+  string ErrorMessage
+  Guid UserID
+  int PlayerID
+  string Username
+  bool IsAdmin
+  bool IsDeveloper
+  int Div1
+  int Div2
+  int PcSpecsTier
+  ItemAttributeList Settings
+  int WabashLevel
+
+RecordBattleModel
+  int BattleID
+  int HostPlayerID
+  int WinningTeam
+  int Result
+
+MinutesOnMap
+  int Minutes
+  string MapID
+
+class-BattleSetup
+  int BattleID
+  List<Division> Divisions
+  List<MinutesOnMap> AvgMinutesOnMap
+
+class-Division
+  int PlayerLevel
+  int PlayerID
+  int DivisionID
+  int Side
+  int FactionID
+  Guid UserID
+  string UserName
+  Name CharacterName
+  int RD_Men_Preference
+  int RD_Guns_Preference
+  int CD_Regts_Preference
+  int CD_Men_Preference
+  int CD_Guns_Preference
+  int RD_Men
+  int RD_Guns
+  int CD_Men
+  int CD_Guns
+  int CD_Regts_Rank
+  int CD_Regts_Rank_Modified
+  int CD_Men_Rank
+  int CD_Guns_Rank
+  int CD_Guns_Penalty
+  string DivisionXmlPath
+  int PlayerRank
+  int PrefHighCommand
+  int PrefCavalry
+  Guid FilesVersion
+  Guid LastRealBattleKey
+  List<string> PlayerOrders
+
+class-BattleResults
+  DateTime DateFinished
+  int WinningTeam
+  int BattleID
+  OOBType OOBType
+  List<SideReport> SideReports
+
+class-DivisionReport
+  int PlayerID
+  double TroopsWeight
+  int PlayerLevel
+  string PlayerName
+  int FactionID
+  int DivisionID
+  int TotalInflicted
+  int TotalCasualties
+  int TotalWounded
+  int TotalMissing
+  int TotalKilled
+  int TotalEngaged
+  int TotalStrength
+  double AverageExperienceOfInflictedCasualties
+  double AverageExperienceOfCasualties
+
+class-SideReport
+  string SideName
+  int FactionID
+  int TotalInflicted
+  int TotalCasualties
+  int TotalWounded
+  int TotalMissing
+  int TotalKilled
+  int TotalEngaged
+  int TotalStrength
+  double AverageExperienceOfInflictedCasualties
+  double AverageExperienceOfCasualties
+  List<DivisionReport> DivisionReports
+
+PrepareForBattleModel
+  int BattleID
+  int HostPlayerID
+  BattleTypes Type
+  bool OverwriteBattles
+
+PrepareForBattleResponse
+  bool Success
+  string ErrorMessage
+
+CampaignInfo
+  BattleListInfo[] BattleList
+  object Campaign
+
+RegimentListing
+  int Men
+  int RegimentNumber
+  string State
+  int ID
+  string Commander
+  int OwnerID
+  bool OwnerIsDivision
+  int NumEngagements
+
+FilesVersionCheck
+  int PlayerID
+  Guid FilesVersion
+
+SpCampaignTurn
+  int DivisionID
+  int TurnID
+
+SpCampaignBattle
+  int BattleID
+  int PlayerFactionID
+  bool CustomBattleSettings
+
+SpCampaignChooseSides
+  DivisionChooseSidesInfo[] Divisions
+  int HostID
+
+// Information needed for choosing sides for a division
+DivisionChooseSidesInfo
+  int DivisionID
+  int FactionID
+  string PlayerName
+  string DivisionName
+
+
+class-SpCampaignStatus
+  bool Valid
+  CampaignStatus Action
+  SpCampaignBattle Battle
+  SpCampaignTurn Turn
+  SpCampaignChooseSides ChooseSides
+
+CreateSpCampaignBattleModel
+  ContinueSpCampaignRequest Request
+  List<int> Divisions
+
+ContinueSpCampaignRequest
+  int PlayerID
+  int CampaignID
+
+class-CreateSpCampaignModel
+  string Name
+  CreateDivisionModel PlayerDivision
+
+// for website
+DetailedInfoListModel
+  int ID
+  bool UnitsHaveHistory
+  bool ShowManagementOptions
+  IEnumerable<Military.Organization> Organizations
+
+class-BulletinModel
+  string Name
+  string Key
+  bool Authenticated
+  int PlayerID
+
+GetListOfPlayersModel
+  int BattleID
+  bool IsRanked
+
+class-SideState
+  List<string> Players
+  int Score
+  int Men
+  int Casualties
+  int Inflicted
+  int Side
+
+class-BattleState
+  int BattleID
+  int Time
+  int PlayerReporting
+  DateTime TimeRecorded
+  DateTime TimeWrittenTo
+  List<SideState> Sides
+  int NumPlayers
+  bool IsSingleplayer
+  string Host
+  string Map
+  DateTime BattleStarted
+
+class-PlayerLag
+  int PlayerID
+  int LagFactor
+  int AvgLagFactor
+  int NumBattles
+  DateTime LastBattleDate
+  string Name
+
+BattleTimeInfo
+  double LagFactor
+  int GameSeconds
+  DateTime RealStarted
+  DateTime RealFinished
+  int RealSeconds
+
+CreateBattleFromLobbyRequest
+  int HostPlayerID
+  int LastBattlePlayersHash
+
+CreateBattleFromLobbyResponse
+  int HostPlayerID
+  int BattleID
+  bool Error
+  string ErrorMessage
+  int PlayersHash
+
+
+class-PlayerDrop
+  string Name
+  int GameSeconds
+
+class-SowgbLogInfo
+  List<string> MapLoaders
+  List<PlayerDrop> PlayerDrops
+
+class-ChangePlayerSettingRequest
+  int PlayerID
+  string Name
+  string Value
+
+class-ChangePlayerSettingResponse
+  int PlayerID
+  bool Success
+  ItemAttributeList Settings

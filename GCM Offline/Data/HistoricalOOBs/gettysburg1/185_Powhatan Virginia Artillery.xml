@@ -1,0 +1,39 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Powhatan Virginia Artillery,5,2</do>
+   <c>
+    <dc>9,John,M,Cunningham,0,3,3,3,3,3,3,(10-7)</dc>
+   </c>
+   <u>
+    <du>15,0,3.4125,3in Ordnance,,0,1,3.5628,4.451,3.9663,3.6501,4.0669,4.4804,87,78,0,20883,4,0</du>
+    <c>
+     <dc>10,Philip,A,Nance,0,3.8398,5.35,3.6558,5.3258,5.9857,4.7802,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.1697,3in Ordnance,,0,1,4.3927,4.4772,3.9872,4.4735,4.3829,3.5819,87,78,0,20884,4,0</du>
+    <c>
+     <dc>16,Robert,G,Major,0,3.8785,2.2555,5.423,4.9547,4.1621,5.0114,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,2.7461,3in Ordnance,,0,1,3.7478,3.6761,3.5918,4.4046,4.0422,4.4557,87,78,0,20885,4,0</du>
+    <c>
+     <dc>15,David,R,Lovins,0,5.2645,3.2008,5.6543,2.0137,4.0702,2.1157,</dc>
+    </c>
+   </u>
+   <u>
+    <du>15,0,3.0588,3in Ordnance,,0,1,3.5485,4.3774,3.5872,3.6705,3.6813,3.6457,87,78,0,20886,4,0</du>
+    <c>
+     <dc>16,Edward,H,Pruett,0,5.1259,3.1062,4.405,2.3546,3.979,5.4474,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

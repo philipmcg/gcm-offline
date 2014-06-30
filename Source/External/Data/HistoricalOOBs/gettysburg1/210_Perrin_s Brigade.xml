@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Perrin's Brigade,5,2</do>
+   <c>
+    <dc>5,Abner,M,Perrin,0,2,6,5,5,6,6,(0-5)</dc>
+   </c>
+   <u>
+    <du>364,0,6.0101,1st South Carolina,,0,0,1.1453,0.5785,0.8845,1.0298,0.9962,1.0473,26,52,0,20990,2,0</du>
+    <c>
+     <dc>7,John,,Paxton,0,3.783,5.863,4.0398,4.7766,2.3795,3.2971,</dc>
+    </c>
+   </u>
+   <u>
+    <du>404,0,5.4739,1st South Carolina Rifles,,0,0,0.8989,0.7078,1.3095,1.4921,0.8399,0.9701,41,52,0,20991,2,0</du>
+    <c>
+     <dc>6,Benjamin,,Woodell,0,4.8465,4.7142,4.462,2.3036,3.0364,2.5619,</dc>
+    </c>
+   </u>
+   <u>
+    <du>404,0,5.0386,12th South Carolina,,0,0,0.9727,0.5685,0.6975,1.2568,1.49,0.5602,5,52,0,20992,2,0</du>
+    <c>
+     <dc>6,Young,L,Shell,0,2.7997,5.7677,4.1115,3.7414,5.6797,3.0753,</dc>
+    </c>
+   </u>
+   <u>
+    <du>429,0,5.2049,13th South Carolina,,0,0,1.1715,1.3652,0.9256,0.8583,0.711,0.7044,37,52,0,20993,2,0</du>
+    <c>
+     <dc>5,William,H,Ferguson,0,2.9197,2.1447,3.1664,2.2785,2.7351,2.4707,</dc>
+    </c>
+   </u>
+   <u>
+    <du>469,0,5.4279,14th South Carolina,,0,0,0.858,1.478,1.0267,0.5101,1.3247,0.7784,5,52,0,20994,2,0</du>
+    <c>
+     <dc>7,Miles,E,Lohmund,0,2.5622,3.7414,3.1761,2.4067,3.4865,2.7969,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>

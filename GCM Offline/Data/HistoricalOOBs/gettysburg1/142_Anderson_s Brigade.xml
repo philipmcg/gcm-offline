@@ -1,0 +1,45 @@
+﻿<xml>
+ <mil>
+  <o>
+   <do>Anderson's Brigade,5,2</do>
+   <c>
+    <dc>4,George,T,Anderson,0,7,2,2,2,5,3,(0-1)</dc>
+   </c>
+   <u>
+    <du>373,0,6.4095,7th Georgia,,0,0,1.1636,1.3276,0.8489,0.7275,0.7706,0.9279,37,47,0,20695,2,0</du>
+    <c>
+     <dc>6,Jas,L,Erwin,0,3.7347,4.113,5.6389,5.2685,5.8401,5.1326,</dc>
+    </c>
+   </u>
+   <u>
+    <du>346,0,5.0253,8th Georgia,,0,0,1.4037,0.8808,1.1533,0.9707,0.918,1.1494,5,48,0,20696,2,0</du>
+    <c>
+     <dc>6,James,B,Bomar,0,2.6849,3.7528,2.7504,4.6081,3.0597,2.3085,</dc>
+    </c>
+   </u>
+   <u>
+    <du>376,0,6.3892,9th Georgia,,0,0,0.938,1.3769,0.5729,1.3055,1.1093,0.5745,5,49,0,20697,2,0</du>
+    <c>
+     <dc>6,George,M,Mayfield,0,2.7511,4.7638,3.1341,2.8936,2.4885,3.5135,</dc>
+    </c>
+   </u>
+   <u>
+    <du>344,0,5.2874,11th Georgia,,0,0,1.05,0.6759,0.567,1.0926,1.3053,0.8862,31,51,0,20698,2,0</du>
+    <c>
+     <dc>8,Enoch,C,Morton,0,4.6602,3.5367,2.4952,3.0078,2.5588,4.6694,</dc>
+    </c>
+   </u>
+   <u>
+    <du>570,0,1.3441,59th Georgia,,0,0,0.7855,0.8085,0.7583,1.0651,1.3081,0.6754,5,52,0,20699,2,0</du>
+    <c>
+     <dc>5,James,R,Sheror,0,5.5017,2.5444,2.9292,3.4018,2.795,2.4257,</dc>
+    </c>
+   </u>
+  </o>
+ </mil>
+ <head>
+  <hdo>name,level,side</hdo>
+  <hdc>rank,fname,mname,lname,engagements,exp,ability,command,control,leadership,style,portrait</hdc>
+  <hdu>men,engagements,exp,name,state,regiment_number,type,marksmanship,close,open,edged,firearm,horsemanship,weapon_id,class_id,active,id,flag1,flag2</hdu>
+ </head>
+</xml>
